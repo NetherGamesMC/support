@@ -1,6 +1,6 @@
 # Credits and Tiers
 
-::: info
+::: info PLEASE NOTE
 The tiers season has reset as of the 1st of July 2023
 :::
 
@@ -75,4 +75,41 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 * Pets: companion, zombie, creeper, skeleton, horse, elephant, sheep, iron golem, snow golem, chicken, ocelot, pig, wolf
 * Red nametag
 * Dark red Discord colour
+
+## Allocation of credits
+
+### Bedwars
+
+| Mode    | Bed Broken | Final Kill | Win |
+|---------|------------|------------|-----|
+| Solos   | 5          | 2          | 7   |
+| Doubles | 7          | 3          | 9   |
+| Squads  | 7          | 3          | 11  |
+
+### Skywars
+
+| Mode    | Kill | Win |
+|---------|------|-----|
+| Solos   | 3    | 5   |
+| Doubles | 4    | 7   |
+| 1v1     | 1    | 2   |
+| 2v2     | 1    | 3   |
+
+### The Bridge
+
+| Mode    | Goal | Regular Win | Perfect Win |
+|---------|------|-------------|-------------|
+| Solos   | 1    | 2           | 5           |
+| Doubles | 2    | 4           | 8           |
+
+### Duels
+
+| Mode    | Win |
+|---------|-----|
+| Solos   | 2   |
+| Doubles | 3   |
+
+### Conquests
+
+
 
