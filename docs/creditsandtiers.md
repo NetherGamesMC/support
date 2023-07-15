@@ -115,7 +115,7 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 |------|------|-----|
 | Mega | 8    | 5   |
 
-## Murder Mystery: Classic
+### Murder Mystery: Classic
 
 | Role         | You cause win | Others cause win |
 |--------------|---------------|------------------|
@@ -123,7 +123,7 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 | As detective | 11            | N/A              |
 | As murderer  | 10            | 8                |
 
-## Murder Mystery: Infection
+### Murder Mystery: Infection
 
 | Role              | Win |
 |-------------------|-----|
@@ -131,21 +131,21 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 | As infected       | 4   |
 | As non-infected   | 11  |
 
-## Survival Games
+### Survival Games
 
 | Mode     | Kill | Win |
 |----------|------|-----|
 | Normal   | 2    | 9   |
 | Hardcore | 3    | 11  |
 
-## UHC
+### UHC
 
 | Mode    | Kill | Win |
 |---------|------|-----|
 | Solos   | 5    | 8   |
 | Doubles | 7    | 10  |
 
-## Arcade
+### Arcade
 
 | Mode       | Goal | Round Victory | Win |
 |------------|------|---------------|-----|
