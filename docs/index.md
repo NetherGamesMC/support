@@ -3,13 +3,13 @@
 layout: home
 
 hero:
-  name: "NetherGames Support"
-  text: "Support page for the NetherGamesMC bedrock server"
-  tagline: My great project tagline
+  name: "NetherGames Network"
+  text: "Helpdesk"
+  tagline: Find information and support about the network
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Credits and Tiers
+      link: /creditsandtiers
     - theme: alt
       text: API Examples
       link: /api-examples
