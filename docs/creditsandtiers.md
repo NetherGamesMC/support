@@ -111,5 +111,43 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 
 ### Conquests
 
+| Mode | Flag | Win |
+|------|------|-----|
+| Mega | 8    | 5   |
 
+## Murder Mystery: Classic
 
+| Role         | You cause win | Others cause win |
+|--------------|---------------|------------------|
+| As innocent  | 13            | 8                |
+| As detective | 11            | N/A              |
+| As murderer  | 10            | 8                |
+
+## Murder Mystery: Infection
+
+| Role              | Win |
+|-------------------|-----|
+| As alpha infected | 5   |
+| As infected       | 4   |
+| As non-infected   | 11  |
+
+## Survival Games
+
+| Mode     | Kill | Win |
+|----------|------|-----|
+| Normal   | 2    | 9   |
+| Hardcore | 3    | 11  |
+
+## UHC
+
+| Mode    | Kill | Win |
+|---------|------|-----|
+| Solos   | 5    | 8   |
+| Doubles | 7    | 10  |
+
+## Arcade
+
+| Mode       | Goal | Round Victory | Win |
+|------------|------|---------------|-----|
+| Soccer     | 1    | N/A           | 4   |
+| Momma Says | N/A  | 2             | 5   |
