@@ -1,6 +1,6 @@
 # Support Helpdesk
 
-This is the codebase for the NetherGames Network helpdesk. The helpdesk can be modified or added to by anyone who thinks it can be improved (wether you're a staff member or a member of the community!).
+This is the codebase for the NetherGames Network helpdesk. The helpdesk can be modified or added to by anyone who thinks it can be improved (whether you're a staff member or a member of the community!).
 
 ## Creating a new helpdesk page
 
@@ -13,6 +13,7 @@ Once you've create a new file. You can start adding information. Remember that y
 Please aim to keep the formating style consistent with all other pages on the helpdesk.
 
 After you've filled out the new page, submit the pull request and it will be reviewed by an Admin.
+
 Note to admin: When approving the pull request, you must add a reference for the new page at index.md
 
 ## Updating an existing helpdesk page
