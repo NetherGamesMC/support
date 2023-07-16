@@ -12,7 +12,7 @@ You can apply for a YouTube rank by following these steps:
 4. Follow the steps to link your Discord & YouTube account
 5. Fill out the details required to make the application
 
-Once submitted, you will receive a response within 7 days to your email address registered on your Xbox account. You can also check the status of your appeal anytime by viewing your submissions at [ngmc.co/request](https://ngmc.co/request).
+Once submitted, you will receive a response within 7 days to your email address registered on your Xbox account. You can also check the status of your application anytime by viewing your submissions at [ngmc.co/request](https://ngmc.co/request).
 
 ::: warning PLEASE NOTE
 Do not message staff asking about the status of your application while it is still pending. If your application has passed 7 days without a response, please contact us through Modmail on our Discord server, or through livechat at the bottom of [ngmc.co/request](https://ngmc.co/request).
