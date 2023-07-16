@@ -22,10 +22,10 @@ You can update any existing helpdesk page, just click on the edit button in the 
 
 ## Guidelines for published articles
 
-Grammar/spelling
+**Grammar/spelling**
 * Spelling and grammar must follow UK English (if you accidentally use lesser-value, American English, don't worry, we'll fix it for you!)
 
-Formatting
+**Formatting**
 * Titles use uppercase for important words. E.g: `Applying for Staff` `Appealing a Punishment`
 * Titles should ideally use `ing` conjugations of verbs. E.g `Applying for Staff` is better than `How to Apply for Staff`
 * Titles and links match. E.g `# Applying for Staff` header must be on the file called `applying-for-staff.md` (exception is that `&` is substituted for `and`)
@@ -33,9 +33,9 @@ Formatting
 * Numbered & bullet point lists do not have full stops at the end
 * Info boxes always have full stops at the end
 * Links such as `ngmc.co/request` should always be hyperlinked like `[ngmc.co/request](https://ngmc.co/request)`
-* Infox box titles must be in FULL CAPS
+* Infox box titles must be in `FULL CAPS`
 
-Article style
+**Article style**
 * Articles should try to provide steps on a topic (even if it is easy), rather than just linking to another page. For example, the applying for staff article explains the steps of applying for staff on the portal, rather than just saying to `go to ngmc.co/requests`
 
 
