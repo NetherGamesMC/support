@@ -5,24 +5,24 @@ layout: home
 hero:
   name: "NetherGames Network"
   text: "Helpdesk"
-  tagline: Find information and support about the network
+  tagline: Select from our articles below
   actions:
-    - theme: brand
+    - theme: alt
       text: Credits & Tiers
       link: /credits-and-tiers
-    - theme: brand
+    - theme: alt
       text: Ranks & Refunds Policy
       link: /ranks-and-refunds-policy
-    - theme: brand
+    - theme: alt
       text: Allowed Modifications
       link: /allowed-modifications
-    - theme: brand
+    - theme: alt
       text: Earning Cosmetic Crate Keys
       link: /earning-cosmetic-crate-keys
-    - theme: brand
+    - theme: alt
       text: Guilds System
       link: /guilds-system
-    - theme: brand
+    - theme: alt
       text: Friends System
       link: /friends-system
 
