@@ -13,6 +13,9 @@ hero:
     - theme: brand
       text: Ranks & Refunds Policy
       link: /ranks-and-refunds-policy
+    - theme: brand
+      text: Allowed Modifications
+      link: /allowed-modifications
 
 features:
   - title: Contact support
