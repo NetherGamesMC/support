@@ -1,6 +1,6 @@
 # Allowed Modifications
 
-::: UNSURE IF A MODFICATION IS ALLOWED OR PUNISHABLE?
+::: info UNSURE IF A MODFICATION IS ALLOWED OR PUNISHABLE?
 Contact our staff team at ngmc.co/lc or through Modmail on our Discord server at ngmc.co/discord
 :::
 
