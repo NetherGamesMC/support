@@ -1,6 +1,8 @@
+# Ranks & Refunds Policy
+
 The NETHERGAMES NETWORK ("NetherGames", "we", "us", "our") provides an online store website - store.nethergames.org ("Store") - for its users to purchase products and its associated advantages to use. By using the Store, you are agreeing to this Policy. We have developed this Policy to outline the terms and conditions regarding these products and our policy on refunds.
 
-# Rank Policy
+## Rank Policy
 
 By purchasing ranks from us through the Store, you are purchasing access of control to use virtual items and certain features/privileges on Minecraft servers of our choice. The virtual items are not supplied by us, but by Mojang AB ("Mojang"), the developer of the Minecraft Bedrock Edition game. When you pay to purchase a rank and its associated perks, you are paying the NetherGames Network, not Mojang. Furthermore, we are not affiliated with Mojang or its owning company Microsoft Corporation in any way.
 
@@ -12,7 +14,7 @@ If your rank has been removed from your account without reason, you must provide
 
 If a rank or stats transfer token has been purchased, there must be sufficient evidence linking both your new and old accounts for your account data to transfer. Due to privacy & security reasons we cannot transfer account data between usernames if we cannot establish a link between both accounts in our system. In this case, you may be offered the opportunity to prove your account ownership.
 
-# Refund Policy
+## Refund Policy
 
 We provide access to playing on all our Minecraft servers free of charge. We may limit the amount of privileges normal players have, and grant extra privileges to players who purchase a rank. Once you have purchased a rank, it is yours and your order cannot be reversed. We do not offer refunds for change of mind. If you have violated our rules, terms & conditions or policies, that does not entitle you to a refund either, as you agree to this statement and our outlined rules & policies when you use our services.
 
