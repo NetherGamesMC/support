@@ -5,7 +5,7 @@ To buy a rank, open the NetherGames Store.
 Please choose one of the ranks above to view its price, perks, and eligibility.
 
 ::: info PLEASE NOTE
-If you already own Ultra or Emerald, upgrading your rank to a higher one is discounted so that you would pay the same price you would've if you bougth that higher rank orginally.
+If you already own Ultra or Emerald, upgrading your rank to a higher one is discounted so that you would pay the same price you would've if you bought that higher rank orginally.
 :::
 
 You can either buy the rank for yourself or create a gift code to be used by other players.
