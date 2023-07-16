@@ -17,5 +17,5 @@ In order to join NetherGames via console (Xbox or Playstation) please download t
 3. Tap "Play" on the mainscreen
 4. Tap "Servers" on the top-right
 5. Tap "Add Server" in the top-middle
-6. Add in our server addresss **play.nethergames.org** and leave the port as default, **19123**
+6. Add in our server address **play.nethergames.org** and leave the port as default, **19123**
 7. Hit play at the bottom-left!
