@@ -45,18 +45,18 @@ Crisp IM SARL ("Crisp") is our support service operator. More information regard
 * Your IP address at the time of purchase
 * Your payment/transaction ID
 
-Your bank account or credit card details are not passed to our servers or saved by us at any time. We may log your personal information (name, email, address, and IP) for a dispute or chargeback should you initiate one.
+**Your bank account or credit card details are not passed to our servers or saved by us at any time. We may log your personal information (name, email, address, and IP) for a dispute or chargeback should you initiate one.**
 
-When logging in to our web portals through our authentication service, the following information is collected from Xbox Live for authentication only:
+**When logging in to our web portals through our authentication service, the following information is collected from Xbox Live for authentication only:**
 * Your Xbox Live Gamertag (in-game username)
 * Your XUID (unique Xbox Live account identifier)
 * Your email address
 
-When verifying your Discord account through the account portal (portal.nethergames.org), the following information is collected from Discord for background checks only:
+**When verifying your Discord account through the account portal (portal.nethergames.org), the following information is collected from Discord for background checks only:**
 * Your Discord account ID (username & discriminator)
 * Linked email address and email verification status
 
-When applying for a YouTube channel rank through the portal, the following information is collected from YouTube for background checks only:
+**When applying for a YouTube channel rank through the portal, the following information is collected from YouTube for background checks only:**
 * Your YouTube channel ID
 * Hidden subscriber status
 * Subscriber count
