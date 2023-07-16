@@ -25,6 +25,21 @@ hero:
     - theme: alt
       text: Friends System
       link: /friends-system
+    - theme: alt
+      text: Anti-cheat
+      link: /anti-cheat
+    - theme: alt
+      text: API Documentation & Usage
+      link: /api-documentation-and-usage
+    - theme: alt
+      text: Appealing a Punishment
+      link: /appealing-a-punishment
+    - theme: alt
+      text: Applying for a YouTube rank
+      link: /applying-for-a-youtube-rank
+    - theme: alt
+      text: Applying for Staff
+      link: /applying-for-staff
 
 features:
   - title: Contact support
