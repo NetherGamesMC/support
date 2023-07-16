@@ -8,5 +8,5 @@ You can cancel a Titan subscription by following these steps:
 4. Press the "Cancel" button on your subscription
 
 ::: info TROUBLES?
-We've got you covered—submit a "Billing Issue" request at https://ngmc.co/request.
+We've got you covered—submit a "Billing Issue" request at [ngmc.co/request](https://ngmc.co/request).
 :::
