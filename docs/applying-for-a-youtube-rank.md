@@ -2,6 +2,10 @@
 
 The YouTube rank grants content creators a special rank with all Legend rank perks, including custom nickname permissions. We will review your content when applying to ensure your channel meets the requirements.
 
+::: tip DID YOU KNOW?
+If you're interested in using our brand assets in your video, we have a media kit available for download. Check it out [here](https://ngmc.co/media).
+:::
+
 ## Steps to apply
 
 You can apply for a YouTube rank by following these steps:
@@ -37,7 +41,3 @@ Please note YouTube channels that are predominantly focused on YouTube Shorts wi
 :::
 
 Your channel must continue to exist while you hold the rank, and your channel must produce Bedrock Edition content. You cannot apply for the rank, then delete your channel later and still keep the rank. YouTube ranks are issued and revoked at our discretion. You will get an email notification if your application status changes.
-
-::: tip DID YOU KNOW?
-If you're interested in using our brand assets in your video, we have a media kit available for download. Check it out [here](https://ngmc.co/media).
-:::
