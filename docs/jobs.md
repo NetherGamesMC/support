@@ -122,7 +122,7 @@ We will not provide training or necessary equipment (i.e., a computer, software 
 
 **C# Developer —** Got experience in developing C# applications? Put your skills to the test on a launcher and DLL injector—sufficient C# experience is required.
 
-Frontend Developer—The role is for applicants interested in engineering web interfaces. Prior experience is necessary.
+**Frontend Developer —** The role is for applicants interested in engineering web interfaces. Prior experience is necessary.
 
 [Click here to apply](https://ngmc.co/request)
 
