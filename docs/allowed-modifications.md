@@ -12,11 +12,11 @@ Automating gameplay functions (i.e., key-mapper, automatic sprint, aim assisting
 
 The following categories of modifications are allowed:
 
-* Aesthetic & Cosmetics
+* **Aesthetic & Cosmetics**
 
   Changing the look of the Minecraft game - block and item textures, shaders, HUD, etc. without changing the properties or nature of such objects or displaying extra information relating to gameplay. For example, you may not change a solid block like a stone into a transparent block like glass or add an indicator to the nearest player.
 
-* Brightness & Lighting
+* **Brightness & Lighting**
 
   Modifications that allow you to see in the dark, such as Fullbright, are permitted. These modifications, however, should not interfere with in-game effects. For example, you should not be able to see your surroundings or a more extensive range of blocks while suffering from blindness or mining fatigue effects.
 
