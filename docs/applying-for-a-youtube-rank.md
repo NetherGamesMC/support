@@ -1,4 +1,4 @@
-# Applying for a YouTube rank
+# Applying for a YouTube Rank
 
 The YouTube rank grants content creators a special rank with all Legend rank perks, including custom nickname permissions. We will review your content when applying to ensure your channel meets the requirements.
 
