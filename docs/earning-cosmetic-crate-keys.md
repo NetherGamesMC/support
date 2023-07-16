@@ -10,6 +10,6 @@ You can earn keys in any game mode (except on Creative, Skyblock, and Factions).
 
 If it's your lucky day, we will notify you of your winnings in the Experience Summary message sent after you win a game.
 
-![Image of a crate key won in the Experience Summary](cratekey.png)
+![Image of a crate key won in the Experience Summary](A9C5C0C2-C5F2-4FE0-85CA-D335A33B0E3D.png)
 
 To redeem your keys, find the chest in the lobby and click on it to claim your prize!
