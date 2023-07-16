@@ -1,7 +1,7 @@
 # Credits and Tiers
 
 ::: info PLEASE NOTE
-The tiers season has reset as of the 1st of July 2023
+The tiers season has reset as of the 1st of July 2023.
 :::
 
 The credits and tiers are a yearly reward system on NetherGames with each season running from July and finishing in June. The tiers are designed to be an incentive to players, offering them perks without having to purchase a rank.
