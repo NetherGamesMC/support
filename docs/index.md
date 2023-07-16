@@ -16,6 +16,12 @@ hero:
     - theme: brand
       text: Allowed Modifications
       link: /allowed-modifications
+    - theme: brand
+      text: Guilds System
+      link: /guilds-system
+    - theme: brand
+      text: Friends System
+      link: /friends-system
 
 features:
   - title: Contact support
