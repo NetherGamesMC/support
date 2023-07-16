@@ -1,6 +1,6 @@
 # GDPR Data Erasure Requests
 
-Users from the EU have a right to erase their data per the GDPR (General Data Protection Regulation)
+Users from the EU have a right to erase their data per the GDPR (General Data Protection Regulation).
 
 ## Submitting Erasure Requests
 
