@@ -28,10 +28,10 @@ hero:
 
 features:
   - title: Contact support
-    details: You can contact us through ngmc.co/lc or through Modmail on our Discord server.
+    details: You can contact us through [ngmc.co/lc](https://ngmc.co/lc) or through Modmail on our Discord server.
   - title: Feedback or bugs
-    details: You can let us know of your feedback or report any bugs through our Discord server at ngmc.co/discord
+    details: You can let us know of your feedback or report any bugs through our Discord server at [ngmc.co/discord](https://ngmc.co/discord)
   - title: Report players, apply for staff, appeal punishments
-    details: You can do all this by creating a ticket at ngmc.co/request
+    details: You can do all this by creating a ticket at [ngmc.co/request](https://ngmc.co/request)
 ---
 
