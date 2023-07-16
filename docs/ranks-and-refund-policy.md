@@ -15,8 +15,9 @@ If a rank or stats transfer token has been purchased, there must be sufficient e
 # Refund Policy
 
 We provide access to playing on all our Minecraft servers free of charge. We may limit the amount of privileges normal players have, and grant extra privileges to players who purchase a rank. Once you have purchased a rank, it is yours and your order cannot be reversed. We do not offer refunds for change of mind. If you have violated our rules, terms & conditions or policies, that does not entitle you to a refund either, as you agree to this statement and our outlined rules & policies when you use our services.
-****
+
 Ranks are not pay-to-win on our servers, nor do they exempt you from any warning or punishment issued by our staff members. If you are dissatisfied with your rank, we do not offer a refund. Filing a chargeback/dispute request with your credit/debit card provider or PayPal will result in you being permanently banned from all our services and your rank removed. Profits from ranks are used to support service maintenance cost, and we hope that by giving privileges with ranks, you will buy them and help us maintain our services. We try to explain how the rank will benefit you, but these are subject to change at anytime, due to us redeveloping old games and developing new features/games.
 
 **IF YOU LIVE IN AUSTRALIA:** Our goods come with guarantees that cannot be excluded under the Australian Consumer Law. You are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage. You are also entitled to have the goods repaired or replaced if the goods fail to be of acceptable quality and the failure does not amount to a major failure.
+
 **IF YOU LIVE OUTSIDE AUSTRALIA:** We will comply with all relevant state jurisdicition regarding consumer law if we choose to operate in that state or country.
