@@ -17,6 +17,9 @@ hero:
       text: Allowed Modifications
       link: /allowed-modifications
     - theme: brand
+      text: Earning Cosmetic Crate Keys
+      link: /earning-cosmetic-crate-keys
+    - theme: brand
       text: Guilds System
       link: /guilds-system
     - theme: brand
