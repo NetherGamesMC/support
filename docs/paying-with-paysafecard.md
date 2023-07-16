@@ -21,10 +21,13 @@ Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Croatia, Cypru
 ## Frequently asked questions
 
 **Q: Are there any extra fees to using paysafecard?**
+
 A: Nope, we cover the cost of the fees for you!
 
 **Q: Do I need to sign up for an account with paysafecard?**
+
 A: Generally, you will only need to sign up for an account if you load over a certain threshold of money to your paysafecard, for country specific information check here.
 
 **Q: paysafecard isn’t offered in my country. Are there any other methods to pay with cash?**
+
 A: There is no way to purchase items in our store using cash if paysafecard is unavailable in your country.
