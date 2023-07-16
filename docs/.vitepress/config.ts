@@ -1,11 +1,11 @@
 export default {
-    // app level config options
     lang: 'en-US',
     title: 'NetherGames',
     description: 'Support page for NetherGames Network',
     head: [
-        ['link', { rel: 'icon', type: 'image/x-icon', href: '/public/favicon.ico' }],
+        ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
     ],
+    mpa: true,
     themeConfig: {
         logo: {
             dark: 'dark.png',
