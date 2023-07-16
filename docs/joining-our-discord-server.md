@@ -3,7 +3,7 @@
 ::: warning PLEASE NOTE
 This tutorial requires you to have a Discord account - if you don't have one, please create one first by following this tutorial from the Discord team - Getting Started with Discord
 
-Please note you must be at least 13 years old to register a Discord account - if you don't meet that requirement, ask your parents to sign up for one.
+You must also be at least 13 years old to register a Discord account - if you don't meet that requirement, ask your parents to sign up for one.
 :::
 
 To join our Discord server, simply type ngmc.co/d into your browser. 
