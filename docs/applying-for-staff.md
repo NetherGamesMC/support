@@ -1,6 +1,6 @@
 # Applying for staff
 
-Before applying for staff, please familiarise yourself with the requirements of your desired role on our [vacancies page](ngmc.co/vacancies).
+Before applying for staff, please familiarise yourself with the requirements of your desired role on our [vacancies page](https://ngmc.co/vacancies).
 
 You can apply for a staff role by following these steps:
 
