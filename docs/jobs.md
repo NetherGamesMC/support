@@ -72,7 +72,9 @@ While we will provide you with the adequate training necessary to take on this v
 
 ### Discord Moderator
 
+::: warning PLEASE NOTE
 You must be a former or current NetherGames staff member to apply for this position.
+:::
 
 Discord Moderator is one of our chat moderation staff positions.
 
@@ -112,13 +114,13 @@ We expect applicants to be active, committed, and have a good development backgr
 
 We will not provide training or necessary equipment (i.e., a computer, software license, etc.). Applicants will be hired per project as independent contractors unless otherwise agreed. You must have sufficient knowledge of software development before applying—we require you to sign an NDA upon acceptance.
 
-Kubernetes Engineer—Help modernize our network infrastructure to scale Minecraft servers dynamically according to demand. Prior experience required—please note that Minecraft Bedrock uses UDP traffic.
+**Kubernetes Engineer —** Help modernize our network infrastructure to scale Minecraft servers dynamically according to demand. Prior experience required—please note that Minecraft Bedrock uses UDP traffic.
 
-Java Developer—Assist in developing our internal communication system NetSys and our proxy servers around the globe. Prior experience in the Netty framework is required.
+**Java Developer —** Assist in developing our internal communication system NetSys and our proxy servers around the globe. Prior experience in the Netty framework is required.
 
-PHP Developer—We're looking for developers interested in creating new/revamping existing minigames & MMO-based games! Sufficient experience and knowledge of the PocketMine API (new 4.0 version) are necessary.
+**PHP Developer —** We're looking for developers interested in creating new/revamping existing minigames & MMO-based games! Sufficient experience and knowledge of the PocketMine API (new 4.0 version) are necessary.
 
-C# Developer—Got experience in developing C# applications? Put your skills to the test on a launcher and DLL injector—sufficient C# experience is required.
+**C# Developer —** Got experience in developing C# applications? Put your skills to the test on a launcher and DLL injector—sufficient C# experience is required.
 
 Frontend Developer—The role is for applicants interested in engineering web interfaces. Prior experience is necessary.
 
@@ -146,9 +148,9 @@ We expect applicants to be active, committed, creative, and have a good computer
 
 We will not provide training or necessary equipment (i.e., a computer, software license, etc.). You must have sufficient knowledge of design concepts before applying.
 
-Model Designer & Texture Artist—Create and design custom entity models, cosmetics, pets, or exciting User Interfaces. Sufficient experience and knowledge in Blockbench or working with JSON UIs required.
+**Model Designer & Texture Artist —** Create and design custom entity models, cosmetics, pets, or exciting User Interfaces. Sufficient experience and knowledge in Blockbench or working with JSON UIs required.
 
-Graphics Design—Produce custom graphics for advertisements and in-game form images. Photoshop experience necessary.
+**Graphics Design —** Produce custom graphics for advertisements and in-game form images. Photoshop experience necessary.
 
 ::: warning PLEASE NOTE
 We are currently not accepting new applications for the graphics designer listing.
