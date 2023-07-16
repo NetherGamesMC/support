@@ -4,7 +4,9 @@
 The tiers season has reset as of the 1st of July 2023
 :::
 
-The credits and tiers are a yearly reward system on NetherGames with each season running from July and finishing in June. The tiers are designed to be an incentive to players, offering them perks without having to purchase a rank. The following are the tiers in which players may rank to:
+The credits and tiers are a yearly reward system on NetherGames with each season running from July and finishing in June. The tiers are designed to be an incentive to players, offering them perks without having to purchase a rank.
+
+[[toc]]
 
 ## Tiers available
 
@@ -84,7 +86,7 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 |---------|------------|------------|-----|
 | Solos   | 5          | 2          | 7   |
 | Doubles | 7          | 3          | 9   |
-| Squads  | 7          | 3          | 11  |
+| Squads  | 9          | 3          | 11  |
 
 ### Skywars
 
