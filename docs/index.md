@@ -8,11 +8,11 @@ hero:
   tagline: Find information and support about the network
   actions:
     - theme: brand
-      text: Credits and Tiers
-      link: /creditsandtiers
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Credits & Tiers
+      link: /credits-and-tiers
+    - theme: brand
+      text: Ranks & Refunds Policy
+      link: /ranks-and-refunds-policy
 
 features:
   - title: Contact support
