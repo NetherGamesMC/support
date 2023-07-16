@@ -1,5 +1,9 @@
 # Allowed Modifications
 
+::: UNSURE IF A MODFICATION IS ALLOWED OR PUNISHABLE?
+Contact our staff team at ngmc.co/lc or through Modmail on our Discord server at ngmc.co/discord
+:::
+
 We understand that players, in particular people who use PC devices to play on NetherGames, use a range of modifications to improve their gameplay experience. However, some modifications developed by third parties can be used to provide an unfair advantage over other players, ruining the concept of fair play.
 
 Not all modifications are allowed to be used on NetherGames. The general rule is that any modifications used while playing on the network should not provide a significant advantage over other users playing the same game.
