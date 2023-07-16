@@ -23,7 +23,7 @@ You can update any existing helpdesk page, just click on the edit button in the 
 ## Rules for published articles
 
 1. Titles use uppercase for important words. E.g: "Applying for Staff" "Appealing a Punishment"
-2. Titles and links match. E.g `# Applying for Staff` header must be on the file called `applying-for-staff.md` (exception is that `&` is substituted for `and`.
+2. Titles and links match. E.g `# Applying for Staff` header must be on the file called `applying-for-staff.md` (exception is that `&` is substituted for `and`
 3. The use of `&` in title headings is prefereed. E.g `Credits & Tiers` rather than `Credits and Tiers`
 4. Numbered & bullet point lists do not have full stops at the end
 5. Info boxes always have full stops at the end
