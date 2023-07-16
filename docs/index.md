@@ -84,9 +84,6 @@ hero:
       text: Paying with Paysafecard
       link: /paying-with-paysafecard
     - theme: alt
-      text: Applying for Staff
-      link: /applying-for-staff
-    - theme: alt
       text: Privacy Policy
       link: /privacy-policy
 
