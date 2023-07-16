@@ -28,7 +28,7 @@ Grammar/spelling
 Formatting
 * Titles use uppercase for important words. E.g: `Applying for Staff` `Appealing a Punishment`
 * Titles should ideally use `ing` conjugations of verbs. E.g `Applying for Staff` is better than `How to Apply for Staff`
-* Titles and links match. E.g `# Applying for Staff` header must be on the file called `applying-for-staff.md` (exception is that `&` is substituted for `and`
+* Titles and links match. E.g `# Applying for Staff` header must be on the file called `applying-for-staff.md` (exception is that `&` is substituted for `and`)
 * The use of `&` in title headings is prefereed. E.g `Credits & Tiers` rather than `Credits and Tiers`
 * Numbered & bullet point lists do not have full stops at the end
 * Info boxes always have full stops at the end
