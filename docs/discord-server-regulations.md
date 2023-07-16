@@ -4,7 +4,7 @@
 You must be at least 13 years old to hold a Discord account. We will ban underage users per [Discord's Terms of Service](https://discord.com/terms).
 :::
 
-While registered in our Discord server (ngmc.co/d), we expect you to adhere to our regulations as listed below. Failure to follow these expectations will result in a warning or a punishment issued where deemed necessary at our discretion.
+While registered in our [Discord server](https://ngmc.co/discord), we expect you to adhere to our regulations as listed below. Failure to follow these expectations will result in a warning or a punishment issued where deemed necessary at our discretion.
 
 ## Regulations
 
