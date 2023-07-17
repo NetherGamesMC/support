@@ -110,6 +110,9 @@ hero:
     - theme: alt
       text: Rollbacks in Factions & Skyblock
       link: /rollbacks-in-factions-and-skyblock
+    - theme: alt
+      text: Scamming in Factions & Skyblock
+      link: /scamming-in-factions-and-skyblock
 
 ---
 
