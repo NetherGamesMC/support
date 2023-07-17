@@ -116,6 +116,9 @@ hero:
     - theme: alt
       text: Security Bug Bounty
       link: /security-bug-bounty
-
+    - theme: alt
+      text: Skyblock Crates & Enchantments
+      link: /skyblock-crates-and-enchantments
+      
 ---
 
