@@ -1,6 +1,6 @@
 # Applying for a YouTube Rank
 
-The YouTube rank grants content creators a special rank with all Legend rank perks, including custom nickname permissions. We will review your content when applying to ensure your channel meets the requirements.
+The YouTube rank grants content creators a special rank with all Legend rank perks, including custom nickname permissions. The YouTube rank also grants the permission to post NetherGames-related videos in the #media channel on our Discord server. We will review your content when applying to ensure your channel meets the requirements.
 
 ::: tip DID YOU KNOW?
 If you're interested in using our brand assets in your video, we have a media kit available for download. Check it out [here](https://ngmc.co/media).
