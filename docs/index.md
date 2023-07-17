@@ -86,6 +86,9 @@ hero:
     - theme: alt
       text: Privacy Policy
       link: /privacy-policy
+    - theme: alt
+      text: Voting for the Server
+      link: /voting-for-the-server
 
 ---
 
