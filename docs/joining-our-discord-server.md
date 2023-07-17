@@ -7,10 +7,10 @@ You must also be at least 13 years old to register a Discord account - if you do
 :::
 
 To join our Discord server, simply type [ngmc.co/d](https://ngmc.co/d) into your browser.
-![Image](/docs/assets/C91E7CEA-B8B4-4AE8-8DC8-8D671EB1C430.png)
+![Image](assets/C91E7CEA-B8B4-4AE8-8DC8-8D671EB1C430.png)
 
 Enter a username to create a Discord account. If you already have an account, choose the "Already have an account?" option.
-![Image](/docs/assets/25835EE5-8757-4FAB-8998-84F4F15701AD.png)
+![Image](assets/25835EE5-8757-4FAB-8998-84F4F15701AD.png)
 
 Once joined, you will be able to view all public channels. We encourage you to read the rules in #welcome.
 
