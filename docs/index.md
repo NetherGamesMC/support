@@ -98,6 +98,9 @@ hero:
     - theme: alt
       text: Terms of Service
       link: /terms-of-service
+    - theme: alt
+      text: Useful Commands
+      link: /useful-commands
 
 ---
 
