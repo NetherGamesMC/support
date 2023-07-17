@@ -1,4 +1,4 @@
-# Troubleshooting - This username is already registered
+# This Username Is Already Registered
 
 Do you need help joining due to your username already being registered?
 
