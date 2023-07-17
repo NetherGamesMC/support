@@ -92,6 +92,9 @@ hero:
     - theme: alt
       text: Nitro Boosting Rewards
       link: /nitro-boosting-rewards
+    - theme: alt
+      text: Partner Program
+      link: /partner-program
 
 ---
 
