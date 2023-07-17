@@ -89,6 +89,9 @@ hero:
     - theme: alt
       text: Voting for the Server
       link: /voting-for-the-server
+    - theme: alt
+      text: Nitro Boosting Rewards
+      link: /nitro-boosting-rewards
 
 ---
 
