@@ -51,7 +51,7 @@ export default {
                 link: 'https://discord.gg/ng',
             },
             {
-                text: 'Request',
+                text: 'Contact Us',
                 link: 'https://ngmc.co/request',
             }
         ]
