@@ -1,6 +1,6 @@
 # Troubleshooting - Connection Issues
 
-::: tip RECEIVING MESSAGE "THIS USERNAME IS ALREADY REGISTERED"
+::: tip RECEIVING MESSAGE "THIS USERNAME IS ALREADY REGISTERED"?
 Find out how to fix this issue [here](https://support.nethergames.org/troubleshooting-this-username-is-already-registered.html).
 :::
 
