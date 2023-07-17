@@ -126,7 +126,7 @@ hero:
       text: Syncing Ranks & Tiers to Discord
       link: /syncing-ranks-and-tiers-to-discord
     - theme: alt
-      text: Troubleshooting\: This username is already registered
+      text: Troubleshooting - This username is already registered
       link: /troubleshooting-this-username-is-already-registered
       
 ---
