@@ -1,4 +1,4 @@
-# Scamming in Factions & Skyblcok
+# Scamming in Factions & Skyblock
 
 Scamming isn't punishable in Faction and Skyblock. Therefore, we cannot compensate you if you lose items due to a scammer. You need to be careful when purchasing or trading items with someone as there can be a high likely-hood of getting scammed from other players.
 
