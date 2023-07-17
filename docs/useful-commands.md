@@ -1,6 +1,6 @@
 # Useful Commands
 
-## Discord Bot
+## Discord bot
 
 * **/bug** — report a bug
 * **/faction** — get information about a faction
@@ -12,7 +12,7 @@
 * **/vote** — sends the vote link
 * **/where** — find the location of a player
 
-## Lobby Commands
+## Lobby commands
 
 * **/ac** or **/arcade** — transfer to Arcade
 * **/back**, **/rejoin**, or **/reconnect** — reconnect to previous game
@@ -39,7 +39,7 @@
 * **/whereami** — displays your current server
 * **/r** or **/reply** (Legend+) — reply to your most recent DM
 
-## Skyblock Commands
+## Skyblock commands
 
 * **/ah** or **/auctionhouse** — open the Auction House
 * **/arena** — teleport to the Boss Arena
