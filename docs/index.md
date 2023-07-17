@@ -12,8 +12,8 @@ hero:
       text: Credits & Tiers
       link: /credits-and-tiers
     - theme: alt
-      text: Ranks & Refunds Policy
-      link: /ranks-and-refunds-policy
+      text: Refund Policy
+      link: /refund-policy
     - theme: alt
       text: Allowed Modifications
       link: /allowed-modifications
