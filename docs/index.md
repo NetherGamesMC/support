@@ -128,6 +128,9 @@ hero:
     - theme: alt
       text: Troubleshooting - This username is already registered
       link: /troubleshooting-this-username-is-already-registered
+    - theme: alt
+      text: Troubleshooting - Connection Issues
+      link: /troubleshooting-connection-issues
       
 ---
 
