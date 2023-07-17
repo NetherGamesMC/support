@@ -1,8 +1,21 @@
 # Skyblock Crates & Enchantments
 
-You can obtain enchantments on Skyblock in the form of "enchantment books" by opening crates. Crates can be opened while in the Skyblock lobby. There are four types of crates—Vote, Common, Rare & Mythic. You could open the Vote crate if you voted that day, while you only can open the three other crates if you have obtained crate keys through mining. The following special enchantments are available on Skyblock:
+You can obtain enchantments on Skyblock in the form of "enchantment books" by opening crates. Crates can be opened while in the Skyblock lobby.
 
-## Glow
+## Types of crate keys
+
+There are four types of crates:
+
+* Vote - earned by [voting](https://ngmc.co/vote)
+* Common - earned by mining
+* Rare - earned by mining
+* Mythic - earned by mining
+
+## Types of enchantments
+
+The following special enchantments are available on Skyblock:
+
+### Glow
 
 **Rarity: Common**
 
@@ -10,7 +23,7 @@ You can obtain enchantments on Skyblock in the form of "enchantment books" by op
 
 It gives the player wearing the enchanted helmet night vision while being worn.
 
-## Miner (Levels 1 & 2)
+### Miner (Levels 1 & 2)
 
 **Rarity: Rare**
 
@@ -18,7 +31,7 @@ It gives the player wearing the enchanted helmet night vision while being worn.
 
 It gives the player the haste effect while holding the pickaxe (Haste I or II depending on level).
 
-## Boom
+### Boom
 
 **Rarity: Rare**
 
@@ -26,7 +39,7 @@ It gives the player the haste effect while holding the pickaxe (Haste I or II de
 
 Every block you break has a chance to break all blocks in a 3x3x3 area (calculated from the block you are breaking).
 
-## Accelerate
+### Accelerate
 
 **Rarity: Rare**
 
@@ -34,7 +47,7 @@ Every block you break has a chance to break all blocks in a 3x3x3 area (calculat
 
 It gives the player wearing the boots the Speed II effect while being worn.
 
-## Rabbit
+### Rabbit
 
 **Rarity: Rare**
 
@@ -42,7 +55,7 @@ It gives the player wearing the boots the Speed II effect while being worn.
 
 It gives the player wearing the boots the Jump II effect while being worn.
 
-## Poison
+### Poison
 
 **Rarity: Rare**
 
@@ -50,7 +63,7 @@ It gives the player wearing the boots the Jump II effect while being worn.
 
 Every hit you deal to a player with the enchanted sword has a chance to give the opponent a Poison I effect.
 
-## Thor
+### Thor
 
 **Rarity: Rare**
 
@@ -58,7 +71,7 @@ Every hit you deal to a player with the enchanted sword has a chance to give the
 
 Every hit on the opponent has the chance to strike the opponent with lightning, dealing additional damage.
 
-## Grapple
+### Grapple
 
 **Rarity: Mythical**
 
@@ -66,7 +79,7 @@ Every hit on the opponent has the chance to strike the opponent with lightning, 
 
 It turns a fishing rod into a grappling hook. Retracting the rod hook will pull you in the direction of the hook.
 
-## Triple Shot
+### Triple Shot
 
 **Rarity: Mythical**
 
@@ -74,7 +87,7 @@ It turns a fishing rod into a grappling hook. Retracting the rod hook will pull 
 
 Every shot with a bow shoots 1-3 arrows instead of one but only uses one from the player's inventory.
 
-## Guardian Angel
+### Guardian Angel
 
 **Rarity: Mythical**
 
