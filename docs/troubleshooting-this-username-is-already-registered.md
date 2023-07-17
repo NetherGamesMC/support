@@ -46,5 +46,5 @@ Note: We are unable to transfer data between separate accounts. Stats, friends, 
 1. Open the [NetherGames Portal](https://portal.nethergames.org)
 2. Search for your username
 3. Check if the player was last seen over a year ago
-4. If yes, choose "Chat with us" at [ngmc.co/request](https://ngmc.co/request)
-5. Otherwise, we are unable to assist you further
+
+If yes, choose "Chat with us" at [ngmc.co/request](https://ngmc.co/request). Otherwise, we are unable to assist you further.
