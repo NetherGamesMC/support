@@ -6,13 +6,11 @@ This tutorial requires you to have a Discord account - if you don't have one, pl
 You must also be at least 13 years old to register a Discord account - if you don't meet that requirement, ask your parents to sign up for one.
 :::
 
-To join our Discord server, simply type ngmc.co/d into your browser. 
-
-<img width="402" alt="image" src="https://github.com/NetherGamesMC/support/assets/19983892/b3e8bcbd-2f14-4e41-b29b-36f3aa60ac62">
+To join our Discord server, simply type [ngmc.co/d](https://ngmc.co/d) into your browser.
+![Image](/docs/assets/C91E7CEA-B8B4-4AE8-8DC8-8D671EB1C430.png)
 
 Enter a username to create a Discord account. If you already have an account, choose the "Already have an account?" option.
-
-<img width="800" alt="image" src="https://github.com/NetherGamesMC/support/assets/19983892/c6dabf1f-b058-4e03-8a5d-3516959309ab">
+![Image](/docs/assets/25835EE5-8757-4FAB-8998-84F4F15701AD.png)
 
 Once joined, you will be able to view all public channels. We encourage you to read the rules in #welcome.
 
