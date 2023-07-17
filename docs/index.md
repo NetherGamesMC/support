@@ -113,6 +113,9 @@ hero:
     - theme: alt
       text: Scamming in Factions & Skyblock
       link: /scamming-in-factions-and-skyblock
+    - theme: alt
+      text: Security Bug Bounty
+      link: /security-bug-bounty
 
 ---
 
