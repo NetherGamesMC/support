@@ -119,6 +119,9 @@ hero:
     - theme: alt
       text: Skyblock Crates & Enchantments
       link: /skyblock-crates-and-enchantments
+    - theme: alt
+      text: Submitting Feedback
+      link: /submitting-feedback
       
 ---
 
