@@ -107,6 +107,9 @@ hero:
     - theme: alt
       text: Reporting a Player
       link: /reporting-a-player
+    - theme: alt
+      text: Rollbacks in Factions & Skyblock
+      link: /rollbacks-in-factions-and-skyblock
 
 ---
 
