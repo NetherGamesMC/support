@@ -104,6 +104,9 @@ hero:
     - theme: alt
       text: Reporting a Bug
       link: /reporting-a-bug
+    - theme: alt
+      text: Reporting a Player
+      link: /reporting-a-player
 
 ---
 
