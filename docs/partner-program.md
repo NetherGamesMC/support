@@ -10,7 +10,7 @@ Your account must also follow the Terms of Service for the platform. For instanc
 
 The perks offered to partners include:
 * Ability to set a custom nickname in-game (as opposed to selecting a randomly generated one)
-* Access to Titan rank perks (public parties, private games, 40-player party limit, replays, exclusive guild tag, and more)
+* Access to [Titan rank perks](https://store.nethergames.org) (public parties, private games, 40-player party limit, replays, exclusive guild tag, and more)
 * An exclusive Partner rank both on Discord and in-game
 * Permission to run official NetherGames giveaways through your channel at no cost to you (we will run giveaways at our request and discretion)
 
