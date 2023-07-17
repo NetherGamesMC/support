@@ -1,4 +1,4 @@
-# Refunds Policy
+# Refund Policy
 
 The NETHERGAMES NETWORK ("NetherGames," "we," "us," "our") provides an online store website—store.nethergames.org ("Store")—for its users to purchase products and its associated advantages to using. By using the Store, you agree to this Policy. We have developed this Policy to outline the terms and conditions regarding these products and our Policy on refunds.
 
