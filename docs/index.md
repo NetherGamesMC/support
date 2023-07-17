@@ -101,6 +101,9 @@ hero:
     - theme: alt
       text: Useful Commands
       link: /useful-commands
+    - theme: alt
+      text: Reporting a Bug
+      link: /reporting-a-bug
 
 ---
 
