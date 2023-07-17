@@ -10,6 +10,16 @@ export default {
             dark: 'dark.png',
             light: 'light.png'
         },
+        sidebar: [
+          {
+        text: 'Guide',
+        items: [
+          { text: 'Introduction', link: '/jobs' },
+          { text: 'Getting Started', link: '/privacy-policy' },
+          ...
+        ]
+      }
+    ]
         siteTitle: false,
         editLink: {
             pattern: 'https://github.com/NetherGamesMC/support/edit/master/docs/:path'
@@ -46,5 +56,6 @@ export default {
                 link: 'https://ngmc.co/request',
             }
         ]
+        
     }
 }
