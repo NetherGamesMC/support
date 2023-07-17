@@ -34,6 +34,8 @@ You can update any existing helpdesk page, just click on the edit button in the 
 * Info boxes always have full stops at the end
 * Links such as `ngmc.co/request` should always be hyperlinked like `[ngmc.co/request](https://ngmc.co/request)`
 * Infox box titles must be in `FULL CAPS`
+* Subheadings are not uppercased for important words like titles. 
+
 
 **Article style**
 * Articles should try to provide steps on a topic (even if it is easy), rather than just linking to another page. For example, the applying for staff article explains the steps of applying for staff on the portal, rather than just saying to `go to ngmc.co/requests`
