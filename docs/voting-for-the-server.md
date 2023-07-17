@@ -38,7 +38,7 @@ At the end of the month, all top voters will go into the draw for a free rank up
 
 A free rank upgrade could be from non-ranked to Ultra, Ultra to Emerald, or Emerald to Legend.
 
-## Conditions
+### Conditions
 
 * You cannot win consecutive contests
 * Legend players are not eligible for a rank upgrade to Titan at this time
