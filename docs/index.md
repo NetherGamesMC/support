@@ -95,6 +95,9 @@ hero:
     - theme: alt
       text: Partner Program
       link: /partner-program
+    - theme: alt
+      text: Terms of Service
+      link: /terms-of-service
 
 ---
 
