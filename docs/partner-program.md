@@ -24,7 +24,7 @@ In addition, we will not consider applications from users who have excessive war
 
 You can apply for Partner by following these steps:
 
-1. Go to ngmc.co/request
+1. Go to [ngmc.co/request](https://ngmc.co/request)
 2. Login with your Microsoft (Xbox) account you use to play Minecraft with (if you're not already logged in)
 3. Select "Apply for Partner"
 4. Follow the steps to link your Discord & YouTube account
