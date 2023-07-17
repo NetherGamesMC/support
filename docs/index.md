@@ -122,6 +122,9 @@ hero:
     - theme: alt
       text: Submitting Feedback
       link: /submitting-feedback
+    - theme: alt
+      text: Syncing Ranks & Tiers to Discord
+      link: /syncing-ranks-and-tiers-to-discord
       
 ---
 
