@@ -1,4 +1,4 @@
-# Useful commands
+# Useful Commands
 
 ## Discord Bot
 
