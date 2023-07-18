@@ -7,12 +7,27 @@ export default {
     ],
     themeConfig: {
         sidebar: [
-      {
-        text: 'Section Title A',
+        {
+        text: 'In-game Information',
         items: [
-          { text: 'Item A', link: '/item-a' },
-          { text: 'Item B', link: '/item-b' }
+            { text: 'Credits & Tiers', link: '/credits-and-tiers' },
+            { text: 'Guilds System', link: '/guilds-system' },
+            { text: 'Friends System', link: '/friends-system' },
+            { text: 'In-game Emojis', link: '/in-game-emojis' },
+            { text: 'Earning Cosmetic Crate Keys', link: '/earning-cosmetic-crate-keys' }
         ]
+        },
+        {
+        text: 'Policies',
+        items: [
+            { text: 'Terms of Service', link: '/terms-of-service' },
+            { text: 'Enforcement System', link: '/enforcement-system' },
+            { text: 'Refund Policy', link: '/refund-policy' },
+            { text: 'Privacy Policy', link: '/privacy-policy' },
+            { text: 'Discord Server Regulations', link: '/discord-server-regulations' },
+            { text: 'Branding Guidelines', link: '/branding-guidelines' }
+        ]
+        },
       }
             ],
         logo: {
