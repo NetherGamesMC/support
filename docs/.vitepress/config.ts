@@ -28,8 +28,7 @@ export default {
             { text: 'Branding Guidelines', link: '/branding-guidelines' }
         ]
         },
-      }
-            ],
+        ],
         logo: {
             dark: 'dark.png',
             light: 'light.png'
