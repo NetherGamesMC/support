@@ -1,4 +1,4 @@
-# Earning Cosmetic Crate Keys
+# Cosmetic Crate Keys
 
 ::: warning PLEASE NOTE
 This article is about crate keys that redeem cosmetics. Factions crate keys are separate from cosmetic crate keys and are earned differently.
