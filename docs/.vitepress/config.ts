@@ -14,7 +14,7 @@ export default {
           { text: 'Item B', link: '/item-b' }
         ]
       }
-            ]
+            ],
         logo: {
             dark: 'dark.png',
             light: 'light.png'
