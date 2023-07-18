@@ -11,10 +11,10 @@ export default {
         text: 'Section Title A',
         items: [
           { text: 'Item A', link: '/item-a' },
-          { text: 'Item B', link: '/item-b' },
-          ...
+          { text: 'Item B', link: '/item-b' }
         ]
-      },
+      }
+            ]
         logo: {
             dark: 'dark.png',
             light: 'light.png'
