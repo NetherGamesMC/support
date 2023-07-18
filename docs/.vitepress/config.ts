@@ -15,6 +15,7 @@ export default {
             { text: 'Friends System', link: '/friends-system' },
             { text: 'In-game Emojis', link: '/in-game-emojis' },
             { text: 'Cosmetic Crate Keys', link: '/cosmetic-crate-keys' }
+            { text: 'Anti-cheat', link: '/anti-cheat' }
         ]
         },
         {
@@ -22,6 +23,7 @@ export default {
         items: [
             { text: 'Terms of Service', link: '/terms-of-service' },
             { text: 'Enforcement System', link: '/enforcement-system' },
+            { text: 'Allowed Modifications', link: '/allowed-modifications' },
             { text: 'Refund Policy', link: '/refund-policy' },
             { text: 'Privacy Policy', link: '/privacy-policy' },
             { text: 'Discord Server Regulations', link: '/discord-server-regulations' },
@@ -46,7 +48,39 @@ export default {
             { text: 'Syncing Ranks & Tiers to Discord', link: '/syncing-ranks-and-tiers-to-discord' }
         ]
         },
-            
+        {
+        text: 'Applications',
+        items: [
+            { text: 'Jobs', link: '/jobs' },
+            { text: 'Applying for Staff', link: '/applying-for-staff' },
+            { text: 'Applying for YouTube Rank', link: '/applying-for-youtube-rank' },
+            { text: 'Partner Program', link: '/partner-program' },
+        ]
+        },  
+        {
+        text: 'Troubleshooting',
+        items: [
+            { text: 'This Username Is Already Registered', link: '/this-username-is-already-registered' },
+            { text: 'Troubleshooting Connection Issues', link: '/troubleshooting-connection-issues' },
+            { text: 'Unable to Change My \"About Me\"', link: '/unable-to-change-my-about-me' },
+        ]
+        },  
+        {
+        text: 'Factions & Skyblock',
+        items: [
+            { text: 'Rollbacks in Factions & Skyblock', link: '/rollbacks-in-factions-and-skyblock' },
+            { text: 'Scamming in Factions & Skyblock', link: '/scamming-in-factions-and-skyblock' },
+            { text: 'Skyblock Crates & Enchantments', link: '/skyblock-crates-and-enchantments' },
+        ]
+        },
+        {
+        text: 'Other',
+        items: [
+            { text: 'Nitro Boosting Rewards', link: '/nitro-boosting-rewards' },
+            { text: 'Security Bug Bounty', link: '/security-bug-bounty' },
+            { text: 'API Documentation & Usage', link: '/api-documentation-and-usage' },
+        ]
+        },
         ],
         logo: {
             dark: 'dark.png',
