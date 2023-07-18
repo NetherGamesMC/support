@@ -14,7 +14,7 @@ Please aim to keep the formating style consistent with all other pages on the he
 
 After you've filled out the new page, submit the pull request and it will be reviewed by an Admin.
 
-Note to admin: When approving the pull request, you must add a reference for the new page at index.md
+**Note to admin:** When approving the pull request, you must add a reference for the new page at [index.md](https://github.com/NetherGamesMC/support/blob/master/docs/index.md) and add it to the side bar at config.ts
 
 ## Updating an existing helpdesk page
 
