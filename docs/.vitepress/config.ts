@@ -15,7 +15,8 @@ export default {
             { text: 'Friends System', link: '/friends-system' },
             { text: 'In-game Emojis', link: '/in-game-emojis' },
             { text: 'Cosmetic Crate Keys', link: '/cosmetic-crate-keys' },
-            { text: 'Anti-cheat', link: '/anti-cheat' }
+            { text: 'Anti-cheat', link: '/anti-cheat' },
+            { text: 'Useful Commands', link: '/userful-commands' }
         ]
         },
         {
