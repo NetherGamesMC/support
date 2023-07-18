@@ -54,7 +54,7 @@ export default {
         items: [
             { text: 'Jobs', link: '/jobs' },
             { text: 'Applying for Staff', link: '/applying-for-staff' },
-            { text: 'Applying for YouTube Rank', link: '/applying-for-youtube-rank' },
+            { text: 'Applying for a YouTube Rank', link: '/applying-for-a-youtube-rank' },
             { text: 'Partner Program', link: '/partner-program' },
         ]
         },  
