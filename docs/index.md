@@ -18,8 +18,8 @@ hero:
       text: Allowed Modifications
       link: /allowed-modifications
     - theme: alt
-      text: Earning Cosmetic Crate Keys
-      link: /earning-cosmetic-crate-keys
+      text: Cosmetic Crate Keys
+      link: /cosmetic-crate-keys
     - theme: alt
       text: Guilds System
       link: /guilds-system
