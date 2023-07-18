@@ -6,6 +6,15 @@ export default {
         ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
     ],
     themeConfig: {
+        sidebar: [
+      {
+        text: 'Section Title A',
+        items: [
+          { text: 'Item A', link: '/item-a' },
+          { text: 'Item B', link: '/item-b' },
+          ...
+        ]
+      },
         logo: {
             dark: 'dark.png',
             light: 'light.png'
