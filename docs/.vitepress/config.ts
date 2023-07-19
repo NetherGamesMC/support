@@ -16,7 +16,7 @@ export default {
             { text: 'In-game Emojis', link: '/in-game-emojis' },
             { text: 'Cosmetic Crate Keys', link: '/cosmetic-crate-keys' },
             { text: 'Anti-cheat', link: '/anti-cheat' },
-            { text: 'Useful Commands', link: '/userful-commands' }
+            { text: 'Useful Commands', link: '/useful-commands' }
         ]
         },
         {
