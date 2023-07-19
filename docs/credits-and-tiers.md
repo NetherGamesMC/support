@@ -13,7 +13,7 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 * **Silver** (50,000 credits)
 * **Gold** (75,000 credits)
 * **Opal** (100,000 credits)
-* **Amythest** (150,000 credits)
+* **Amethyst** (150,000 credits)
 * **Sapphire** (200,000 credits)
 * **Diamond** (300,000 credits)
 
@@ -44,7 +44,7 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 * Blue nametag
 * Blue-Purple Discord role colours
  
-**Amythest (150,000 credits)**
+**Amethyst (150,000 credits)**
 * Access to chat colours: Green, Aqua, Red, Yellow, White, Gold, Light Purple, Black, Grey, Blue
 * 50% XP boost
 * Pets: companion, zombie, creeper, skeleton
