@@ -42,7 +42,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 </figure>
 <figure>
     <figcaption>Fallen</figcaption>
-    <img src="assets/MapPhotos/BW/BW2/BW_Fallen"
+    <img src="assets/MapPhotos/BW/BW2/BW_Fallen.png"
          alt="Fallen"
          width="640" height="360">
 </figure>
