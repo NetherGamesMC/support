@@ -30,9 +30,26 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
          width="640" height="360">
 </figure>
 <figure>
+    <figcaption>Celestial</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/BW_Celestial.png"
+         alt="Celestial"
+         width="640" height="360">
+<figure>
     <figcaption>Exodus</figcaption>
     <img src="assets/MapPhotos/BW/BW2/BW2_Exodus.png"
          alt="Exodus"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Fallen</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/BW_Fallen"
+         alt="Fallen"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Fastfood</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/BW_Fastfood.png"
+         alt="Fastfood"
          width="640" height="360">
 </figure>
 <figure>
@@ -60,21 +77,9 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
          width="640" height="360">
 </figure>
 <figure>
-    <figcaption>Celestial</figcaption>
-    <img src="assets/MapPhotos/BW/BW2/BW_Celetial.png"
-         alt="Celestial"
-         width="640" height="360">
-</figure>
-<figure>
-    <figcaption>Fallen</figcaption>
-    <img src="assets/MapPhotos/BW/BW2/BW_Fallen"
-         alt="Fallen"
-         width="640" height="360">
-</figure>
-<figure>
-    <figcaption>Fastfood</figcaption>
-    <img src="assets/MapPhotos/BW/BW2/BW_Fastfood.png"
-         alt="Fastfood"
+    <figcaption>Stumped (NEW)</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/BW2_Stumped.png"
+         alt="Stumped"
          width="640" height="360">
 </figure>
 <figure>
