@@ -140,12 +140,163 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 </figure>
 
 ## Conquests
+<figure>
+    <figcaption>Antiques</figcaption>
+    <img src="assets/MapPhotos/CQ/BWC_Antiques.png"
+         alt="Antiques"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Prey</figcaption>
+    <img src="assets/MapPhotos/CQ/BWC_Prey.png"
+         alt="Prey"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Toluca</figcaption>
+    <img src="assets/MapPhotos/CQ/BWC_Toluca.png"
+         alt="Toluca"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Woodlands</figcaption>
+    <img src="assets/MapPhotos/CQ/BWC_Woodlands.png"
+         alt="Woodlands"
+         width="640" height="360">
+</figure>
 
 ## Murder Mystery
+<figure>
+    <figcaption>Academy</figcaption>
+    <img src="assets/MapPhotos/MM/MM_Academy.png"
+         alt="Academy"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Arid (NEW)</figcaption>
+    <img src="assets/MapPhotos/MM/MM_Arid.png"
+         alt="Arid"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Asylum</figcaption>
+    <img src="assets/MapPhotos/MM/MM_Asylum.png"
+         alt="Asylum"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Haven</figcaption>
+    <img src="assets/MapPhotos/MM/MM_Haven.png"
+         alt="Haven"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Mall</figcaption>
+    <img src="assets/MapPhotos/MM/MM_Mall.png"
+         alt="Mall"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Rome (NEW)</figcaption>
+    <img src="assets/MapPhotos/MM/MM_Rome.png"
+         alt="Rome"
+         width="640" height="360">
+</figure>
 
 ## Skywars
 
 ### Regular
+<figure>
+    <figcaption>Bonsai</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Bonsai.png"
+         alt="Bonsai"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Construction</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Construction.png"
+         alt="Construction"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>District</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_District.png"
+         alt="District"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Doughnut (NEW)</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Doughnut.png"
+         alt="Doughnut"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Elowen</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Elowen.png"
+         alt="Elowen"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Hades</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Hades.png"
+         alt="Hades"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Ingress</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Ingress.png"
+         alt="Ingress"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Jura (NEW)</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Jura.png"
+         alt="Jura"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Mines</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Mines.png"
+         alt="Mines"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Seafloor</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Seafloor.png"
+         alt="Seafloor"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Summer</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Summer.png"
+         alt="Summer"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Swale</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Swale"
+         alt="Swale"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Sweats</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Sweats"
+         alt="Sweats"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Toys</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Toys.png"
+         alt="MAPNAME"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Western</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Western.png"
+         alt="Western"
+         width="640" height="360">
+</figure>
+
 
 ### Duels
 
