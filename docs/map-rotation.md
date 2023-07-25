@@ -10,6 +10,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 
 [Bedwars](#Bedwars)
+![Aquaduct](/assets/MapPhotos/BW/BW2/BW2_Aquaduct.png)
 
 [Bedwars Solos/Duos](###Bedwars-Solo/Duos)
 
