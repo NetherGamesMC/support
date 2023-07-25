@@ -91,6 +91,53 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 
 ### Squads
+<figure>
+    <figcaption>Ancient City</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW4_AncientCity.png"
+         alt="Ancient City"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Forsaken</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW4_Forsaken.png"
+         alt="Forsaken"
+         width="640" height="360">
+<figure>
+    <figcaption>Hive</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW4_Hive.png"
+         alt="Hive"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Nexus</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW4_Nexus.png"
+         alt="Nexus"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Elysinia</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW_Elysinia.png"
+         alt="Elysinia"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Fungal</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW_Fungal.png"
+         alt="Fungal"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Harmony</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW_Harmony.png"
+         alt="Harmony"
+         width="640" height="360">
+</figure>
+<figure>
+    <figcaption>Ukiyo</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW_Ukiyo.png"
+         alt="Ukiyo"
+         width="640" height="360">
+</figure>
 
 ## Conquests
 
