@@ -27,66 +27,66 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
     <figcaption>Aquaduct</figcaption>
     <img src="assets/MapPhotos/BW/BW2/BW2_Aquaduct.png"
          alt="Aquaduct"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Celestial</figcaption>
     <img src="assets/MapPhotos/BW/BW2/BW_Celestial.png"
          alt="Celestial"
-         width="640" height="360">
+         width="480" height="270">
 <figure>
     <figcaption>Exodus</figcaption>
     <img src="assets/MapPhotos/BW/BW2/BW2_Exodus.png"
          alt="Exodus"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Fallen</figcaption>
     <img src="assets/MapPhotos/BW/BW2/BW_Fallen.png"
          alt="Fallen"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Fastfood</figcaption>
     <img src="assets/MapPhotos/BW/BW2/BW_Fastfood.png"
          alt="Fastfood"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Industrial</figcaption>
     <img src="assets/MapPhotos/BW/BW2/BW2_Industrial.png"
          alt="Industrial"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Lighthouse</figcaption>
     <img src="assets/MapPhotos/BW/BW2/BW2_Lighthouse.png"
          alt="Lighthouse"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Perished</figcaption>
     <img src="assets/MapPhotos/BW/BW2/BW2_Perished.png"
          alt="Perished"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Royal</figcaption>
     <img src="assets/MapPhotos/BW/BW2/BW2_Royal.png"
          alt="Royal"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Stumped (NEW)</figcaption>
     <img src="assets/MapPhotos/BW/BW2/BW2_Stumped.png"
          alt="Stumped"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Unearthed</figcaption>
     <img src="assets/MapPhotos/BW/BW2/BW_Unearthed.png"
          alt="Unearthed"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 
 
@@ -95,48 +95,48 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
     <figcaption>Ancient City</figcaption>
     <img src="assets/MapPhotos/BW/BW4/BW4_AncientCity.png"
          alt="Ancient City"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Forsaken</figcaption>
     <img src="assets/MapPhotos/BW/BW4/BW4_Forsaken.png"
          alt="Forsaken"
-         width="640" height="360">
+         width="480" height="270">
 <figure>
     <figcaption>Hive</figcaption>
     <img src="assets/MapPhotos/BW/BW4/BW4_Hive.png"
          alt="Hive"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Nexus</figcaption>
     <img src="assets/MapPhotos/BW/BW4/BW4_Nexus.png"
          alt="Nexus"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Elysinia</figcaption>
     <img src="assets/MapPhotos/BW/BW4/BW_Elysinia.png"
          alt="Elysinia"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Fungal</figcaption>
     <img src="assets/MapPhotos/BW/BW4/BW_Fungal.png"
          alt="Fungal"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Harmony</figcaption>
     <img src="assets/MapPhotos/BW/BW4/BW_Harmony.png"
          alt="Harmony"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Ukiyo</figcaption>
     <img src="assets/MapPhotos/BW/BW4/BW_Ukiyo.png"
          alt="Ukiyo"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 
 ## Conquests
@@ -144,25 +144,25 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
     <figcaption>Antiques</figcaption>
     <img src="assets/MapPhotos/CQ/BWC_Antiques.png"
          alt="Antiques"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Prey</figcaption>
     <img src="assets/MapPhotos/CQ/BWC_Prey.png"
          alt="Prey"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Toluca</figcaption>
     <img src="assets/MapPhotos/CQ/BWC_Toluca.png"
          alt="Toluca"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Woodlands</figcaption>
     <img src="assets/MapPhotos/CQ/BWC_Woodlands.png"
          alt="Woodlands"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 
 ## Murder Mystery
@@ -170,37 +170,37 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
     <figcaption>Academy</figcaption>
     <img src="assets/MapPhotos/MM/MM_Academy.png"
          alt="Academy"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Arid (NEW)</figcaption>
     <img src="assets/MapPhotos/MM/MM_Arid.png"
          alt="Arid"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Asylum</figcaption>
     <img src="assets/MapPhotos/MM/MM_Asylum.png"
          alt="Asylum"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Haven</figcaption>
     <img src="assets/MapPhotos/MM/MM_Haven.png"
          alt="Haven"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Mall</figcaption>
     <img src="assets/MapPhotos/MM/MM_Mall.png"
          alt="Mall"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Rome (NEW)</figcaption>
     <img src="assets/MapPhotos/MM/MM_Rome.png"
          alt="Rome"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 
 ## Skywars
@@ -210,96 +210,125 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
     <figcaption>Bonsai</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_Bonsai.png"
          alt="Bonsai"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Construction</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_Construction.png"
          alt="Construction"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>District</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_District.png"
          alt="District"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Doughnut (NEW)</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_Doughnut.png"
          alt="Doughnut"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Elowen</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_Elowen.png"
          alt="Elowen"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Hades</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_Hades.png"
          alt="Hades"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Ingress</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_Ingress.png"
          alt="Ingress"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Jura (NEW)</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_Jura.png"
          alt="Jura"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Mines</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_Mines.png"
          alt="Mines"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Seafloor</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_Seafloor.png"
          alt="Seafloor"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Summer</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_Summer.png"
          alt="Summer"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Swale</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_Swale"
          alt="Swale"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Sweats</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_Sweats"
          alt="Sweats"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Toys</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_Toys.png"
          alt="MAPNAME"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 <figure>
     <figcaption>Western</figcaption>
     <img src="assets/MapPhotos/SW/Reg/SW_Western.png"
          alt="Western"
-         width="640" height="360">
+         width="480" height="270">
 </figure>
 
 
 ### Duels
-
+<figure>
+    <figcaption>Burried</figcaption>
+    <img src="assets/MapPhotos/SW/Duels/SWD_Buried.png"
+         alt="Buried"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Narra</figcaption>
+    <img src="assets/MapPhotos/SW/Duels/SWD_Narra.png"
+         alt="Narra"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Scaffolds</figcaption>
+    <img src="assets/MapPhotos/SW/Duels/SWD_Scaffolds.png"
+         alt="Scaffolds"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Shafts</figcaption>
+    <img src="assets/MapPhotos/SW/Duels/SWD_Shafts.png"
+         alt="Shafts"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Solar</figcaption>
+    <img src="assets/MapPhotos/SW/Duels/SWD_Solar.png"
+         alt="Solar"
+         width="480" height="270">
+</figure>
 ## The Bridge
 
 ## Duels
