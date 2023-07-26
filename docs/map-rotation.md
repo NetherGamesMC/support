@@ -329,6 +329,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
          alt="Solar"
          width="480" height="270">
 </figure>
+
 ## The Bridge
 
 ## Duels
