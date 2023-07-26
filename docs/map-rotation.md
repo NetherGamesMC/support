@@ -274,13 +274,13 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 </figure>
 <figure>
     <figcaption>Swale</figcaption>
-    <img src="assets/MapPhotos/SW/Reg/SW_Swale"
+    <img src="assets/MapPhotos/SW/Reg/SW_Swale.png"
          alt="Swale"
          width="480" height="270">
 </figure>
 <figure>
     <figcaption>Sweats</figcaption>
-    <img src="assets/MapPhotos/SW/Reg/SW_Sweats"
+    <img src="assets/MapPhotos/SW/Reg/SW_Sweats.png"
          alt="Sweats"
          width="480" height="270">
 </figure>
