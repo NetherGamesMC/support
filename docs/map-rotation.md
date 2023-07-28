@@ -6,7 +6,6 @@ Maps rotate every **4 months**. This support thread will be updated by maps in t
 
 The map rotation is a system NetherGames has in place to keep maps fresh and different. This is a list of all currently rotated maps for all gamemodes in the program.
 
-[[toc]]
 
 ## Quick Access
 
