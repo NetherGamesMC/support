@@ -280,9 +280,9 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Sweats</figcaption>
-    <img src="assets/MapPhotos/SW/Reg/SW_Sweats.png"
-         alt="Sweats"
+    <figcaption>Sweets</figcaption>
+    <img src="assets/MapPhotos/SW/Reg/SW_Sweets.png"
+         alt="Sweets"
          width="480" height="270">
 </figure>
 <figure>
