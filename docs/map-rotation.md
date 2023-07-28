@@ -6,6 +6,8 @@ Maps rotate every **4 months**. This support thread will be updated by maps in t
 
 The map rotation is a system NetherGames has in place to keep maps fresh and different. This is a list of all currently rotated maps for all gamemodes in the program.
 
+[[toc]]
+
 ## Quick Access
 
 [Bedwars](#bedwars)
@@ -333,3 +335,51 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ## The Bridge
 
 ## Duels
+<figure>
+    <figcaption>Entryway</figcaption>
+    <img src="assets/MapPhotos/Duels/Duels_Entryway.png"
+         alt="Entryway"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Familiar</figcaption>
+    <img src="assets/MapPhotos/Duels/Duels_Familiar.png"
+         alt="Familiar"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Meadow</figcaption>
+    <img src="assets/MapPhotos/Duels/Duels_Meadow.png"
+         alt="Meadow"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Mindgames</figcaption>
+    <img src="assets/MapPhotos/Duels/Duels_Mindgames.png"
+         alt="Mindgames"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Nature</figcaption>
+    <img src="assets/MapPhotos/Duels/Duels_Nature.png"
+         alt="Nature"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Oriental</figcaption>
+    <img src="assets/MapPhotos/Duels/Duels_Oriental.png"
+         alt="Oriental"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Paradise</figcaption>
+    <img src="assets/MapPhotos/Duels/Duels_Paradise.png"
+         alt="Paradise"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Spaceport</figcaption>
+    <img src="assets/MapPhotos/Duels/Duels_Spaceport.png"
+         alt="Spaceport"
+         width="480" height="270">
+</figure>
