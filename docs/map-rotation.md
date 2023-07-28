@@ -381,7 +381,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Skyscrapers (NEW)>/figcaption>
+    <figcaption>Skyscrapers (NEW)</figcaption>
     <img src="assets/MapPhotos/TB/TB_Skyscrapers.png"
          alt="Skyscrapers"
          width="480" height="270">
