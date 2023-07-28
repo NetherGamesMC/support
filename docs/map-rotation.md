@@ -332,6 +332,66 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 </figure>
 
 ## The Bridge
+<figure>
+    <figcaption>Blox (NEW)</figcaption>
+    <img src="assets/MapPhotos/TB/TB_Blox.png"
+         alt="Blox"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Castle</figcaption>
+    <img src="assets/MapPhotos/TB/TB_Castle.png"
+         alt="Castle"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Coast</figcaption>
+    <img src="assets/MapPhotos/TB/TB_Coast.png"
+         alt="Coast"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Crossbones</figcaption>
+    <img src="assets/MapPhotos/TB/TB_Crossbones.png"
+         alt="Crossbones"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Frostbite (NEW)</figcaption>
+    <img src="assets/MapPhotos/TB/TB_Frostbite.png"
+         alt="Frostbite"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Aegean</figcaption>
+    <img src="assets/MapPhotos/TB/TB_NewAegaen.png"
+         alt="Aegean"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Overgrown (REVAMPED)</figcaption>
+    <img src="assets/MapPhotos/TB/TB_Overgrown.png"
+         alt="Overgrown"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Shuttle</figcaption>
+    <img src="assets/MapPhotos/TB/TB_Shuttle.png"
+         alt="Shuttle"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Skyscrapers (NEW)/figcaption>
+    <img src="assets/MapPhotos/TB/TB_Skyscrapers.png"
+         alt="Skyscrapers"
+         width="480" height="270">
+</figure>
+<figure>
+    <figcaption>Solice</figcaption>
+    <img src="assets/MapPhotos/TB/TB_Solice.png"
+         alt="Solice"
+         width="480" height="270">
+</figure>
 
 ## Duels
 <figure>
