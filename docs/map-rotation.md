@@ -300,7 +300,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 </figure>
 
 
-### Duels
+### Duels (SW)
 <figure>
     <figcaption>Burried</figcaption>
     <img src="assets/MapPhotos/SW/Duels/SWD_Buried.png"
