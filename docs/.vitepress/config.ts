@@ -11,12 +11,13 @@ export default {
         {
         text: 'In-game Information',
         items: [
-            { text: 'Credits & Tiers', link: '/credits-and-tiers' },
-            { text: 'Guilds System', link: '/guilds-system' },
-            { text: 'Friends System', link: '/friends-system' },
-            { text: 'In-game Emojis', link: '/in-game-emojis' },
-            { text: 'Cosmetic Crate Keys', link: '/cosmetic-crate-keys' },
             { text: 'Anti-cheat', link: '/anti-cheat' },
+            { text: 'Credits & Tiers', link: '/credits-and-tiers' },
+            { text: 'Cosmetic Crate Keys', link: '/cosmetic-crate-keys' },
+            { text: 'Friends System', link: '/friends-system' },
+            { text: 'Guilds System', link: '/guilds-system' },
+            { text: 'In-game Emojis', link: '/in-game-emojis' },
+            { text: 'Map Rotation', link: '/map-rotation' },
             { text: 'Useful Commands', link: '/useful-commands' }
         ]
         },
