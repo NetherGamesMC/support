@@ -104,6 +104,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
     <img src="assets/MapPhotos/BW/BW4/BW4_Forsaken.png"
          alt="Forsaken"
          width="480" height="270">
+</figure>
 <figure>
     <figcaption>Hive</figcaption>
     <img src="assets/MapPhotos/BW/BW4/BW4_Hive.png"
