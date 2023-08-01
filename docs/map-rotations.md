@@ -35,6 +35,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
     <img src="assets/MapPhotos/BW/BW2/BW_Celestial.png"
          alt="Celestial"
          width="480" height="270">
+</figure>
 <figure>
     <figcaption>Exodus</figcaption>
     <img src="assets/MapPhotos/BW/BW2/BW2_Exodus.png"
