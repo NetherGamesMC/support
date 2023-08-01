@@ -1,4 +1,4 @@
-# Map Rotation
+# Map Rotations
 
 ::: info PLEASE NOTE
 Maps rotate every **4 months**. This support thread will be updated by maps in the rotation when a new rotation starts.
