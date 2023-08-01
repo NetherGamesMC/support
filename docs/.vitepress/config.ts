@@ -17,7 +17,7 @@ export default {
             { text: 'Friends System', link: '/friends-system' },
             { text: 'Guilds System', link: '/guilds-system' },
             { text: 'In-game Emojis', link: '/in-game-emojis' },
-            { text: 'Map Rotation', link: '/map-rotation' },
+            { text: 'Map Rotations', link: '/map-rotations' },
             { text: 'Useful Commands', link: '/useful-commands' }
         ]
         },
