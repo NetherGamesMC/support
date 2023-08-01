@@ -134,6 +134,9 @@ hero:
     - theme: alt
       text: Unable to Change My "About Me"
       link: /unable-to-change-my-about-me
-      
+    - theme: alt
+      text: Map Rotations
+      link: /map-rotations
+
 ---
 
