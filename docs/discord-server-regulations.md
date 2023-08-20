@@ -22,7 +22,7 @@ Offenders will be issued a warning under this regulation.
 
 **3. No advertising**
 
-You may not advertise/promote Discord servers or other programs, websites, or services. This rule includes direct messaging unsolicited invites.
+You may not advertise/promote Discord servers or other programs, websites, or services. This rule includes direct messaging unsolicited invites. However, you may share Discord servers that are related to NetherGames - such as guild servers.
 
 Offenders will be issued a warning under this regulation.
 
