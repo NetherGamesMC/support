@@ -10,7 +10,7 @@ Voters are granted a range of permissions in exchange for voting for NetherGames
 
 * x1.25 personal XP booster
 * Access to Mega Creative and two free 100x100 plots in the dimension
-* 2 credits per vote
+* x2 credits multiplier for the first hour after voting
 * 100 XP per vote
 
 You may also consider [buying a premium rank](https://support.nethergames.org/buying-a-premium-rank.html) to support us.
