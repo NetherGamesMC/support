@@ -25,3 +25,9 @@ The following categories of modifications are allowed:
 Any modifications that do not fit within the definitions of the above categories should be considered prohibited. We cannot provide an exhaustive list of which specific modifications are allowed.
 
 NetherGames does not endorse the usage of third-party modifications. Please check the integrity of these applications/extensions before using them at your own risk.
+
+::: warning PLEASE NOTE
+While VR clients are allowed on NetherGames, you may be flagged by our anticheat if you use any advantages provided by a VR client which other players do not have. Please play VR clients at your own risk. 
+:::
+
+
