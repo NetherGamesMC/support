@@ -1,7 +1,7 @@
 # Troubleshooting Connection Issues
 
 ::: tip RECEIVING MESSAGE "THIS USERNAME IS ALREADY REGISTERED"?
-Find out how to fix this issue [here](https://support.nethergames.org/troubleshooting-this-username-is-already-registered.html).
+Find out how to fix this issue [here](https://support.nethergames.org/this-username-is-already-registered.html).
 :::
 
 Are you having problems connecting to the network? Are you getting a high ping? Does it say, "You are already online," "Invalid IP address," or are you stuck on "locating server"? Try these tips below.
