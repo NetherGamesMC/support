@@ -31,3 +31,7 @@ Find out more about our credits and tier system [here](https://ngmc.co/tiers).
 **Following rotation:** early November 2023
 
 Find out more about the current maps in rotation [here](https://ngmc.co/maps).
+
+::: info PLEASE NOTE
+Rotation dates may be subject to change. Confirmed dates will be posted in our Discord server [here](https://ngmc.co/discord).
+:::
