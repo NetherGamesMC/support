@@ -137,6 +137,9 @@ hero:
     - theme: alt
       text: Map Rotations
       link: /map-rotations
+    - theme: alt
+      text: Season Rotations
+      link: /season-rotations
 
 ---
 
