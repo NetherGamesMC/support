@@ -6,11 +6,11 @@ The following aspects of the network run on seasons.
 
 ## Factions
 
-**Season cycle:** every 6 months
+**Season cycle:** every 4 months
 
-**Current season:** Season 6 (started November 10th 2023)
+**Current season:** Season 6 (started September 10th 2023)
 
-**Next season:** April 1st 2024
+**Next season:** January 10th 2024
 
 ## Skyblock
 
