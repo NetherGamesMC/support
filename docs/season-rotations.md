@@ -30,13 +30,12 @@ Find out more about our credits and tier system [here](https://ngmc.co/tiers).
 
 ## Maps
 
-**Rotation cycle:** every 4 months
-
-**Current rotation:** started August 1st 2023
-
-**Next rotation:** Halloween Special - mid October 2023
-
-**Following rotation:** early November 2023
+**Rotation 1:** January 15th to March 31st
+**Rotation 2:** April 1st to June 30th
+**Rotation 3:** July 1st to October 14th
+**Rotation 3 + Halloween Maps:** October 15th to November 14th
+**Rotation 4:** November 15th to December 14th
+**Rotation 4 + Christmas Maps:** December 15th to January 14th
 
 Find out more about the current maps in rotation [here](https://ngmc.co/maps).
 
