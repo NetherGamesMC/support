@@ -1,4 +1,4 @@
-# Map Rotation
+# Map Rotations
 
 ## Map rotation timeline
 
