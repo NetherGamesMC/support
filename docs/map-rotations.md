@@ -1,13 +1,18 @@
 # Map Rotation
 
-::: info PLEASE NOTE
-Maps rotate every **4 months**. This support thread will be updated by maps in the rotation when a new rotation starts.
-:::
+## Map rotation timeline
+
+**Rotation 1:** January 15th to March 31st
+**Rotation 2:** April 1st to June 30th
+**Rotation 3:** July 1st to October 14th
+**Rotation 3 + Halloween Maps:** October 15th to November 14th
+**Rotation 4:** November 15th to December 14th
+**Rotation 4 + Christmas Maps:** December 15th to January 14th
 
 The map rotation is a system NetherGames has in place to keep maps fresh and different. This is a list of all currently rotated maps for all gamemodes in the program.
 
 
-## Quick Access
+## Quick access
 
 [Bedwars](#bedwars)
 
