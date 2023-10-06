@@ -5,7 +5,7 @@
 * **Rotation 1:** January 10th to March 31st
 * **Rotation 2:** April 1st to June 30th
 * **Rotation 3:** July 1st to October 14th
-* **Rotation 3 + Halloween Maps:** October 15th to November 14th
+* **Rotation 3 + Spooky Season Maps:** October 15th to November 14th
 * **Rotation 4:** November 15th to December 9th
 * **Rotation 4 + Winter Holiday Maps:** December 10th to January 9th
 
