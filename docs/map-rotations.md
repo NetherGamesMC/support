@@ -29,20 +29,6 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ## Bedwars
 
 ### Solo/Duos
-**Aquaduct**
-![Aquaduct](assets/MapPhotos/BW/BW2/BW2_Aquaduct.png)
-
-**Celestial**  
-![Celestial](assets/MapPhotos/BW/BW2/BW_Celestial.png)
-
-**Exodus**  
-![Exodus](assets/MapPhotos/BW/BW2/BW2_Exodus.png)
-
-**Fallen**  
-![Fallen](assets/MapPhotos/BW/BW2/BW_Fallen.png)
-
-**Fastfood**  
-![Fastfood](assets/MapPhotos/BW/BW2/BW_Fastfood.png)
 
 **Industrial**  
 ![Industrial](assets/MapPhotos/BW/BW2/BW2_Industrial.png)
@@ -56,7 +42,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Royal**  
 ![Royal](assets/MapPhotos/BW/BW2/BW2_Royal.png)
 
-**Stumped (NEW)**  
+**Stumped**  
 ![Stumped](assets/MapPhotos/BW/BW2/BW2_Stumped.png)
 
 **Unearthed**  
@@ -88,8 +74,6 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Ukiyo](assets/MapPhotos/BW/BW4/BW_Ukiyo.png)
 
 ## Conquests
-**Antiques**
-![Antiques](assets/MapPhotos/CQ/BWC_Antiques.png)
 
 **Prey**
 ![Prey](assets/MapPhotos/CQ/BWC_Prey.png)
@@ -104,7 +88,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Academy**
 ![Academy](assets/MapPhotos/MM/MM_Academy.png)
 
-**Arid (NEW)**
+**Arid**
 ![Arid](assets/MapPhotos/MM/MM_Arid.png)
 
 **Asylum**
@@ -116,22 +100,17 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Mall**
 ![Mall](assets/MapPhotos/MM/MM_Mall.png)
 
-**Rome (NEW)**
+**Rome**
 ![Rome](assets/MapPhotos/MM/MM_Rome.png)
 
 ## Skywars
 
 ### Regular
-**Bonsai**
-![Bonsai](assets/MapPhotos/SW/Reg/SW_Bonsai.png)
-
-**Construction**
-![Construction](assets/MapPhotos/SW/Reg/SW_Construction.png)
 
 **District**
 ![District](assets/MapPhotos/SW/Reg/SW_District.png)
 
-**Doughnut (NEW)**
+**Doughnut**
 ![Doughnut](assets/MapPhotos/SW/Reg/SW_Doughnut.png)
 
 **Elowen**
@@ -143,7 +122,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Ingress**
 ![Ingress](assets/MapPhotos/SW/Reg/SW_Ingress.png)
 
-**Jura (NEW)**
+**Jura**
 ![Jura](assets/MapPhotos/SW/Reg/SW_Jura.png)
 
 **Mines**
@@ -184,42 +163,29 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Solar](assets/MapPhotos/SW/Duels/SWD_Solar.png)
 
 ## The Bridge
-**Blox (NEW)**
-![Blox](assets/MapPhotos/TB/TB_Blox.png)
-
-**Castle**
-![Castle](assets/MapPhotos/TB/TB_Castle.png)
-
-**Coast**
-![Coast](assets/MapPhotos/TB/TB_Coast.png)
 
 **Crossbones**
 ![Crossbones](assets/MapPhotos/TB/TB_Crossbones.png)
 
-**Frostbite (NEW)**
+**Frostbite**
 ![Frostbite](assets/MapPhotos/TB/TB_Frostbite.png)
 
 **Aegean**
 ![Aegean](assets/MapPhotos/TB/TB_NewAegaen.png)
 
-**Overgrown (REVAMPED)**
+**Overgrown**
 ![Overgrown](assets/MapPhotos/TB/TB_Overgrown.png)
 
 **Shuttle**
 ![Shuttle](assets/MapPhotos/TB/TB_Shuttle.png)
 
-**Skyscrapers (NEW)**
+**Skyscrapers**
 ![Skyscrapers](assets/MapPhotos/TB/TB_Skyscrapers.png)
 
 **Solice**
 ![Solice](assets/MapPhotos/TB/TB_Solice.png)
 
 ## Duels
-**Entryway**
-![Entryway](assets/MapPhotos/Duels/Duels_Entryway.png)
-
-**Familiar**
-![Familiar](assets/MapPhotos/Duels/Duels_Familiar.png)
 
 **Meadow**
 ![Meadow](assets/MapPhotos/Duels/Duels_Meadow.png)
