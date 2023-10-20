@@ -27,8 +27,21 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 [Duels](#duels)
 
 ## Bedwars
-
 ### Solo/Duos
+**Undying (Spookified)**  
+![Undying](assets/MapPhotos/BW/BW2/BW_Undying.png)
+
+**Giants (Spookified)**  
+![Giants](assets/MapPhotos/BW/BW2/HBW2_Giants.png)
+
+**Catamaran (Spookified)**  
+![Catamaran](assets/MapPhotos/BW/BW2/HBW2_Catamaran.png)
+
+**Wilderness (Spookified)**  
+![Wilderness](assets/MapPhotos/BW/BW2/HBW2_Wilderness.png)
+
+**Library (Spookified)**  
+![Library](assets/MapPhotos/BW/BW2/HBW2_Library.png)
 
 **Industrial**  
 ![Industrial](assets/MapPhotos/BW/BW2/BW2_Industrial.png)
@@ -49,6 +62,15 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Unearthed](assets/MapPhotos/BW/BW2/BW_Unearthed.png)
 
 ### Squads
+**Library (Spookified)**  
+![Library](assets/MapPhotos/BW/BW4/HBW4_Library.png)
+
+**Nexus (Spookified)**  
+![Nexus](assets/MapPhotos/BW/BW4/HBW4_Nexus.png)
+
+**Treehouse (Spookified)**  
+![Treehouse](assets/MapPhotos/BW/BW4/HBW_TreeHouse.png)
+
 **Ancient City**  
 ![Ancient City](assets/MapPhotos/BW/BW4/BW4_AncientCity.png)
 
@@ -74,6 +96,8 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Ukiyo](assets/MapPhotos/BW/BW4/BW_Ukiyo.png)
 
 ## Conquests
+**Dystopia (Spookified)**
+![Dystopia](assets/MapPhotos/CQ/HCQ2_Dystopia.png)
 
 **Prey**
 ![Prey](assets/MapPhotos/CQ/BWC_Prey.png)
@@ -104,8 +128,15 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Rome](assets/MapPhotos/MM/MM_Rome.png)
 
 ## Skywars
-
 ### Regular
+**Mines (Spookified)**
+![Mines](assets/MapPhotos/SW/Reg/HSW_Mines.png)
+
+**Petals (Spookified)**
+![Petals](assets/MapPhotos/SW/Reg/HSW_Petals.png)
+
+**Western (Spookified)**
+![Western](assets/MapPhotos/SW/Reg/HSW_Western.png)
 
 **District**
 ![District](assets/MapPhotos/SW/Reg/SW_District.png)
@@ -163,6 +194,8 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Solar](assets/MapPhotos/SW/Duels/SWD_Solar.png)
 
 ## The Bridge
+**Maison (Spookified)**
+![Maison](assets/MapPhotos/TB/HTB_Maison.png)
 
 **Crossbones**
 ![Crossbones](assets/MapPhotos/TB/TB_Crossbones.png)
@@ -186,7 +219,6 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Solice](assets/MapPhotos/TB/TB_Solice.png)
 
 ## Duels
-
 **Meadow**
 ![Meadow](assets/MapPhotos/Duels/Duels_Meadow.png)
 
