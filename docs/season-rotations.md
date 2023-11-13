@@ -16,7 +16,7 @@ The following aspects of the network run on seasons.
 
 **Season cycle:** every 12 months
 
-**Next season:** mid October 2023
+**Next season:** ETA End of November 2023
 
 ## Credits & Tiers
 
