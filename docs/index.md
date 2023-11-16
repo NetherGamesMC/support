@@ -140,6 +140,9 @@ hero:
     - theme: alt
       text: Season Rotations
       link: /season-rotations
+    - theme: alt
+      text: Skyblock Kits
+      link: /skyblock-kits
 
 ---
 
