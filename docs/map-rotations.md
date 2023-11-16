@@ -72,9 +72,6 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Ukiyo](assets/MapPhotos/BW/BW4/BW_Ukiyo.png)
 
 ## Conquests
-**Dystopia (Spookified)**
-![Dystopia](assets/MapPhotos/CQ/HCQ2_Dystopia.png)
-
 **Prey**
 ![Prey](assets/MapPhotos/CQ/BWC_Prey.png)
 
