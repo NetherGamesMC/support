@@ -75,6 +75,7 @@ export default {
             { text: 'Rollbacks in Factions & Skyblock', link: '/rollbacks-in-factions-and-skyblock' },
             { text: 'Scamming in Factions & Skyblock', link: '/scamming-in-factions-and-skyblock' },
             { text: 'Skyblock Crates & Enchantments', link: '/skyblock-crates-and-enchantments' },
+            { text: 'Skyblock Kits', link: '/skyblock-kits' },
         ]
         },
         {
