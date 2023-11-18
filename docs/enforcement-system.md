@@ -119,7 +119,6 @@ Punishment type: Ban
 
 * Abusing Report System
 * Bug Exploiting
-* Colluding with Cheaters (4 points)
 * Credit Farming
 * Inappropriate Nickname/Pet Name
 * Inappropriate Username (16 points, username ban only)
