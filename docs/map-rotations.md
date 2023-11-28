@@ -5,8 +5,8 @@
 * **Rotation 1:** January 10th to March 31st
 * **Rotation 2:** April 1st to June 30th
 * **Rotation 3:** July 1st to October 14th
-* **Rotation 3 + Spooky Season Maps:** October 15th to November 14th
-* **Rotation 4:** November 15th to December 9th
+* **Rotation 3 + Spooky Season Maps:** October 15th to November 9th
+* **Rotation 4:** November 10th to December 9th
 * **Rotation 4 + Winter Holiday Maps:** December 10th to January 9th
 
 The map rotation is a system NetherGames has in place to keep maps fresh and different. This is a list of all currently rotated maps for all gamemodes in the program.
@@ -28,60 +28,81 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 ## Bedwars
 ### Solo/Duos
-**Industrial**  
-![Industrial](assets/MapPhotos/BW/BW2/BW2_Industrial.png)
+**Serenity** - BRAND NEW
+![Serenity](assets/MapPhotos/BW8-Serenity.png)
 
-**Lighthouse**  
-![Lighthouse](assets/MapPhotos/BW/BW2/BW2_Lighthouse.png)
+**Wuzhen** - BRAND NEW
+![Wuzhen](assets/MapPhotos/BW8-Wuzhen.png)
 
-**Perished**  
-![Perished](assets/MapPhotos/BW/BW2/BW2_Perished.png)
+**Vikings** - BRAND NEW
+![Vikings](assets/MapPhotos/BW8-Vikings.png)
+
+**Caravan** - BRAND NEW
+![Caravan](assets/MapPhotos/BW8-Caravan.png)
+
+**Steampunk** - BRAND NEW
+![Steampunk](assets/MapPhotos/BW8-Steampunk.png)
+
+**Cloud**  
+![Cloud](assets/MapPhotos/BW8-Cloud.png)
 
 **Royal**  
-![Royal](assets/MapPhotos/BW/BW2/BW2_Royal.png)
+![Royal](assets/MapPhotos/BW8-Royal.png)
 
-**Stumped**  
-![Stumped](assets/MapPhotos/BW/BW2/BW2_Stumped.png)
+**Mushroom**  
+![Mushroom](assets/MapPhotos/BW8-Mushroom.png)
 
-**Unearthed**  
-![Unearthed](assets/MapPhotos/BW/BW2/BW_Unearthed.png)
+**Temple**  
+![Temple](assets/MapPhotos/BW8-Temple.png)
+
+**Wildwest**  
+![Wildwest](assets/MapPhotos/BW8-Wildwest.png)
 
 ### Squads
-**Ancient City**  
-![Ancient City](assets/MapPhotos/BW/BW4/BW4_AncientCity.png)
+**Primus** - BRAND NEW  
+![Primus](assets/MapPhotos/BW4-Primus.png)
 
-**Forsaken**  
-![Forsaken](assets/MapPhotos/BW/BW4/BW4_Forsaken.png)
+**Fungal**  
+![Fungal](assets/MapPhotos/BW4-Fungal.png)
 
-**Hive**
-![Hive](assets/MapPhotos/BW/BW4/BW4_Hive.png)
+**Perplexion**  
+![Perplexion](assets/MapPhotos/BW4-Perplexion.png)
 
-**Nexus**
-![Nexus](assets/MapPhotos/BW/BW4/BW4_Nexus.png)
+**Scarecrow**  
+![Scarecrow](assets/MapPhotos/BW4-Scarecrow.png)
 
-**Elysinia**
-![Elysinia](assets/MapPhotos/BW/BW4/BW_Elysinia.png)
+**Elementar**  
+![Elementar](assets/MapPhotos/BW4-Elementar.png)
 
-**Fungal**
-![Fungal](assets/MapPhotos/BW/BW4/BW_Fungal.png)
+**Nexus**  
+![Nexus](assets/MapPhotos/BW4-Nexus.png)
 
-**Harmony**
-![Harmony](assets/MapPhotos/BW/BW4/BW_Harmony.png)
+**Giants**  
+![Giants](assets/MapPhotos/BW4-Giants.png)
 
-**Ukiyo**
-![Ukiyo](assets/MapPhotos/BW/BW4/BW_Ukiyo.png)
+**Fastfood**  
+![Fastfood](assets/MapPhotos/BW4-Fastfood.png)
 
 ## Conquests
-**Prey**
-![Prey](assets/MapPhotos/CQ/BWC_Prey.png)
+**Dystopia**  
+![Dystopia](assets/MapPhotos/CQ-Dystopia.png)
 
-**Toluca**
-![Toluca](assets/MapPhotos/CQ/BWC_Toluca.png)
+**Snapdragons**  
+![Snapdragons](assets/MapPhotos/CQ-Snapdragons.png)
 
-**Woodlands**
-![Woodlands](assets/MapPhotos/CQ/BWC_Woodlands.png)
+**Toluca**  
+![Toluca](assets/MapPhotos/CQ-Toluca.png)
 
 ## Murder Mystery
+**Sakura** - BRAND NEW 
+![Sakura](assets/MapPhotos/MM-Sakura.png)
+
+**Watermill** - BRAND NEW
+![Watermill](assets/MapPhotos/MM-Watermill.png)
+
+**Embarkment** - BRAND NEW
+![Embarkment](assets/MapPhotos/MM-Embarkment.png)
+
 **Academy**
 ![Academy](assets/MapPhotos/MM/MM_Academy.png)
 
@@ -97,103 +118,124 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Mall**
 ![Mall](assets/MapPhotos/MM/MM_Mall.png)
 
-**Rome**
-![Rome](assets/MapPhotos/MM/MM_Rome.png)
-
 ## Skywars
 ### Regular
-**District**
-![District](assets/MapPhotos/SW/Reg/SW_District.png)
+**Rails** - BRAND NEW
+![Rails](assets/MapPhotos/SW-Rails.png)
 
-**Doughnut**
-![Doughnut](assets/MapPhotos/SW/Reg/SW_Doughnut.png)
+**Tropical** - BRAND NEW
+![Tropical](assets/MapPhotos/SW-Tropical.png)
 
-**Elowen**
-![Elowen](assets/MapPhotos/SW/Reg/SW_Elowen.png)
+**Waterfall** - BRAND NEW 
+![Waterfall](assets/MapPhotos/SW-Waterfall.png)
 
-**Hades**
-![Hades](assets/MapPhotos/SW/Reg/SW_Hades.png)
+**Rosewood**  
+![Rosewood](assets/MapPhotos/SW-Rosewood.png)
 
-**Ingress**
-![Ingress](assets/MapPhotos/SW/Reg/SW_Ingress.png)
+**Sentiment**  
+![Sentiment](assets/MapPhotos/SW-Sentiment.png)
 
-**Jura**
-![Jura](assets/MapPhotos/SW/Reg/SW_Jura.png)
+**Tangled**  
+![Tangled](assets/MapPhotos/SW-Tangled.png)
 
-**Mines**
-![Mines](assets/MapPhotos/SW/Reg/SW_Mines.png)
+**Icetown**  
+![Icetown](assets/MapPhotos/SW-Icetown.png)
 
-**Seafloor**
-![Seafloor](assets/MapPhotos/SW/Reg/SW_Seafloor.png)
+**Toys**  
+![Toys](assets/MapPhotos/SW-Toys.png)
 
-**Summer**
-![Summer](assets/MapPhotos/SW/Reg/SW_Summer.png)
+**Grizzly**  
+![Grizzly](assets/MapPhotos/SW-Grizzly.png)
 
-**Swale**
-![Swale](assets/MapPhotos/SW/Reg/SW_Swale.png)
+**Nostalgia**  
+![Nostalgia](assets/MapPhotos/SW-Nostalgia.png)
 
-**Sweets**
-![Sweets](assets/MapPhotos/SW/Reg/SW_Sweets.png)
+**Sprouts**  
+![Sprouts](assets/MapPhotos/SW-Sprouts.png)
 
-**Toys**
-![Toys](assets/MapPhotos/SW/Reg/SW_Toys.png)
+**Swale**  
+![Swale](assets/MapPhotos/SW-Swale.png)
 
-**Western**
-![Western](assets/MapPhotos/SW/Reg/SW_Western.png)
+**Portal**  
+![Portal](assets/MapPhotos/SW-Portal.png)
+
+**Stellar**  
+![Stellar](assets/MapPhotos/SW-Stellar.png)
+
+**Morass**  
+![Morass](assets/MapPhotos/SW-Morass.png)
+
+**Seafloor**  
+![Seafloor](assets/MapPhotos/SW-Seafloor.png)
+
+**Summer**  
+![Summer](assets/MapPhotos/SW-Summer.png)
+
+**Bonsai**  
+![Bonsai](assets/MapPhotos/SW-Bonsai.png)
 
 ### Duels (SW)
-**Burried**
-![Buried](assets/MapPhotos/SW/Duels/SWD_Buried.png)
+**Cypher**  
+![Cypher](assets/MapPhotos/SWD-Cypher.png)
 
-**Narra**
-![Narra](assets/MapPhotos/SW/Duels/SWD_Narra.png)
+**Nara**  
+![Nara](assets/MapPhotos/SWD-Nara.png)
 
-**Scaffolds**
-![Scaffolds](assets/MapPhotos/SW/Duels/SWD_Scaffolds.png)
+**Scaffolds**  
+![Scaffolds](assets/MapPhotos/SWD-Scaffolds.png)
 
-**Shafts**
-![Shafts](assets/MapPhotos/SW/Duels/SWD_Shafts.png)
+**Solar**  
+![Solar](assets/MapPhotos/SWD-Solar.png)
 
-**Solar**
-![Solar](assets/MapPhotos/SW/Duels/SWD_Solar.png)
+**Glacier**  
+![Glacier](assets/MapPhotos/SWD-Glacier.png)
 
 ## The Bridge
-**Crossbones**
-![Crossbones](assets/MapPhotos/TB/TB_Crossbones.png)
+**Tabernacle** - BRAND NEW
+![Tabernacle](assets/MapPhotos/TB-Tabernacle.png)
 
-**Frostbite**
-![Frostbite](assets/MapPhotos/TB/TB_Frostbite.png)
+**Ash**  
+![Ash](assets/MapPhotos/TB-Ash.png)
 
-**Aegean**
-![Aegean](assets/MapPhotos/TB/TB_NewAegaen.png)
+**Frostbite**  
+![Frostbite](assets/MapPhotos/TB-Frostbite.png)
 
-**Overgrown**
-![Overgrown](assets/MapPhotos/TB/TB_Overgrown.png)
+**Kraken**  
+![Kraken](assets/MapPhotos/TB-Kraken.png)
 
-**Shuttle**
-![Shuttle](assets/MapPhotos/TB/TB_Shuttle.png)
+**Pirates**  
+![Pirates](assets/MapPhotos/TB-Pirates.png)
 
-**Skyscrapers**
-![Skyscrapers](assets/MapPhotos/TB/TB_Skyscrapers.png)
-
-**Solice**
-![Solice](assets/MapPhotos/TB/TB_Solice.png)
+**Wonderland**  
+![Wonderland](assets/MapPhotos/TB-Wonderland.png)
 
 ## Duels
-**Meadow**
-![Meadow](assets/MapPhotos/Duels/Duels_Meadow.png)
+**Temple**  
+![Temple](assets/MapPhotos/DLS-Temple.png)
 
-**Mindgames**
-![Mindgames](assets/MapPhotos/Duels/Duels_Mindgames.png)
+**Bridge**  
+![Bridge](assets/MapPhotos/DLS-Bridge.png)
 
-**Nature**
-![Nature](assets/MapPhotos/Duels/Duels_Nature.png)
+**Familiar**  
+![Familiar](assets/MapPhotos/DLS-Familiar.png)
 
-**Oriental**
-![Oriental](assets/MapPhotos/Duels/Duels_Oriental.png)
+**Yard**  
+![Yard](assets/MapPhotos/DLS-Yard.png)
 
-**Paradise**
-![Paradise](assets/MapPhotos/Duels/Duels_Paradise.png)
+**Resort**  
+![Resort](assets/MapPhotos/DLS-Resort.png)
 
-**Spaceport**
-![Spaceport](assets/MapPhotos/Duels/Duels_Spaceport.png)
+**Spaceport**  
+![Spaceport](assets/MapPhotos/DLS-Spaceport.png)
+
+**Frostbite**  
+![Frostbite](assets/MapPhotos/DLS-Frostbite.png)
+
+**Reef**  
+![Reef](assets/MapPhotos/DLS-Reef.png)
+
+**Daffodil**  
+![Daffodil](assets/MapPhotos/DLS-Daffodil.png)
+
+**Madlab**  
+![Madlab](assets/MapPhotos/DLS-Madlab.png)
