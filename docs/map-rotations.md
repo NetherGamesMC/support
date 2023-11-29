@@ -52,24 +52,33 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Mushroom**  
 ![Mushroom](assets/MapPhotos/BW8-Mushroom.png)
 
-**Temple**  
-![Temple](assets/MapPhotos/BW8-Temple.png)
+**Sandy**  
+![Sandy](assets/MapPhotos/BW8-Sandy.png)
 
 **Wildwest**  
 ![Wildwest](assets/MapPhotos/BW8-Wildwest.png)
 
+**Fallen**  
+![Fallen](assets/MapPhotos/BW8-Fallen.png)
+
+**Celestial**  
+![Celestial](assets/MapPhotos/BW8-Celestial.png)
+
+**Aquaduct**  
+![Aquaduct](assets/MapPhotos/BW8-Aquaduct.png)
+
 ### Squads
 **Primus** - BRAND NEW  
 ![Primus](assets/MapPhotos/BW4-Primus.png)
+
+**Forsaken**  
+![Forsaken](assets/MapPhotos/BW4-Forsaken.png)
 
 **Fungal**  
 ![Fungal](assets/MapPhotos/BW4-Fungal.png)
 
 **Perplexion**  
 ![Perplexion](assets/MapPhotos/BW4-Perplexion.png)
-
-**Scarecrow**  
-![Scarecrow](assets/MapPhotos/BW4-Scarecrow.png)
 
 **Elementar**  
 ![Elementar](assets/MapPhotos/BW4-Elementar.png)
