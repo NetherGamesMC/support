@@ -28,48 +28,60 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 ## Bedwars
 ### Solo/Duos
+**Wuzhen** - BRAND NEW
+![Wuzhen](assets/MapPhotos/BW8-Wuzhen.png)
+
 **Serenity** - BRAND NEW
 ![Serenity](assets/MapPhotos/BW8-Serenity.png)
 
-**Wuzhen** - BRAND NEW
-![Wuzhen](assets/MapPhotos/BW8-Wuzhen.png)
+**Steampunk** - BRAND NEW 
+![Steampunk](assets/MapPhotos/BW8-Steampunk.png)
 
 **Vikings** - BRAND NEW
 ![Vikings](assets/MapPhotos/BW8-Vikings.png)
 
-**Caravan** - BRAND NEW
+**Aquaduct**  
+![Aquaduct](assets/MapPhotos/BW8-Aquaduct.png)
+
+**Caravan**  
 ![Caravan](assets/MapPhotos/BW8-Caravan.png)
-
-**Steampunk** - BRAND NEW
-![Steampunk](assets/MapPhotos/BW8-Steampunk.png)
-
-**Cloud**  
-![Cloud](assets/MapPhotos/BW8-Cloud.png)
-
-**Royal**  
-![Royal](assets/MapPhotos/BW8-Royal.png)
-
-**Mushroom**  
-![Mushroom](assets/MapPhotos/BW8-Mushroom.png)
-
-**Sandy**  
-![Sandy](assets/MapPhotos/BW8-Sandy.png)
-
-**Wildwest**  
-![Wildwest](assets/MapPhotos/BW8-Wildwest.png)
-
-**Fallen**  
-![Fallen](assets/MapPhotos/BW8-Fallen.png)
 
 **Celestial**  
 ![Celestial](assets/MapPhotos/BW8-Celestial.png)
 
-**Aquaduct**  
-![Aquaduct](assets/MapPhotos/BW8-Aquaduct.png)
+**Cloud**  
+![Cloud](assets/MapPhotos/BW8-Cloud.png)
+
+**Fallen**  
+![Fallen](assets/MapPhotos/BW8-Fallen.png)
+
+**Mushrooms**  
+![Mushrooms](assets/MapPhotos/BW8-Mushrooms.png)
+
+**Royal**  
+![Royal](assets/MapPhotos/BW8-Royal.png)
+
+**Sandy**  
+![Sandy](assets/MapPhotos/BW8-Sandy.png)
+
+**Wildwest**
+![Wildwest](assets/MapPhotos/BW8-Wildwest.png)
+
+**Exodus**  
+![Exodus](assets/MapPhotos/BW8-Exodus.png)
+
+**Giants**  
+![Giants](assets/MapPhotos/BW8-Giants.png)
 
 ### Squads
-**Primus** - BRAND NEW  
+**Primus** - BRAND NEW
 ![Primus](assets/MapPhotos/BW4-Primus.png)
+
+**Elementar**  
+![Elementar](assets/MapPhotos/BW4-Elementar.png)
+
+**Fastfood**  
+![Fastfood](assets/MapPhotos/BW4-Fastfood.png)
 
 **Forsaken**  
 ![Forsaken](assets/MapPhotos/BW4-Forsaken.png)
@@ -77,20 +89,20 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Fungal**  
 ![Fungal](assets/MapPhotos/BW4-Fungal.png)
 
-**Perplexion**  
-![Perplexion](assets/MapPhotos/BW4-Perplexion.png)
-
-**Elementar**  
-![Elementar](assets/MapPhotos/BW4-Elementar.png)
+**Giants**  
+![Giants](assets/MapPhotos/BW4-Giants.png)
 
 **Nexus**  
 ![Nexus](assets/MapPhotos/BW4-Nexus.png)
 
-**Giants**  
-![Giants](assets/MapPhotos/BW4-Giants.png)
+**Perplexion**  
+![Perplexion](assets/MapPhotos/BW4-Perplexion.png)
 
-**Fastfood**  
-![Fastfood](assets/MapPhotos/BW4-Fastfood.png)
+**Ancient_City**  
+![Ancient_City](assets/MapPhotos/BW4-Ancient_City.png)
+
+**Aquaduct**  
+![Aquaduct](assets/MapPhotos/BW8-Aquaduct.png)
 
 ## Conquests
 **Dystopia**  
