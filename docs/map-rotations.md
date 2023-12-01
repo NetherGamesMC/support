@@ -252,9 +252,6 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Spaceport**  
 ![Spaceport](assets/MapPhotos/DLS-Spaceport.png)
 
-**Frostbite**  
-![Frostbite](assets/MapPhotos/DLS-Frostbite.png)
-
 **Reef**  
 ![Reef](assets/MapPhotos/DLS-Reef.png)
 
