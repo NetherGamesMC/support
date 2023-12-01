@@ -261,5 +261,5 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Daffodil**  
 ![Daffodil](assets/MapPhotos/DLS-Daffodil.png)
 
-**Madlab**  
-![Madlab](assets/MapPhotos/DLS-Madlab.png)
+**Meadow**  
+![Meadow](assets/MapPhotos/DLS-Meadow.png)
