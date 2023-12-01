@@ -114,6 +114,9 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Toluca**  
 ![Toluca](assets/MapPhotos/CQ-Toluca.png)
 
+**Antiques**  
+![Antiques](assets/MapPhotos/CQ-Antiques.png)
+
 ## Murder Mystery
 **Sakura** - BRAND NEW 
 ![Sakura](assets/MapPhotos/MM-Sakura.png)
