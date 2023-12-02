@@ -50,7 +50,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Celestial](assets/MapPhotos/BW8-Celestial.png)
 
 **Cloud**  
-![Cloud](assets/MapPhotos/BW8-Cloud.png)
+Image unavailable.
 
 **Fallen**  
 ![Fallen](assets/MapPhotos/BW8-Fallen.png)
@@ -71,7 +71,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Exodus](assets/MapPhotos/BW8-Exodus.png)
 
 **Giants**  
-![Giants](assets/MapPhotos/BW8-Giants.png)
+Image unavailable.
 
 ### Squads
 **Primus** - BRAND NEW
@@ -119,7 +119,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 ## Murder Mystery
 **Sakura** - BRAND NEW 
-![Sakura](assets/MapPhotos/MM-Sakura.png)
+Image unavailable.
 
 **Watermill** - BRAND NEW
 ![Watermill](assets/MapPhotos/MM-Watermill.png)
@@ -141,6 +141,12 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 **Mall**
 ![Mall](assets/MapPhotos/MM/MM_Mall.png)
+
+**Muscaria**
+Image unavailable.
+
+**Victorian Residence**
+Image unavailable.
 
 ## Skywars
 ### Regular
@@ -202,6 +208,9 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Cypher**  
 ![Cypher](assets/MapPhotos/SWD-Cypher.png)
 
+**Forest**  
+Image unavailable.
+
 **Nara**  
 ![Nara](assets/MapPhotos/SWD-Nara.png)
 
@@ -219,7 +228,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Tabernacle](assets/MapPhotos/TB-Tabernacle.png)
 
 **Ash**  
-![Ash](assets/MapPhotos/TB-Ash.png)
+Image unavailable.
 
 **Frostbite**  
 ![Frostbite](assets/MapPhotos/TB-Frostbite.png)
