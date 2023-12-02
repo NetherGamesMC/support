@@ -209,13 +209,15 @@ Image unavailable.
 
 ### Duels (SW)
 **Cypher**  
-![Cypher](assets/MapPhotos/SWD-Cypher.png)
 
-**Forest**  
 Image unavailable.
 
-**Nara**  
-![Nara](assets/MapPhotos/SWD-Nara.png)
+**Forest**  
+
+Image unavailable.
+
+**Narra**  
+![Narra](assets/MapPhotos/SWD-Narra.png)
 
 **Scaffolds**  
 ![Scaffolds](assets/MapPhotos/SWD-Scaffolds.png)
@@ -230,7 +232,8 @@ Image unavailable.
 **Tabernacle** - BRAND NEW
 ![Tabernacle](assets/MapPhotos/TB-Tabernacle.png)
 
-**Ash**  
+**Ash**
+
 Image unavailable.
 
 **Frostbite**  
