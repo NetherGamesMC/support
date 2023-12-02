@@ -144,9 +144,11 @@ Image unavailable.
 ![Mall](assets/MapPhotos/MM/MM_Mall.png)
 
 **Muscaria**
+
 Image unavailable.
 
 **Victorian Residence**
+
 Image unavailable.
 
 ## Skywars
