@@ -226,7 +226,8 @@ Image unavailable.
 ![Solar](assets/MapPhotos/SWD-Solar.png)
 
 **Glacier**  
-![Glacier](assets/MapPhotos/SWD-Glacier.png)
+
+Image unavailable.
 
 ## The Bridge
 **Tabernacle** - BRAND NEW
