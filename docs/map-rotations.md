@@ -119,6 +119,7 @@ Image unavailable.
 
 ## Murder Mystery
 **Sakura** - BRAND NEW 
+
 Image unavailable.
 
 **Watermill** - BRAND NEW
@@ -154,10 +155,12 @@ Image unavailable.
 ![Rails](assets/MapPhotos/SW-Rails.png)
 
 **Tropical** - BRAND NEW
-![Tropical](assets/MapPhotos/SW-Tropical.png)
+
+Image unavailable.
 
 **Waterfall** - BRAND NEW 
-![Waterfall](assets/MapPhotos/SW-Waterfall.png)
+
+Image unavailable.
 
 **Rosewood**  
 ![Rosewood](assets/MapPhotos/SW-Rosewood.png)
@@ -175,7 +178,8 @@ Image unavailable.
 ![Toys](assets/MapPhotos/SW-Toys.png)
 
 **Grizzly**  
-![Grizzly](assets/MapPhotos/SW-Grizzly.png)
+
+Image unavailable.
 
 **Nostalgia**  
 ![Nostalgia](assets/MapPhotos/SW-Nostalgia.png)
@@ -185,9 +189,6 @@ Image unavailable.
 
 **Swale**  
 ![Swale](assets/MapPhotos/SW-Swale.png)
-
-**Portal**  
-![Portal](assets/MapPhotos/SW-Portal.png)
 
 **Stellar**  
 ![Stellar](assets/MapPhotos/SW-Stellar.png)
