@@ -251,10 +251,12 @@ Image unavailable.
 ![Temple](assets/MapPhotos/DLS-Temple.png)
 
 **Bridge**  
-![Bridge](assets/MapPhotos/DLS-Bridge.png)
+
+Image unavailable.
 
 **Familiar**  
-![Familiar](assets/MapPhotos/DLS-Familiar.png)
+
+Image unavailable.
 
 **Yard**  
 ![Yard](assets/MapPhotos/DLS-Yard.png)
