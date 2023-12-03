@@ -208,7 +208,7 @@ Image unavailable.
 
 ### Duels (SW)
 **Cypher**  
-![Cypher](assets/MapPhotos/SW-Cypher.png)
+![Cypher](assets/MapPhotos/SWD-Cypher.png)
 
 **Forest**  
 
