@@ -128,19 +128,19 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Embarkment](assets/MapPhotos/MM-Embarkment.png)
 
 **Academy**
-![Academy](assets/MapPhotos/MM/MM_Academy.png)
+![Academy](assets/MapPhotos/MM_Academy.png)
 
 **Arid**
-![Arid](assets/MapPhotos/MM/MM_Arid.png)
+![Arid](assets/MapPhotos/MM_Arid.png)
 
 **Asylum**
-![Asylum](assets/MapPhotos/MM/MM_Asylum.png)
+![Asylum](assets/MapPhotos/MM_Asylum.png)
 
 **Haven**
-![Haven](assets/MapPhotos/MM/MM_Haven.png)
+![Haven](assets/MapPhotos/MM_Haven.png)
 
 **Mall**
-![Mall](assets/MapPhotos/MM/MM_Mall.png)
+![Mall](assets/MapPhotos/MM_Mall.png)
 
 **Muscaria**
 ![Muscaria](assets/MapPhotos/MM-Muscaria.png)
