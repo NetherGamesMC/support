@@ -146,7 +146,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Muscaria](assets/MapPhotos/MM-Muscaria.png)
 
 **Victorian Residence**
-![Victorian Residence](assets/MapPhotos/BW8-Victorian_Residence.png)
+![Victorian Residence](assets/MapPhotos/MM-Victorian_Residence.png)
 
 ## Skywars
 ### Regular
