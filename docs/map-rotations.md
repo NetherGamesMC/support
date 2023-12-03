@@ -50,7 +50,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Celestial](assets/MapPhotos/BW8-Celestial.png)
 
 **Cloud**  
-Image unavailable.
+![Cloud](assets/MapPhotos/BW8-Cloud.png)
 
 **Fallen**  
 ![Fallen](assets/MapPhotos/BW8-Fallen.png)
@@ -71,7 +71,7 @@ Image unavailable.
 ![Exodus](assets/MapPhotos/BW8-Exodus.png)
 
 **Giants**  
-Image unavailable.
+![Giants](assets/MapPhotos/BW8-Giants.png)
 
 ### Squads
 **Primus** - BRAND NEW
@@ -146,8 +146,7 @@ Image unavailable.
 ![Muscaria](assets/MapPhotos/MM-Muscaria.png)
 
 **Victorian Residence**
-
-Image unavailable.
+![Victorian Residence](assets/MapPhotos/BW8-Victorian_Residence.png)
 
 ## Skywars
 ### Regular
