@@ -157,12 +157,11 @@ Image unavailable.
 ![Rails](assets/MapPhotos/SW-Rails.png)
 
 **Tropical** - BRAND NEW
+![Tropical](assets/MapPhotos/SW-Tropical.png)
 
-Image unavailable.
 
 **Waterfall** - BRAND NEW 
-
-Image unavailable.
+![Waterfall](assets/MapPhotos/SW-Waterfall.png)
 
 **Rosewood**  
 ![Rosewood](assets/MapPhotos/SW-Rosewood.png)
@@ -209,8 +208,7 @@ Image unavailable.
 
 ### Duels (SW)
 **Cypher**  
-
-Image unavailable.
+![Cypher](assets/MapPhotos/SW-Cypher.png)
 
 **Forest**  
 
@@ -226,8 +224,7 @@ Image unavailable.
 ![Solar](assets/MapPhotos/SWD-Solar.png)
 
 **Glacier**  
-
-Image unavailable.
+![Glacier](assets/MapPhotos/SW-Glacier.png)
 
 ## The Bridge
 **Tabernacle** - BRAND NEW
