@@ -119,8 +119,7 @@ Image unavailable.
 
 ## Murder Mystery
 **Sakura** - BRAND NEW 
-
-Image unavailable.
+![Sakura](assets/MapPhotos/MM-Sakura.png)
 
 **Watermill** - BRAND NEW
 ![Watermill](assets/MapPhotos/MM-Watermill.png)
@@ -144,8 +143,7 @@ Image unavailable.
 ![Mall](assets/MapPhotos/MM/MM_Mall.png)
 
 **Muscaria**
-
-Image unavailable.
+![Muscaria](assets/MapPhotos/MM-Muscaria.png)
 
 **Victorian Residence**
 
@@ -158,7 +156,6 @@ Image unavailable.
 
 **Tropical** - BRAND NEW
 ![Tropical](assets/MapPhotos/SW-Tropical.png)
-
 
 **Waterfall** - BRAND NEW 
 ![Waterfall](assets/MapPhotos/SW-Waterfall.png)
@@ -255,8 +252,7 @@ Image unavailable.
 Image unavailable.
 
 **Familiar**  
-
-Image unavailable.
+![Familiar](assets/MapPhotos/DLS-Familiar.png)
 
 **Yard**  
 ![Yard](assets/MapPhotos/DLS-Yard.png)
