@@ -176,8 +176,7 @@ Image unavailable.
 ![Toys](assets/MapPhotos/SW-Toys.png)
 
 **Grizzly**  
-
-Image unavailable.
+![Grizzly](assets/MapPhotos/SW-Grizzly.png)
 
 **Nostalgia**  
 ![Nostalgia](assets/MapPhotos/SW-Nostalgia.png)
