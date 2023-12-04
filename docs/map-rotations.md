@@ -1,6 +1,6 @@
 # Map Rotations
 
-## Map rotation timeline
+## Timeline
 
 * **Rotation 1:** January 10th to March 31st
 * **Rotation 2:** April 1st to June 30th
