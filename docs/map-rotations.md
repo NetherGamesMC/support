@@ -40,8 +40,8 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Vikings** - BRAND NEW
 ![Vikings](assets/MapPhotos/BW8-Vikings.png)
 
-**Aquaduct**  
-![Aquaduct](assets/MapPhotos/BW8-Aquaduct.png)
+**Aqueduct**  
+![Aqueduct](assets/MapPhotos/BW8-Aqueduct.png)
 
 **Caravan**  
 ![Caravan](assets/MapPhotos/BW8-Caravan.png)
