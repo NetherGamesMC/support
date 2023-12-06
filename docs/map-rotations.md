@@ -40,6 +40,9 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Vikings** - BRAND NEW
 ![Vikings](assets/MapPhotos/BW8-Vikings.png)
 
+**Aqueduct**  
+![Aqueduct](assets/MapPhotos/BW8-Aqueduct.png)
+
 **Caravan**  
 ![Caravan](assets/MapPhotos/BW8-Caravan.png)
 
@@ -95,11 +98,8 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Perplexion**  
 ![Perplexion](assets/MapPhotos/BW4-Perplexion.png)
 
-**Ancient_City**  
+**Ancient City**  
 ![Ancient_City](assets/MapPhotos/BW4-Ancient_City.png)
-
-**Aquaduct**  
-![Aquaduct](assets/MapPhotos/BW8-Aquaduct.png)
 
 ## Conquests
 **Dystopia**  
