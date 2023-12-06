@@ -224,12 +224,10 @@ Image unavailable.
 Image unavailable.
 
 **Blox**
-
-Image unavailable.
+![Blox](assets/MapPhotos/TB-Blox.png)
 
 **Coast**
-
-Image unavailable.
+![Coast](assets/MapPhotos/TB-Coast.png)
 
 **Frostbite**  
 ![Frostbite](assets/MapPhotos/TB-Frostbite.png)
