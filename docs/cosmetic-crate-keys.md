@@ -21,7 +21,7 @@ The following Cosmetic Types exist:
 - Trails
 - Arrow Trails
 - Kill Effects 
-- Win Effects (All Minigames)
+- Win Effects (All minigames)
 - Particles
 - Helmet (Lobby)
 - Chestplate (Lobby)
@@ -29,16 +29,17 @@ The following Cosmetic Types exist:
 - Boots (Lobby)
 - Knife (Murder Mystery)
 - Wings (Lobby)
-- Bed Break Effects (BedWars)
-- Cage (SkyWars, The Bridge)
+- Bed Break Effects (Bedwars)
+- Cage (Skywars, The Bridge)
 - Capes
-- Kill Sounds (All Minigames)
-- Bed Break Sounds (BedWars)
-- Shopkeeper (BedWars)
+- Kill Sounds (All minigames)
+- Bed Break Sounds (Bedwars)
+- Shopkeeper (Bedwars)
 - Flag (Conquests)
 
 ## Trails
 Trails will add the currently selected particle type as particles behind you when you're running.
+
 The following particles are available:
 - Flame
 - Redstone
@@ -54,6 +55,7 @@ The following particles are available:
 
 ## Arrow Trails
 Arrow Trails will add the currently selected particle type as a trail behind any arrow you fire.
+
 The following particles are available:
 - Flame
 - Redstone
@@ -68,7 +70,8 @@ The following particles are available:
 - Rainbow
 
 ## Kill Effects
-Kill effects are played whenever you kill a player in any Minigame.
+Kill effects are played whenever you kill a player in any minigame.
+
 The following kill effects are available:
 - Sphere Firework
 - Star Firework
@@ -79,6 +82,7 @@ The following kill effects are available:
 
 ## Win Effects
 Win effects are played whenever you win any minigame.
+
 The following win effects are available:
 - Sphere Firework
 - Star Firework
@@ -89,6 +93,7 @@ The following win effects are available:
 
 ## Particles
 Generic Particles that surround you in the lobby.
+
 The following particles are available:
 - Flame
 - Redstone
@@ -114,7 +119,9 @@ Knifes are only available in Murder Mystery and allows you to choose between the
 - Diamond
 
 ## Wings 
-Wings are particles that form wings behind you in the lobby. The following wings are available:
+Wings are particles that form wings behind you in the lobby.
+
+The following wings are available:
 - Flame
 - Redstone
 - Heart
@@ -128,7 +135,8 @@ Wings are particles that form wings behind you in the lobby. The following wings
 - Rainbow
 
 ## Bed Break Effects
-Bed Break Effects are triggered whenever you destroy an opponents bed in BedWars
+Bed Break Effects are triggered whenever you destroy an opponents bed in Bedwars
+
 The following bed break effects are available:
 - Sphere Firework
 - Star Firework
@@ -138,7 +146,8 @@ The following bed break effects are available:
 - Explosion
 
 ## Cage
-Cages are cosmetics for the cages that you spawn in when playing SkyWars and TheBridge.
+Cages are cosmetics for the cages that you spawn in when playing Skywars and The Bridge.
+
 The following types of cages are available:
 - White
 - Orange
@@ -176,10 +185,12 @@ The following capes can be obtained:
 - Mage
 - Shulker
 - Pirate
+  
 Please note that there are more capes available, which can only be obtained by acquiring certain levels, participating in events or being a staff member. These are not included in crate keys.
 
 ## Kill Sounds
-Kill sounds are played to all nearby players when you eliminate a player in a Minigame.
+Kill sounds are played to all nearby players when you eliminate a player in a game.
+
 The following kill sounds are available:
 - Orb Ding
 - Level Up Ding
@@ -194,7 +205,7 @@ The following kill sounds are available:
 - Fizz
 
 ## Bed Break Sounds (FX)
-Bed Break sounds are played whenever you destroy an opponents bed in bedwars.
+Bed Break sounds are played whenever you destroy an opponents bed in Bedwars.
 The following sounds are available.
 - Orb Ding
 - Level Up Ding
@@ -212,5 +223,4 @@ The following sounds are available.
 Shopkeepers are different in the way that they are not obtainable through crate keys.
 
 ## Flags
-Conquest flags are the flags that you can see and capture when playing Conquest. The following Flags are available:
-- Halloween
+Conquest flags are different in the way that they are not obtainable through crate keys
