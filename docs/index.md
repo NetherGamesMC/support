@@ -9,6 +9,9 @@ hero:
   tagline: Select from our articles below
   actions:
     - theme: alt
+      text: Frequently Asked Questions
+      link: /faq
+    - theme: alt
       text: Credits & Tiers
       link: /credits-and-tiers
     - theme: alt
