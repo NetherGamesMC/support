@@ -28,16 +28,29 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 ## Bedwars
 ### Solo/Duos
-**Wuzhen** - BRAND NEW
+
+**Candyland** - Winter holiday themed  
+![Candyland](assets/MapPhotos/C-BW8-Candyland.png)
+
+**Nutcracker** - Winter holiday themed  
+![Nutcracker](assets/MapPhotos/C-BW8-Nutcracker.png)
+
+**Seek** - Winter holiday themed  
+![Seek](assets/MapPhotos/C-BW8-Seek.png)
+
+**Sultry** - Winter holiday themed  
+![Sultry](assets/MapPhotos/C-BW8-Sultry.png)
+
+**Wuzhen**
 ![Wuzhen](assets/MapPhotos/BW8-Wuzhen.png)
 
-**Serenity** - BRAND NEW
+**Serenity**
 ![Serenity](assets/MapPhotos/BW8-Serenity.png)
 
-**Steampunk** - BRAND NEW 
+**Steampunk**
 ![Steampunk](assets/MapPhotos/BW8-Steampunk.png)
 
-**Vikings** - BRAND NEW
+**Vikings**
 ![Vikings](assets/MapPhotos/BW8-Vikings.png)
 
 **Aqueduct**  
@@ -61,9 +74,6 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Royal**  
 ![Royal](assets/MapPhotos/BW8-Royal.png)
 
-**Sandy**  
-![Sandy](assets/MapPhotos/BW8-Sandy.png)
-
 **Wildwest**
 ![Wildwest](assets/MapPhotos/BW8-Wildwest.png)
 
@@ -74,7 +84,16 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Giants](assets/MapPhotos/BW8-Giants.png)
 
 ### Squads
-**Primus** - BRAND NEW
+**Castaway** - Winter holiday themed  
+![Castaway](assets/MapPhotos/C-BW4-Castaway.png)
+
+**Forsaken** - Winter holiday themed  
+![Forsaken](assets/MapPhotos/C-BW4-Forsaken.png)
+
+**Fungal** - Winter holiday themed  
+![Fungal](assets/MapPhotos/C-BW4-Fungal.png)
+
+**Primus**
 ![Primus](assets/MapPhotos/BW4-Primus.png)
 
 **Elementar**  
@@ -82,12 +101,6 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 **Fastfood**  
 ![Fastfood](assets/MapPhotos/BW4-Fastfood.png)
-
-**Forsaken**  
-![Forsaken](assets/MapPhotos/BW4-Forsaken.png)
-
-**Fungal**  
-![Fungal](assets/MapPhotos/BW4-Fungal.png)
 
 **Giants**  
 ![Giants](assets/MapPhotos/BW4-Giants.png)
@@ -115,13 +128,16 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Antiques](assets/MapPhotos/CQ-Antiques.png)
 
 ## Murder Mystery
-**Sakura** - BRAND NEW 
+**Muscaria** - Winter holiday themed  
+![Muscaria](assets/MapPhotos/C-MM-Muscaria.png)
+
+**Sakura**
 ![Sakura](assets/MapPhotos/MM-Sakura.png)
 
-**Watermill** - BRAND NEW
+**Watermill**
 ![Watermill](assets/MapPhotos/MM-Watermill.png)
 
-**Embarkment** - BRAND NEW
+**Embarkment**
 ![Embarkment](assets/MapPhotos/MM-Embarkment.png)
 
 **Academy**
@@ -147,13 +163,22 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 ## Skywars
 ### Regular
-**Rails** - BRAND NEW
+**Elowen** - Winter holiday themed  
+![Elowen](assets/MapPhotos/C-SW-Elowen.png)
+
+**Grizzly** - Winter holiday themed  
+![Grizzly](assets/MapPhotos/C-SW-Grizzly.png)
+
+**Icetown** - Winter holiday themed  
+![Icetown](assets/MapPhotos/C-SW-Icetown.png)
+
+**Rails**
 ![Rails](assets/MapPhotos/SW-Rails.png)
 
-**Tropical** - BRAND NEW
+**Tropical**
 ![Tropical](assets/MapPhotos/SW-Tropical.png)
 
-**Waterfall** - BRAND NEW 
+**Waterfall**
 ![Waterfall](assets/MapPhotos/SW-Waterfall.png)
 
 **Rosewood**  
@@ -164,15 +189,6 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 **Tangled**  
 ![Tangled](assets/MapPhotos/SW-Tangled.png)
-
-**Icetown**  
-![Icetown](assets/MapPhotos/SW-Icetown.png)
-
-**Toys**  
-![Toys](assets/MapPhotos/SW-Toys.png)
-
-**Grizzly**  
-![Grizzly](assets/MapPhotos/SW-Grizzly.png)
 
 **Nostalgia**  
 ![Nostalgia](assets/MapPhotos/SW-Nostalgia.png)
@@ -216,7 +232,16 @@ Image unavailable.
 ![Glacier](assets/MapPhotos/SWD-Glacier.png)
 
 ## The Bridge
-**Tabernacle** - BRAND NEW
+**Coast** - Winter holiday themed  
+![Coast](assets/MapPhotos/C-TB-Coast.png)
+
+**Overgrown** - Winter holiday themed  
+![Overgrown](assets/MapPhotos/C-TB-Overgrown.png)
+
+**Wooded** - Winter holiday themed  
+![Wooded](assets/MapPhotos/C-TB-Wooded.png)
+
+**Tabernacle**
 ![Tabernacle](assets/MapPhotos/TB-Tabernacle.png)
 
 **Ash**
@@ -242,6 +267,15 @@ Image unavailable.
 ![Wonderland](assets/MapPhotos/TB-Wonderland.png)
 
 ## Duels
+**Frostbite** - Winter holiday themed  
+![Frostbite](assets/MapPhotos/C-DLS-Frostbite.png)
+
+**Resort** - Winter holiday themed  
+![Resort](assets/MapPhotos/C-DLS-Resort.png)
+
+**Winter Palace** - Winter holiday themed  
+![Winter Palace](assets/MapPhotos/C-DLS-Winter_Palace.png)
+
 **Temple**  
 ![Temple](assets/MapPhotos/DLS-Temple.png)
 
