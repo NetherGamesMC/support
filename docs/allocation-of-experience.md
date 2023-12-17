@@ -43,9 +43,9 @@
 
 ## Meltdown
 
-| Mode     | Win  | Kill | XP Per Minute | Participation |
-|----------|------|------|---------------|---------------|
-| -        | 9 XP | 1 XP | 1 XP          | 1 XP          |
+| Mode     | Win  | XP Per Minute | Participation |
+|----------|------|---------------|---------------|
+| -        | 9 XP | 1 XP          | 1 XP          |
 
 ## Momma Says
 
