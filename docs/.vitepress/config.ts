@@ -76,6 +76,8 @@ export default {
             { text: 'Scamming in Factions & Skyblock', link: '/scamming-in-factions-and-skyblock' },
             { text: 'Skyblock Crates & Enchantments', link: '/skyblock-crates-and-enchantments' },
             { text: 'Skyblock Kits', link: '/skyblock-kits' },
+            { text: "Skyblock Crate Key Table", link: "/skyblock-crate-keys" },
+            { text: "Factions Crate Key Table", link: "/factions-crate-keys" }
         ]
         },
         {

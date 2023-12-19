@@ -146,6 +146,12 @@ hero:
     - theme: alt
       text: Skyblock Kits
       link: /skyblock-kits
+    - theme: alt
+      text: Skyblock Crate Keys
+      link: /skyblock-crate-keys
+    - theme: alt
+      text: Factions Crate Keys
+      link: /factions-crate-keys
 
 ---
 
