@@ -7,7 +7,7 @@ In Skyblock, crate keys can be used to obtain In-Game items. There are four type
 
 The keys define the quality of the items that are available to be achieved.
 Which reward you get within each bracket of key types is based on a loot-table.
-The loot table is defines as, the higher the weight, the higher the probability of the item.
+The loot table is defined as: the higher the weight, the higher the probability of the item.
 Randomised amounts might sometimes be limited or seeded with other player-based values.
 Power / Luck values are random between set intervals that increase with key rarity.
 
