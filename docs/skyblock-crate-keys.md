@@ -9,7 +9,7 @@ The keys define the quality of the items that are available to be achieved.
 Which reward you get within each bracket of key types is based on a loot-table.
 The loot table is defined as: the higher the weight, the higher the probability of the item.
 Randomised amounts might sometimes be limited or seeded with other player-based values.
-Power / Luck values are random between set intervals that increase with key rarity.
+Power/Luck values are random between set intervals that increase with key rarity.
 
 The weights defined for each item are as follows:
 
