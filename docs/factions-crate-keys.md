@@ -35,7 +35,7 @@ The weights defined for each item are as follows:
 - 1x Lucky Shard, random luck (weight: 15)
 - 1x Random Rare Enchantment Book (weight: 10)
 
-## Mythical
+## Mythical Keys
 - 1x Random Mythical Tag (weight: 15)
 - 5x Bedrock (weight: 5)
 - 64x Obsidian (weight: 15)
