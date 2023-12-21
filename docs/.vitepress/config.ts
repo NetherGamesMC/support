@@ -87,6 +87,8 @@ export default {
             { text: 'Nitro Boosting Rewards', link: '/nitro-boosting-rewards' },
             { text: 'Security Bug Bounty', link: '/security-bug-bounty' },
             { text: 'API Documentation & Usage', link: '/api-documentation-and-usage' },
+            { text: 'Localised Pricing', link: '/localised-pricing' },
+
         ]
         },
         ],
