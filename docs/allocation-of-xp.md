@@ -64,5 +64,5 @@ Below you will find the allocation of XP for each gamemode.
 | -    | 9 XP | 3 XP | 1 XP          |
 
 ::: info PLEASE NOTE
-In Bedwars, Skywars & Survival Games you will receieve 1 XP for 1 kill, 2 XP for 3 kills and 3 XP for 6 kills. 3 XP is the maximum amount you can receive for kills in these gamemodes..** 
+In Bedwars, Skywars & Survival Games you will receieve 1 XP for 1 kill, 2 XP for 3 kills, and 3 XP for 6 kills. 3 XP is the maximum amount you can receive for kills in these gamemodes. 
 :::
