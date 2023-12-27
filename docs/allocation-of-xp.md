@@ -1,4 +1,8 @@
-# XP Breakdown for Different Game Modes
+# Allocation of XP
+
+XP is allocated when playing certain gamemodes, the more XP you earn, the higher level you will be on the server. You can see what level corresponds to how much XP at [ngmc.co/xp](https://ngmc.co/xp).
+
+Below you will find the allocation of XP for each gamemode.
 
 ## Bedwars
 
@@ -59,8 +63,6 @@
 |------|------|------|---------------|
 | -    | 9 XP | 3 XP | 1 XP          |
 
-
-
-**NOTE: In gamemodes, including bedwars, skywars and survival games you get 1 xp for 1 kill,** 
-      **2 xp for 3 kills and 3 xp for 6 kills. It does not get more than that.** 
-
+::: info PLEASE NOTE
+In Bedwars, Skywars & Survival Games you will receieve 1 XP for 1 kill, 2 XP for 3 kills and 3 XP for 6 kills. 3 XP is the maximum amount you can receive for kills in these gamemodes..** 
+:::
