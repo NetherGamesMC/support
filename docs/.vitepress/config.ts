@@ -19,9 +19,8 @@ export default {
             { text: 'In-game Emojis', link: '/in-game-emojis' },
             { text: 'Map Rotations', link: '/map-rotations' },
             { text: 'Useful Commands', link: '/useful-commands' },
-            { text: 'Season Rotations', link: '/season-rotations' }
+            { text: 'Season Rotations', link: '/season-rotations' },
             { text: 'Allocation of XP', link: '/allocation-of-xp' }
-
         ]
         },
         {
