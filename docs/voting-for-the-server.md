@@ -8,7 +8,7 @@ Click [here](https://minecraftpocket-servers.com/server/36864/vote) to go to the
 
 Voters are granted a range of permissions in exchange for voting for NetherGames on the server list website:
 
-* x1.25 personal XP booster
+* x1.25 personal XP booster for 24 hours after voting
 * Access to Mega Creative and two free 100x100 plots in the dimension
 * x2 credits multiplier for the first hour after voting
 * 100 XP per vote
