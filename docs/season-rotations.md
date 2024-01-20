@@ -8,15 +8,17 @@ The following aspects of the network run on seasons.
 
 **Season cycle:** every 4 months
 
-**Current season:** Season 6 (started September 10th 2023)
+**Current season:** started December 27th 2023
 
-**Next season:** January 10th 2024
+**Next season:** May 1st 2024
 
 ## Skyblock
 
 **Season cycle:** every 12 months
 
-**Next season:** ETA End of November 2023
+**Current season:** started December 2nd 2023)
+
+**Next season:** Late 2024 (more information will be provided closer to the date)
 
 ## Credits & Tiers
 
