@@ -47,4 +47,4 @@ Note: We are unable to transfer data between separate accounts. Stats, friends, 
 2. Search for your username
 3. Check if the player was last seen over a year ago
 
-If yes, choose "Chat with us" at [ngmc.co/request](https://ngmc.co/request). Otherwise, we are unable to assist you further.
+If yes, contact our Modmail on our Discord server at [ngmc.co/discord](https://ngmc.co/discord). Otherwise, we are unable to assist you further.
