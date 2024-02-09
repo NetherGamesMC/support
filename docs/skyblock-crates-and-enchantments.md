@@ -53,7 +53,7 @@ It gives the player wearing the boots the Speed II effect while being worn.
 
 **Slot: Boots**
 
-It gives the player wearing the boots the Jump II effect while being worn.
+It gives the player wearing the boots the Jump III effect while being worn.
 
 ### Poison
 
@@ -62,22 +62,6 @@ It gives the player wearing the boots the Jump II effect while being worn.
 **Slot: Sword**
 
 Every hit you deal to a player with the enchanted sword has a chance to give the opponent a Poison I effect.
-
-### Thor
-
-**Rarity: Rare**
-
-**Slot: Sword**
-
-Every hit on the opponent has the chance to strike the opponent with lightning, dealing additional damage.
-
-### Grapple
-
-**Rarity: Mythical**
-
-**Slot: Fishing Rod**
-
-It turns a fishing rod into a grappling hook. Retracting the rod hook will pull you in the direction of the hook.
 
 ### Triple Shot
 
