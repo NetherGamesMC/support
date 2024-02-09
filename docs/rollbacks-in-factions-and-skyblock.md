@@ -1,9 +1,5 @@
 # Rollbacks in Factions & Skyblock
 
-::: warning PLEASE NOTE
-Skyblock does not have a rollback system yet. Therefore, we cannot compensate you if you unfairly lose items due to a cheater or a bug. If you purchased a mini-helper in our store and unfairly lost said item, we can compensate you in some circumstances.
-:::
-
 ## Steps to apply for a rollback
 
 ::: tip BEFORE YOU APPLY
@@ -16,7 +12,7 @@ Once ready, you can apply for a rollback by following these steps:
 
 1. Go to [ngmc.co/request](https://ngmc.co/request)
 2. Login with your Microsoft (Xbox) account you use to play Minecraft with (if you're not already logged in)
-3. Select "Factions Rollback"
+3. Select "Skyblock Rollback or Factions Rollback"
 5. Fill out the details required to make the application
 
 Once submitted, you will receive a response within 7 days (however we generally will get back to you in a few days) to your email address registered on your Xbox account. You can also check the status of your application anytime by viewing your submissions at [ngmc.co/request](https://ngmc.co/request).
