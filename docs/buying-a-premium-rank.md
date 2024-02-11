@@ -32,7 +32,7 @@ When using PayPal, remember to complete the mandatory authorization for every pu
 
 ![image](assets/IMG_1582.png)
 
-Once you have a valid payment method with sufficient funds, press "Purchase." We will present you with a success or error message. Feel free to contact live chat at the bottom of [ngmc.co/lc](https://ngmc.co/lc) if you need clarification on what an error means.
+Once you have a valid payment method with sufficient funds, press "Purchase." We will present you with a success or error message. Feel free to contact us through Modmail on our [Discord server](https://ngmc.co/d) if you need clarification on what an error means.
 
 ## Buying a gift
 
@@ -47,7 +47,7 @@ When using PayPal, remember to complete the mandatory authorization for every pu
 
 ![image](assets/IMG_1584.png)
 
-Once you have a valid payment method with sufficient funds, press "Purchase." We will present you with a success or error message. Feel free to contact us at our [Discord Server](https://ngmc.co/d) if you need clarification on what an error means.
+Once you have a valid payment method with sufficient funds, press "Purchase." We will present you with a success or error message. Feel free to contact us through Modmail on our [Discord server](https://ngmc.co/d) if you need clarification on what an error means.
 After successfully purchasing a gift, the settings modal will appear (which you can open again by pressing your username in the upper-right corner).
 
 You can now copy this gift code URL to share with friends and family or in giveaways. It expires in 48 hours, but you can generate a new one anytime.
