@@ -32,7 +32,7 @@ When using PayPal, remember to complete the mandatory authorization for every pu
 
 ![image](assets/IMG_1582.png)
 
-Once you have a valid payment method with sufficient funds, press "Purchase." We will present you with a success or error message. Feel free to contact live chat at the bottom of [ngmc.co/lc](https://ngmc.co/lc) if you need clarification on what an error means.
+Once you have a valid payment method with sufficient funds, press "Purchase." We will present you with a success or error message. Feel free to contact us at our [Discord Server](https://ngmc.co/d) if you need clarification on what an error means.
 
 ## Buying a gift
 
