@@ -12,7 +12,11 @@ If your rank has been removed from your account without reason, you may contact 
 
 If a rank or stats transfer token has been purchased, there must be sufficient evidence linking your new and old accounts for your account data transfer. Due to privacy & security reasons, we cannot transfer account data between usernames if we cannot establish a link between both accounts in our system. In this case, you may be offered the opportunity to prove your account ownership.
 
-We provide access to playing on all our Minecraft servers free of charge. We may limit the number of privileges regular players have and grant extra benefits to players who purchase a rank. Once you have purchased a rank, it is yours, and we cannot reverse your order. We do not offer refunds for change of mind. If you have violated our rules, terms & conditions, or policies, that does not entitle you to a refund, as you agree to this statement and our outlined rules & policies when you use our services.
+We provide access to playing on all our Minecraft servers free of charge. We may limit the number of privileges regular players have and grant extra benefits to players who purchase a rank. Once you have purchased a rank, you have the opportunity to ask for a refund or change the account it is under within the first 5 days, after the first 5 days NetherGames is not obligated to provide any refund or transfer to a different account due to an accidental or change of mind purchase. To request a refund or transfer to a different username within the first 5 days, open a "Billing Issue" ticket at [ngmc.co/request](https://ngmc.co/request). If you have violated our rules, terms & conditions, or policies your account may be banned which does not entitle you to a refund, as you agree to this statement and our outlined rules & policies when you use our services.
+
+Players who have purchased a Titan subscription do have the opportunity to transfer the remainder of their subscription to another player if they wish to do so, provided the player with the Titan subscription is not currently banned. This can be done by opening a "Billing Issue" ticket at [ngmc.co/request](https://ngmc.co/request).
+
+If you become falsely banned and have a successful appeal whilst holding a Titan subscription, you may contact our support to recieve an extention of your subscription for the time that you were banned. 
 
 Ranks are not pay-to-win on our servers, nor do they exempt you from any warning or punishment issued by our staff members. We would offer a refund if a purchase were unauthorized or made by error. Filing a chargeback/dispute request with your credit/debit card provider or PayPal will permanently ban you from all our services and your rank removed. Profits from ranks are used to support service maintenance costs, and we hope that by giving privileges to ranks, you will buy them and help us maintain our services. We try to explain how the rank will benefit you, but these can change anytime because we redevelop old games and develop new features/games.
 
@@ -23,7 +27,7 @@ Ranks are not pay-to-win on our servers, nor do they exempt you from any warning
 We support three payment gateways in our store, Stripe, PayPal, and paysafecard.
 
 ::: tip ACCIDENTAL PURCHASE?
-We will always provide refunds if a purchase was unauthorized or made by error within 5 days of purchase. Open a "Billing Issue" request at [ngmc.co/request](https://ngmc.co/request).
+We will always provide refunds if a purchase was unauthorized or you change your mind within 5 days of purchase. Open a "Billing Issue" request at [ngmc.co/request](https://ngmc.co/request).
 :::
 
 ::: danger PLEASE NOTE
