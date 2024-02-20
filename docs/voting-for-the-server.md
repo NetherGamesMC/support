@@ -36,11 +36,11 @@ To qualify for the prize, you must be one of the "top voters" with the most vote
 
 At the end of the month, all top voters will go into the draw for a free rank upgrade. One random top voter will receieve a free rank upgrade.
 
-A free rank upgrade could be from non-ranked to Ultra, Ultra to Emerald, or Emerald to Legend.
+A free rank upgrade could be from non-ranked to Ultra, Ultra to Emerald, Emerald to Legend, or Legend to +1-month Titan.
 
 ### Conditions
 
 * You cannot win consecutive contests
-* Legend players are not eligible for a rank upgrade to Titan at this time
+* Legend players will be given a 1-month Titan rank, Legend rank will remain after a 1-month Titan expires. 
 
 
