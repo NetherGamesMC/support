@@ -16,7 +16,7 @@ The following aspects of the network run on seasons.
 
 **Season cycle:** every 12 months
 
-**Current season:** started December 2nd 2023)
+**Current season:** started December 2nd 2023
 
 **Next season:** Late 2024 (more information will be provided closer to the date)
 
