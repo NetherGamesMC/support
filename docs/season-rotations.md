@@ -10,7 +10,8 @@ The following aspects of the network run on seasons.
 
 **Current season:** started December 27th 2023
 
-**Next season:** May 1st 2024
+**Next season:** April 1st 2024 (this season is shorter than normal)
+* Free kits will be awarded to players around March 1st
 
 ## Skyblock
 
@@ -32,11 +33,11 @@ Find out more about our credits and tier system [here](https://ngmc.co/tiers).
 
 ## Maps
 
-* **Rotation 1:** January 10th to March 31st
+* **Rotation 1:** January 10th to March 31st 
 * **Rotation 2:** April 1st to June 30th
 * **Rotation 3:** July 1st to October 14th
 * **Rotation 3 + Spooky Season Maps:** October 15th to November 14th
-* **Rotation 4:** November 15th to December 9th
+* **Rotation 4:** November 15th to December 9th (currently active - rotation 1 is running late)
 * **Rotation 4 + Winter Holiday Maps:** December 10th to January 9th
 
 Find out more about the current maps in rotation [here](https://ngmc.co/maps).
