@@ -31,4 +31,4 @@ Gift links will expire after 48 hours, but you can always generate another one!
 1. Open the link provided to you by another player
 2. Click "Accept"!
 
-If you come across any issues with sending or receiving gifts, feel free to contact our staff team at [ngmc.co/suport](https://ngmc.co/support).
+If you come across any issues with sending or receiving gifts, feel free to contact our staff team at [ngmc.co/support](https://ngmc.co/support).
