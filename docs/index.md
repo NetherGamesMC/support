@@ -158,6 +158,9 @@ hero:
     - theme: alt
       text: Allocation of XP
       link: /allocation-of-xp
+    - theme: alt
+      text: Sending & Receiving Gifts
+      link: /sending-and-receiving-gifts
 
 ---
 
