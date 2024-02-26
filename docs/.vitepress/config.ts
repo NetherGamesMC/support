@@ -89,6 +89,7 @@ export default {
             { text: 'Security Bug Bounty', link: '/security-bug-bounty' },
             { text: 'API Documentation & Usage', link: '/api-documentation-and-usage' },
             { text: 'Localised Pricing', link: '/localised-pricing' },
+            { text: 'Sending & Receiving Gifts, link: '/sending-and-receiving-gifts' }
 
         ]
         },
@@ -105,7 +106,7 @@ export default {
             provider: 'local'
         },
         footer: {
-            copyright: '© 2023 Helpdesk | <a href="https://nethergames.org">NetherGames Network</a>'
+            copyright: '© 2024 Helpdesk | <a href="https://nethergames.org">NetherGames Network</a>'
         },
         nav: [
             {
