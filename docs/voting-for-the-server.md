@@ -34,13 +34,12 @@ The top voter competition is a monthly contest we run for voters which award the
 
 To qualify for the prize, you must be one of the "top voters" with the most votes at the month's end, which means that you will need to vote every day to be eligible.
 
-At the end of the month, all top voters will go into the draw for a free rank upgrade. One random top voter will receieve a free rank upgrade.
+At the end of the month, all top voters will go into the draw for a free rank upgrade. One random top voter will receieve a free rank upgrade (or a 1 month Titan rank if the player already holds Legend rank).
 
-A free rank upgrade could be from non-ranked to Ultra, Ultra to Emerald, or Emerald to Legend.
+A free rank upgrade could be from non-ranked to Ultra, Ultra to Emerald, Emerald to Legend, or Legend to a 1 month Titan rank.
 
 ### Conditions
 
-* You cannot win consecutive contests
-* Legend players are not eligible for a rank upgrade to Titan at this time
-
+* You cannot win consecutive contests.
+* The rank is only issued to the player who did the voting, the prize is non-transferable.
 
