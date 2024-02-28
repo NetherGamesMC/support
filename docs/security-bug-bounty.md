@@ -6,7 +6,7 @@ At NetherGames, we take privacy and security very seriously. As such, we encoura
 
 * NetherGames will not take legal action against users for disclosing vulnerabilities as instructed here
 * Vulnerability reports will always be responded to quickly—usually within 24 hours
-* Based on each issue's validity, severity, and scope, we'll reward you with store credits (or cold, hard cash if you prefer)
+* Based on each issue's validity, severity, and scope, we'll reward you with store credits (or cold, hard cash for severe security issues)
 
 ## Program rules
 
