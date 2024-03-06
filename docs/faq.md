@@ -80,7 +80,7 @@ A: Use the /bug command in #bots. Read more at https://ngmc.co/bug.
 **Q: How do I submit feedback?**
 A: You can submit feedback in #feedback if you follow the post guidelines: https://ngmc.co/feedback.
 
-**Q: I died in Factions due to a cheater or bug. Can I get a rollback?**
+**Q: I died in Factions or Skyblock due to a cheater or bug. Can I get a rollback?**
 A: Yes, if you have supporting video evidence for this. Read more at https://ngmc.co/rollback.
 
 **Q: I encountered a scammer in Factions/Skyblock. What can I do?**
