@@ -60,13 +60,15 @@ Punishment type: Ban
 
 ### Abusive Communication
 
-Points: 2
+Points: 2 (unless otherwise specified)
 
 Punishment type: Mute
 
 * Disrespect
 * Inappropriate Language
 * Spamming
+* Discrimination (6 points)
+* Threatening Language (4 points)
 
 ### Inappropriate Behaviour
 
@@ -113,7 +115,7 @@ Our staff might reset your positive stats across the network in case of kill far
 
 ### Other
 
-Points: 2
+Points: 2 (unless otherwise specified)
 
 Punishment type: Ban
 
@@ -126,7 +128,7 @@ Punishment type: Ban
 
 ### Enforcement
 
-Points: 16
+Points: 16 (unless otherwise specified)
 
 Punishment type: Ban
 
