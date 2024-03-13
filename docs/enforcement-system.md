@@ -21,7 +21,7 @@ Each offence category is split into many subcategories, providing a more specifi
 
 ### Cheating
 
-Points: 8
+Points: 10
 
 Punishment type: Ban
 
