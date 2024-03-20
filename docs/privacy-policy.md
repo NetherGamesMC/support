@@ -1,14 +1,12 @@
 # Privacy Policy
 
-The NETHERGAMES NETWORK ("NetherGames," "we," "us," "our") collects data from its members and users to provide a service to its users (including, but not limited to, Minecraft server gameplay and forums usage).
+The NETHERGAMES NETWORK ("NetherGames," "we," "us," "our") collects data from its members and users to provide a service to its users.
 
 Your privacy and the protection of your data are crucial to us. As such, we have developed this Data and Privacy Policy ("Policy") for you to understand how we collect, use, communicate & disclose and use personal information and any data you submit to NetherGames.
 
 ## 1. Data Collection
 
 Data collected from our users and players of our Minecraft server network is stored in our database, which is located in Vint Hill, United States—hosted by OVH US LLC.
-
-Crisp IM SARL ("Crisp") is our support service operator. More information regarding Crisp is below—it stores user data in Europe. The Crisp core infrastructure is hosted in Amsterdam, Netherlands. The Crisp plugin infrastructure is hosted in Frankfurt, Germany. Most of the user data is stored in The Netherlands.
 
 **Data we require and collect include:**
 * Your username
@@ -21,21 +19,11 @@ Crisp IM SARL ("Crisp") is our support service operator. More information regard
 * In-game data (including kills, deaths, wins, XP [experience] or levels, credits, first & last join date & time, Minecraft client version, device information [type and version])—Minecraft server network only
 * Your actions or actions relating to you (a player you "kill," when and how you "died," when and why you were punished by a staff member, what you post or edit on the forums, when you register or log in, etc.)
 
-**Optional data users may choose to add:**
-* Social media profiles (to log in or display on the profile page) to forums accounts
-
 **Additional data collected from staff members:**
 * Full name
 * Date of birth
 * Staff member's signature
 * Parent/guardian signature and email address for contact if under 18
-
-**Crisp, on behalf of NetherGames, collects the following data:**
-* Your email address (user-entered, not collected automatically without consent)
-* Your IP address
-* Your device and browser data (e.g., Chrome on Windows)
-* Your browsing history (on NetherGames or Crisp websites only)
-* Content you are viewing on NetherGames or Crisp websites in real-time
 
 **When you purchase a product through our online store (store.nethergames.org), Stripe & PayPal collect the following data:**
 * Your name
@@ -66,24 +54,18 @@ Crisp IM SARL ("Crisp") is our support service operator. More information regard
 
 Stripe and PayPal provide the following details—full name, email, and address. We log these on our servers to verify purchases. We may also use this information to resolve a dispute you have with us made through Stripe or PayPal, your bank or credit card provider, or in a court of law.
 
-We may share usernames and email addresses collected by NetherGames through its forums service (forums.nethergames.org) with Crisp IM SARL. Crisp operates the live chat and support service for NetherGames, including ngmc.co/s, support@nethergames.org, direct messages on our social media, and "chatboxes" on our websites. to provide better and more personalized support to users should they choose to use our support service. No other data or personal information (e.g., IP addresses, passwords, etc.) is shared with third parties.
-
 Email addresses collected by NetherGames are used to send the following types of emails:
-* **Notification emails:** mainly sent by our forums service. If you reply to or post a thread/conversation, you are most likely to receive email notifications if somebody responds to that thread/conversation as well. You can opt out of these anytime using a link sent along with these emails
-* **Password reset emails:** sent by our forums service. These emails are sent only on request
 * **Purchase receipt emails:** these are sent when you purchase a product from our store. It includes what products you have bought and a transaction ID you can quote when we require it
 * **News/promotional emails:** sent when we want to tell our users about a new product, community information, or other updates. You can opt out of these anytime using a link sent along with these emails
 * **Important announcement emails:** these are sent when we have an important announcement to make (e.g., in the unlikely event of a data breach). Receiving these emails is compulsory; we must send them by law to notify users about data or security breaches
 
 ## 3. GDPR Compliance
 
-We comply with the General Data Protection Regulation (GDPR), which covers all users in the European Economic Area (EEA) and comes into effect on the 25th of May, 2018. All forum users can unsubscribe or stop receiving notifications regarding new threads or posts through a one-step link in a notification email or the forum's website.
-All users consent to the data they submit to NetherGames for use as listed above by registering for our forums service (forums.nethergames.org) or an account on all NetherGames Minecraft servers.
-Under the GDPR, users can request to erase or anonymize their data from our storage systems. Please read Section 7 of this Policy if you wish to do so.
+We comply with the General Data Protection Regulation (GDPR), which covers all users in the European Economic Area (EEA). Under the GDPR, users can request to erase or anonymize their data from our storage systems. Please read Section 7 of this Policy if you wish to do so.
 
 ## 4. Data Protection
 
-NetherGames takes appropriate steps to protect user data. These include restricting access to sensitive data like IP and email addresses to trusted staff members. Passwords and credentials collected and stored by us are hashed using a secure hashing mechanism (whirlpool). Furthermore, we also ensure the security of our servers by implementing strong security checks and firewalls.
+NetherGames takes appropriate steps to protect user data. These include restricting access to sensitive data like IP and email addresses to trusted staff members who have signed NDAs. We also ensure the security of our servers by implementing strong security checks and firewalls.
 
 ## 5. Age of Consent
 
@@ -102,7 +84,7 @@ NetherGames respects the privacy of all users by implementing the following meas
 
 ## 7. Removal or reclamation of User Data and Information
 
-NetherGames is required by law to provide users in the European Economic Area (EEA) the means of erasing or retrieving all their records from databases and storage systems managed by us (this includes the Crisp user database). Please contact our support team if you want your data and information wiped from all our databases or a copy of all your data stored by us (see Section 9 of this Policy). During this process, we reserve the right to ask you for the required details (including credentials or personally identifiable information). These details will not be stored.
+NetherGames provides users with the ability to wipe their account information from our database. This can be done on our portal at [ngmc.co/request](https://ngmc.co/request) by choosing the "Account Deletion" option. Once the form is submitted, there will be a 14 day wait in the event you change your mind, and after these 14 days your account will be permanently deleted. When an account is deleted, all data will be permanently erased from our servers, with the only exception that punishment data remains as this is essential to protecting our servers.
 
 ## 8. Changes to this Policy
 
@@ -110,4 +92,4 @@ NetherGames reserves the right to modify this Policy without prior notice. It is
 
 ## 9. Conclusion
 
-If you have questions regarding user data, its collection, or user privacy, please choose "Chat with us" [here](https://ngmc.co/request).
+If you have questions regarding user data, its collection, or user privacy, please contact us on Modmail through our [Discord server](https://ngmc.co/discord).
