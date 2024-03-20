@@ -6,7 +6,7 @@ Not all modifications are allowed to be used on NetherGames. The general rule is
 
 Unfair advantages include, but are not limited to:
 Displaying information relating to the game that is not generally available to players (i.e., distance to other players, player tracers)
-Automating gameplay functions (i.e., key-mapper, automatic sprint, aim assisting, auto clickers)
+Automating gameplay functions (i.e., key-mapper, aim assisting, auto clickers)
 
 ---
 
