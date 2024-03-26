@@ -12,6 +12,7 @@ Voters are granted a range of permissions in exchange for voting for NetherGames
 * Access to Mega Creative and two free 100x100 plots in the dimension
 * x2 credits multiplier for the first hour after voting
 * 100 XP per vote
+* x1 Skyblock voting crate key
 
 You may also consider [buying a premium rank](https://support.nethergames.org/buying-a-premium-rank.html) to support us.
 
