@@ -43,7 +43,6 @@ Points: 2
 Punishment type: Ban
 
 * Key Mapper
-* Night Vision
 * Player Tracer
 * Xray
 * Other
