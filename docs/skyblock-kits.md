@@ -29,3 +29,4 @@ The following kits are provided to ranked players on Skyblock. Kits can be redee
 * Diamond sword, pickaxe, axe, shovel, and hoe
 * 30x golden apples
 * 5x enchanted golden apples
+* 8x enderpearls
