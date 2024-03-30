@@ -130,7 +130,7 @@ Punishment type: Ban
 
 Points: 16 (unless otherwise specified)
 
-Punishment type: Ban
+Punishment type: Ban (unless otherwise specified)
 
 * Ban Evading
 * Chargeback
