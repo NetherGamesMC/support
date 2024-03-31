@@ -153,7 +153,16 @@ We will not provide training or necessary equipment (i.e., a computer, software 
 **Graphics Design —** Produce custom graphics for advertisements and in-game form images. Photoshop experience necessary.
 
 ::: warning PLEASE NOTE
-We are currently not accepting new applications for the graphics designer listing.
+We are currently not accepting new applications for the Designer role.
 :::
 
-[Click here to apply](https://ngmc.co/request)
+
+### Game Designer
+
+Game Designer is a volunteer staff position requiring applicants to use their experience with the server to improve our content delivered to players.
+
+We expect applicants to be active, committed, creative, and have a good level of experience with the server.
+
+::: warning PLEASE NOTE
+We are currently not accepting new applications for the Game Designer role.
+:::
