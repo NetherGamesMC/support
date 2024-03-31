@@ -59,6 +59,10 @@ Attempting to evade your punishment, or providing assistance to another player t
 
 In exchange for in-game items or other services, in server chat or our Discord server, you may not actively solicit financial transactions, including gift codes or other items with real-life economic value. This rule is distinct from scamming in general, which is at your own risk. In-game, a 1-month ban will be issued to players actively participating in such activities. However, we can only moderate activities performed within our platforms.
 
+## 14. Do not obstruct staff from undertaking their dutiies
+
+Our staff members are volunteers who work hard to make the server a safer plece. Please do not obstruct staff from doing their job or you will be faced with a punishment yourself. This includes (but is not an exhaustive list), telling other players a staff is spectating or online, or falsifying evidence.
+
 ## Conclusion
 
 Suppose you need clarification about what type of activity or behaviour is allowed. In that case, we encourage you to contact our support team—through "Chat with us" at [ngmc.co/request](https://ngmc.co/request) or Modmail on our Discord server at [ngmc.co/d](https://ngmc.co/d). We prefer you ask questions to help clear up any misconceptions you may have rather than face potential consequences if you break one of our regulations.
