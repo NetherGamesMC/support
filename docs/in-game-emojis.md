@@ -1,6 +1,6 @@
 # In-game Emojis
 
-In order to use emojis in chat in-game, type `:specified_emoji:` inside your message and the emoji will appear once sent in chat.
+In order to use emojis in chat in-game, type `:specified_emoji:` inside your message and the emoji will appear once sent in chat. You will need to add a space after the colon `:` for the emoji to show.
 
 ::: warning PLEASE NOTE
 You will NOT be able to see emojis unless you download our NG resource packs. Simply click on the "Download and Join" prompt as you join the server.
