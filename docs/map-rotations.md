@@ -83,6 +83,36 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Giants**  
 ![Giants](assets/MapPhotos/BW8-Giants.png)
 
+**Antithesis**
+![Antithesis](assets/MapPhotos/BW8-Antithesis.jpg)
+
+**Dynasty**
+![Dynasty](assets/MapPhotos/BW8-Dynasty.jpg)
+
+**Galactic**
+![Galactic](assets/MapPhotos/BW8-Galactic.jpg)
+
+**Geometry**
+![Geometry](assets/MapPhotos/BW8-Geometry.jpg)
+
+**Mercuria**
+![Mercuria](assets/MapPhotos/BW8-Mercuria.jpg)
+
+**Pandora**
+![Pandora](assets/MapPhotos/BW8-Pandora.jpg)
+
+**Pyramid**
+![Pyramid](assets/MapPhotos/BW8-Pyramid.jpg)
+
+**Roman**
+![Roman](assets/MapPhotos/BW8-Roman.jpg)
+
+**Roots**
+![Roots](assets/MapPhotos/BW8-Roots.jpg)
+
+**Venice**
+![Venice](assets/MapPhotos/BW8-Venice.jpg)
+
 ### Squads
 **Castaway** - Winter holiday themed  
 ![Castaway](assets/MapPhotos/C-BW4-Castaway.png)
@@ -113,6 +143,18 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 **Ancient City**  
 ![Ancient_City](assets/MapPhotos/BW4-Ancient_City.png)
+
+**Castaway**
+![Castaway](assets/MapPhotos/BW4-Castaway.jpg)
+
+**Library**
+![Library](assets/MapPhotos/BW4-Library.jpg)
+
+**Mesopotamia**
+![Mesopotamia](assets/MapPhotos/BW4-Mesopotamia.jpg)
+
+**Mire**
+![Mire](assets/MapPhotos/BW4-Mire.jpg)
 
 ## Conquests
 **Dystopia**  
@@ -211,6 +253,48 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Bonsai**  
 ![Bonsai](assets/MapPhotos/SW-Bonsai.png)
 
+**Acid**
+![Acid](assets/MapPhotos/SW-Acid.jpg)
+
+**Amazon**
+![Amazon](assets/MapPhotos/SW-Amazon.jpg)
+
+**Ancient**
+![Ancient](assets/MapPhotos/SW-Ancient.jpg)
+
+**Atomic**
+![Atomic](assets/MapPhotos/SW-Atomic.jpg)
+
+**Cliffs**
+![Cliffs](assets/MapPhotos/SW-Cliffs.jpg)
+
+**Desert**
+![Desert](assets/MapPhotos/SW-Desert.jpg)
+
+**Farmhouse**
+![Farmhouse](assets/MapPhotos/SW-Farmhouse.jpg)
+
+**Fiery**
+![Fiery](assets/MapPhotos/SW-Fiery.jpg)
+
+**Petals**
+![Petals](assets/MapPhotos/SW-Petals.jpg)
+
+**Reflection**
+![Reflection](assets/MapPhotos/SW-Reflection.jpg)
+
+**Ruin**
+![Ruin](assets/MapPhotos/SW-Ruin.jpg)
+
+**Vandals**
+![Vandals](assets/MapPhotos/SW-Vandals.jpg)
+
+**Bliss**
+![Bliss](assets/MapPhotos/SW-Bliss.jpg)
+
+**Hades**
+![Hades](assets/MapPhotos/SW-Hades.jpg)
+
 ### Duels (SW)
 **Cypher**  
 ![Cypher](assets/MapPhotos/SWD-Cypher.png)
@@ -266,6 +350,30 @@ Image unavailable.
 **Wonderland**  
 ![Wonderland](assets/MapPhotos/TB-Wonderland.png)
 
+**Acropolis**
+![Acropolis](assets/MapPhotos/TB-Acropolis.jpg)
+
+**Cityscape**
+![Cityscape](assets/MapPhotos/TB-Cityscape.jpg)
+
+**Desert**
+![Desert](assets/MapPhotos/TB-Desert.jpg)
+
+**Eureka**
+![Eureka](assets/MapPhotos/TB-Eureka.jpg)
+
+**Natural**
+![Natural](assets/MapPhotos/TB-Natural.jpg)
+
+**Pianotic**
+![Pianotic](assets/MapPhotos/TB-Pianotic.jpg)
+
+**Venables**
+![Venables](assets/MapPhotos/TB-Venables.jpg)
+
+**Sphinx**
+![Sphinx](assets/MapPhotos/TB-Sphinx.jpg)
+
 ## Duels
 **Frostbite** - Winter holiday themed  
 ![Frostbite](assets/MapPhotos/C-DLS-Frostbite.png)
@@ -278,6 +386,15 @@ Image unavailable.
 
 **Temple**  
 ![Temple](assets/MapPhotos/DLS-Temple.png)
+
+**Blue_Castle**
+![Blue_Castle](assets/MapPhotos/DLS-Blue_Castle.jpg)
+
+**Hell**
+![Hell](assets/MapPhotos/DLS-Hell.jpg)
+
+**Houses**
+![Houses](assets/MapPhotos/DLS-Houses.jpg)
 
 **Bridge**  
 
@@ -303,3 +420,16 @@ Image unavailable.
 
 **Meadow**  
 ![Meadow](assets/MapPhotos/DLS-Meadow.png)
+
+**Garden**
+![Garden](assets/MapPhotos/DLS-Garden.jpg)
+
+**MonoMansion**
+![MonoMansion](assets/MapPhotos/DLS-MonoMansion.jpg)
+
+**Sohei**
+![Sohei](assets/MapPhotos/DLS-Sohei.jpg)
+
+**Yinyang**
+![Yinyang](assets/MapPhotos/DLS-Yinyang.jpg)
+
