@@ -126,8 +126,8 @@ Image unavailable.
 ![Snapdragons](assets/MapPhotos/CQ-Snapdragons.png)
 
 ## Murder Mystery
-**Embarkment**
-![Embarkment](assets/MapPhotos/MM-Embarkment.png)
+**Embarkation** - NEW
+![Embarkation](assets/MapPhotos/MM-Embarkment.png)
 
 **Watermill**
 ![Watermill](assets/MapPhotos/MM-Watermill.png)
