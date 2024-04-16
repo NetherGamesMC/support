@@ -278,6 +278,13 @@ Image unavailable.
 ![Tabernacle](assets/MapPhotos/TB-Tabernacle.png)
 
 ## Duels
+**Yinyang** - NEW
+![Yinyang](assets/MapPhotos/DLS-Yinyang.jpg)
+
+**Mansion** - NEW
+
+Image unavailable.
+
 **Blue Castle**
 ![Blue Castle](assets/MapPhotos/DLS-Blue_Castle.jpg)
 
@@ -292,13 +299,6 @@ Image unavailable.
 
 **Sohei**
 ![Sohei](assets/MapPhotos/DLS-Sohei.jpg)
-
-**Yinyang**
-![Yinyang](assets/MapPhotos/DLS-Yinyang.jpg)
-
-**Mansion**
-
-Image unavailable.
 
 **Bridge**
 
