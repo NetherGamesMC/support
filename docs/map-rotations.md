@@ -147,9 +147,6 @@ Image unavailable.
 **Mall**
 ![Mall](assets/MapPhotos/MM-Mall.png)
 
-**Muscaria**
-![Muscaria](assets/MapPhotos/MM-Muscaria.png)
-
 **Rome**
 ![Rome](assets/MapPhotos/MM-Rome.png)
 
