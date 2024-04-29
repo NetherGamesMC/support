@@ -1,24 +1,21 @@
 # Frequently Asked Questions
 
-Please take a look at this FAQ if you require support. Message @Modmail (learn more at https://ngmc.co/modmail) in our Discord server or choose "Chat with us" at https://ngmc.co/request for other questions. Also, search https://ngmc.co/support for answers.
+Can't find what you are looking for? Message @Modmail (learn more at https://ngmc.co/modmail) in our Discord server if you have any other questions for our team. Make sure to [Search our Helpdesk](/), and you might be surprised to find your question already answered!
 
 **Q: Where do I find details about staff applications?**
 A: Learn more about applying for a job at NetherGames at https://ngmc.co/jobs.
 
 **Q: How do I apply for the YouTube program?**
-A: You can find all details about the YouTube program at https://ngmc.co/yt.
+A: You can find all the details about our YouTube program at https://ngmc.co/yt.
 
 **Q: How do I apply for the Partner program?**
-A: You can find all details about the Partner program at https://ngmc.co/partner.
+A: You can find all the details about our Partner program at https://ngmc.co/partner.
 
 **Q: How do I vote for the server?**
 A: Find the instructions and perks at https://ngmc.co/vote.
 
 **Q: Where do I find the NetherGames Terms of Service and Privacy Policy?**
 A: You can find the Terms of Service at https://ngmc.co/terms and the Privacy Policy at https://ngmc.co/privacy.
-
-**Q: How do I create a private game?**
-A: You can find instructions for this at https://ngmc.co/privategame.
 
 **Q: How do I buy a premium rank (Ultra, Emerald, Legend, Titan)?**
 A: Find these in our store at https://ngmc.co/store. If you need help, refer to https://ngmc.co/premium.

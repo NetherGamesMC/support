@@ -34,6 +34,10 @@ When using PayPal, remember to complete the mandatory authorization for every pu
 
 Once you have a valid payment method with sufficient funds, press "Purchase." We will present you with a success or error message. Feel free to contact us through Modmail on our [Discord server](https://ngmc.co/d) if you need clarification on what an error means.
 
+::: tip Customers from India
+We regret to inform our Indian customers that we currently do not accept RuPay or UPI. Customers from India will need to try an alternative credit/debit card or ask a friend for assistance when making their purchase. We are working on supporting RuPay and UPI in the future, but cannot provide a time/date when this will be available. At this time do not accept Google Play or other types of gift cards.
+:::
+
 ## Buying a gift
 
 After signing in with Xbox Live, press "Gift."

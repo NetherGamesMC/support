@@ -1,26 +1,35 @@
-# Partner Program
+# Partner Program ⭐
 
-The Partner Program is a select-entry partnership for popular content creators and teams. Partnership offers by the network are made on a case-by-case basis.
+The Partner Program is a select-entry partnership for popular content creators and teams. Partnership offers by the network are made on a case-by-case basis. There are 'no concrete' requirements to apply for our Partner Program. This doesn't mean there are no requirements. Your application will be reviewed with the following taken into consideration...
 
-All partners must actively post Minecraft-focused content. There are no concrete requirements for followers/subscribers/views to be eligible to apply.
+* Subscriber/Following count
+* NetherGames activity and previous punishments
+* View count on all videos within your channel
+* Discord server size and Moderation across your server
+* View count on long-form videos compared to Shorts content.
 
-We will consider content creators and teams from all platforms—the partner program is more comprehensive than YouTube channels.
+::: info PLEASE NOTE
+We will consider content creators and teams from a range of platforms including Discord servers, YouTube, X, and Instagram. **YouTube Shorts, Meta/Instagram Reels, and TikToks do not count towards partnership** and will result in your application being denied.
+:::
 
-Your account must also follow the Terms of Service for the platform. For instance, you must be at least 13 years old to create a YouTube account.
+Your account must also follow the Terms of Service for the platform. For instance, you must be at least 13 years old to create a YouTube, Meta, X, and/or Discord account.
 
-The perks offered to partners include:
-* Ability to set a custom nickname in-game (as opposed to selecting a randomly generated one)
-* Access to [Titan rank perks](https://store.nethergames.org) (public parties, private games, 40-player party limit, replays, exclusive guild tag, and more)
-* An exclusive Partner rank both on Discord and in-game
-* Permission to run official NetherGames giveaways through your channel at no cost to you (we will run giveaways at our request and discretion)
+The perks offered to Partners include:
+* Ability to set a custom nickname in-game (as opposed to selecting a randomly generated one).
+* Access to [Titan rank perks](https://store.nethergames.org) (public parties, private games, 40-player party limit, replays, exclusive guild tag, and more).
+* Access to post your latest NetherGames video in our #media Discord channel and access to an exclusive Partner channel to interact with other Partners.
+* The permission to run official NetherGames giveaways through your channel at no cost to you (we will run giveaways at our request and discretion).
+* Assistance in private games with unique video opportunities (game mode, vanilla items, time of day, etc.)
+* An exclusive Partner rank both on Discord and in-game.
 
-## Partner guidelines
 
-Partners are not exempt from network regulations and are expected to uphold higher standards as role models for the community. We encourage partners to familiarise themselves with network regulations [here](https://ngmc.co/tac) and Discord server regulations [here](https://support.nethergames.org/discord-server-regulations.html).
+## Partner guidelines 📖
+
+Partners are not exempt from network regulations and are expected to uphold higher standards as role models for the community. We encourage Partners to familiarise themselves with network regulations [here](https://ngmc.co/tac) and Discord server regulations [here](https://support.nethergames.org/discord-server-regulations.html).
 
 In addition, we will not consider applications from users who have excessive warnings under their account or who have been previously banned/muted for severe offences.
 
-## Steps to apply
+## Steps to apply 📝
 
 You can apply for Partner by following these steps:
 
@@ -30,8 +39,8 @@ You can apply for Partner by following these steps:
 4. Follow the steps to link your Discord & YouTube account
 5. Fill out the details required to make the application
    
-Once submitted, you will receive a response within 7 days to your email address registered on your Xbox account. You can also check the status of your application anytime by viewing your submissions at [ngmc.co/request](https://ngmc.co/request).
+Once submitted, you should receive a response within 14 days to your email address registered on your Xbox account. You can also check the status of your application anytime by viewing your submissions at [ngmc.co/request](https://ngmc.co/request).
 
 ::: warning PLEASE NOTE 
-Do not message staff asking about the status of your application while it is still pending. If your application has passed 30 days without a response, please contact us through Modmail on our Discord server, or through livechat at the bottom of [ngmc.co/request](https://ngmc.co/request).
+Do not message staff asking about the status of your application while it is still pending. If your application has passed 30 days without a response please contact us by sending a DM to our ModMail bot on our [Discord server](https://ngmc.co/d).
 :::
