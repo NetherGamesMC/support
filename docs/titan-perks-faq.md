@@ -4,7 +4,7 @@
 You can create a private game by following these steps from the lobby:
 * Open the Social Menu in your hotbar (👨‍👧 icon).
 * Select Parties > Create Party > Settings > Private Games > Submit.
-![image](https://github.com/HazardTheDutchAD/support/assets/20299632/67f4858a-ccaf-4c77-9042-f005d29bdbb1)
+![image](https://github.com/NetherGamesMC/support/assets/20299632/67f4858a-ccaf-4c77-9042-f005d29bdbb1)
   
 ## How can I change my Rank Tag? 📖
 ::: info Got Multiple Ranks?
@@ -12,7 +12,7 @@ If you have multiple ranks, you can choose between Ultra, Emerald, Legend, or Ti
 :::
 * To start, head over to the Social Menu, which can be identified by the two friends in your Hotbar 👨‍👧 (8th item slot).
 * Great! Now, select "NameTag Settings" and select your shiny new rank.
-![image](https://github.com/HazardTheDutchAD/support/assets/20299632/87ad7aa4-33f7-444b-8654-3ecfc42e3dc9)
+![image](https://github.com/NetherGamesMC/support/assets/20299632/87ad7aa4-33f7-444b-8654-3ecfc42e3dc9)
 
 * Finally, scroll down to the bottom and select "Submit" to confirm your changes. Your rank prefix will now be enabled!
 
