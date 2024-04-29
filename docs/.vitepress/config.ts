@@ -49,7 +49,7 @@ export default {
             { text: 'Reporting a Player', link: '/reporting-a-player' },
             { text: 'Submitting Feedback', link: '/submitting-feedback' },
             { text: 'Syncing Ranks & Tiers to Discord', link: '/syncing-ranks-and-tiers-to-discord' },
-            { text: 'Titan Rank Questions', link: '/titan-rank-faq' }
+            { text: 'Titan Rank Questions', link: '/titan-perks-faq' }
         ]
         },
         {
