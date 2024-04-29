@@ -1,5 +1,4 @@
 # Rollbacks in Factions & Skyblock
-
 ## Steps to apply for a rollback
 
 ::: tip BEFORE YOU APPLY
