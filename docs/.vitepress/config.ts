@@ -48,7 +48,7 @@ export default {
             { text: 'Reporting a Bug', link: '/reporting-a-bug' },
             { text: 'Reporting a Player', link: '/reporting-a-player' },
             { text: 'Submitting Feedback', link: '/submitting-feedback' },
-            { text: 'Syncing Ranks & Tiers to Discord', link: '/syncing-ranks-and-tiers-to-discord' }
+            { text: 'Syncing Ranks & Tiers to Discord', link: '/syncing-ranks-and-tiers-to-discord' },
             { text: 'Titan Rank Questions', link: '/titan-rank-faq' }
         ]
         },
