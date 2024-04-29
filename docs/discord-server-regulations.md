@@ -12,7 +12,7 @@ While registered in our [Discord server](https://ngmc.co/discord), we expect you
 
 You may not use foul language directed at a specific user or anywhere in the Discord server. Discrimination or inappropriate comments against a particular race, gender, or user are prohibited.
 
-Offenders will be issued a warning under this regulation. Depending on the severity of the offence we may issue a permanent ban without notice.
+Offenders will be issued a warning under this regulation.
 
 **2. Do not unnecessarily ping or contact others**
 
@@ -42,15 +42,21 @@ You may not repeatedly repeat the same word or phrase to gain attention or annoy
 
 Offenders will be issued a warning under this regulation.
 
-**7. No evading bans or assisting ban evaders**
+**7. Use the correct channels for the proper purpose**
+
+You may not use text or voice channels for unintended purposes. We prohibit conversations in recruitment channels such as #factions, #guilds, and #skyblock.
+
+Offenders will be issued a warning under this regulation.
+
+**8. No evading bans or assisting ban evaders**
 
 You may not evade your punishment or assist another user in evading theirs. There are appropriate systems in place to stop offenders, and you are obliged to respect the judgment of our staff members.
 
 We immediately ban offenders under this regulation.
 
-**8. Follow Discord policies**
+**9. Follow Discord policies**
 
-You must follow [Discord's Terms of Service and Community Guidelines[(https://dis.gd/tos) while using the NetherGames Discord server.
+You must follow Discord's Terms of Service and Community Guidelines while using the NetherGames Discord server.
 
 ## Warnings System
 

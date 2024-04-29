@@ -25,7 +25,7 @@ Keep in mind that our staff team is comprised of volunteers. They are here to he
 
 ## 5. Advertising/endorsing other servers is not allowed
 
-Advertising or endorsing another Minecraft Bedrock Edition server is strictly prohibited at NetherGames. You may mention other servers if they are used to provide context in a conversation. However, any further discussion relating to another server will be treated as advertising.
+Advertising or endorsing another Minecraft Bedrock Edition server is strictly prohibited at NetherGames. You may mention other servers if they are used to provide a context in a conversation. However, any further discussion relating to another server will be treated as advertising.
 
 ## 6. Keep your personal information safe
 
@@ -41,15 +41,15 @@ Keep your username and skin appropriate for players of all ages. Prohibited skin
 
 ## 9. Be thoughtful of your teammates and other players
 
-Keep in mind you are placed in a team with other players. Trying to troll, 'grief' or kill them is not acceptable. Teaming with other players is not allowed in a solo match against other players. There is a reason why solo and team matches are separated. On Factions, "teleport trapping" other players is not permitted. Do not take advantage of other players by partaking in such activities.
+Keep them in mind when playing in a match where you are placed in a team with other players. Trying to troll, grief or kill them is not acceptable. Teaming with other players is not allowed in a solo match against other players. There is a reason why solo and team matches are separated. On Factions, "teleport trapping" other players is not permitted. Do not take advantage of other players by partaking in such activities.
 
 ## 10. Keep your clicks at an acceptable rate
 
-Remember to think about the players on mobile clients while in the game. There are no limitations on specific clicking methods (i.e. butterfly/drag/jittering). However, there is a cap of 15 clicks per second. Hardware or software that enables you to click at an unacceptable rate is also prohibited. Please help us keep the game fair for both mobile and desktop players.
+Spare a thought for the players on mobile clients while you are in the game. There are no limitations on specific clicking methods (i.e. butterfly/drag/jittering). However, there is a cap of 15 clicks per second. Hardware or software that enables you to click at an unacceptable rate is also prohibited. Please help us keep the game fair for both mobile and desktop players.
 
 ## 11. Report a bug instead of abusing it
 
-We prohibit abusing bugs to your advantage, even if you have already reported them to our team. If you find such game-breaking bugs, you should report them to #bugs on our Discord server at [ngmc.co/d](https://ngmc.co/d) immediately and file reports for players using these bugs to their advantage.
+We prohibit abusing bugs to your advantage, even if you have already reported them to our team. If you find such game-breaking bugs, you should report them to #bugs on our Discord server at [ngmc.co/d](https://ngmc.co/d) immediately and file reports for players who are using these bugs to their advantage.
 
 ## 12. Accept the punishment
 
@@ -59,13 +59,13 @@ Attempting to evade your punishment, or providing assistance to another player t
 
 In exchange for in-game items or other services, in server chat or our Discord server, you may not actively solicit financial transactions, including gift codes or other items with real-life economic value. This rule is distinct from scamming in general, which is at your own risk. In-game, a 1-month ban will be issued to players actively participating in such activities. However, we can only moderate activities performed within our platforms.
 
-## 14. Do not obstruct staff from undertaking their duties
+## 14. Do not obstruct staff from undertaking their dutiies
 
-Our staff members are volunteers who work hard to make the server a safer place. Please do not obstruct staff from doing their job or you will be faced with a punishment yourself. This includes (but is not an exhaustive list), telling other players a staff is spectating or online, or falsifying evidence.
+Our staff members are volunteers who work hard to make the server a safer plece. Please do not obstruct staff from doing their job or you will be faced with a punishment yourself. This includes (but is not an exhaustive list), telling other players a staff is spectating or online, or falsifying evidence.
 
 ## Conclusion
 
-Suppose you need clarification about what type of activity or behaviour is allowed. In that case, we encourage you to contact our support team—through Modmail on our Discord server at [ngmc.co/d](https://ngmc.co/d). We prefer you ask questions to help clear up any misconceptions you may have rather than face potential consequences if you break one of our regulations.
+Suppose you need clarification about what type of activity or behaviour is allowed. In that case, we encourage you to contact our support team—through "Chat with us" at [ngmc.co/request](https://ngmc.co/request) or Modmail on our Discord server at [ngmc.co/d](https://ngmc.co/d). We prefer you ask questions to help clear up any misconceptions you may have rather than face potential consequences if you break one of our regulations.
 
 We reserve the right to change these rules without prior notice or consultation with the broader community, which may come into effect immediately. We may also exercise the right to ban and refuse service or limit service access to any player/user at our discretion, regardless of whether they have broken the above regulations.
 
