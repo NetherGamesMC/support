@@ -40,17 +40,16 @@ export default {
         items: [
             { text: 'Appealing a Punishment', link: '/appealing-a-punishment' },
             { text: 'Buying a Premium Rank', link: '/buying-a-premium-rank' },
-            { text: 'Cancelling a Titan Subscription', link: '/cancelling-a-titan-subscription' },
             { text: 'Connecting on Mobile & Console', link: '/connecting-on-mobile-and-console' },
             { text: 'Contacting Modmail', link: '/contacting-modmail' },
-            { text: 'Creating a Private Game', link: '/creating-a-private-game' },
             { text: 'Joining our Discord Server', link: '/joining-our-discord-server' },
             { text: 'Paying with Paysafecard', link: '/paying-with-paysafecard' },
             { text: 'Voting for the Server', link: '/voting-for-the-server' },
             { text: 'Reporting a Bug', link: '/reporting-a-bug' },
             { text: 'Reporting a Player', link: '/reporting-a-player' },
             { text: 'Submitting Feedback', link: '/submitting-feedback' },
-            { text: 'Syncing Ranks & Tiers to Discord', link: '/syncing-ranks-and-tiers-to-discord' }
+            { text: 'Syncing Ranks & Tiers to Discord', link: '/syncing-ranks-and-tiers-to-discord' },
+            { text: 'Titan Rank Questions', link: '/titan-perks-faq' }
         ]
         },
         {

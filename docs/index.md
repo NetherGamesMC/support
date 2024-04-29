@@ -54,17 +54,11 @@ hero:
       text: Applying for Staff
       link: /applying-for-staff
     - theme: alt
-      text: Cancelling a Titan Subscription
-      link: /cancelling-a-titan-subscription
-    - theme: alt
       text: Connecting on Mobile & Console
       link: /connecting-on-mobile-and-console
     - theme: alt
       text: Contacting Modmail
       link: /contacting-modmail
-    - theme: alt
-      text: Creating a Private Game
-      link: /creating-a-private-game
     - theme: alt
       text: Discord Server Regulations
       link: /discord-server-regulations
@@ -161,6 +155,10 @@ hero:
     - theme: alt
       text: Sending & Receiving Gifts
       link: /sending-and-receiving-gifts
+    - theme: alt
+      text: Titan Rank Questions
+      link: /titan-perks-faq
+
 
 ---
 

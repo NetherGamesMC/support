@@ -55,9 +55,9 @@ Data collected from our users and players of our Minecraft server network is sto
 Stripe and PayPal provide the following details—full name, email, and address. We log these on our servers to verify purchases. We may also use this information to resolve a dispute you have with us made through Stripe or PayPal, your bank or credit card provider, or in a court of law.
 
 Email addresses collected by NetherGames are used to send the following types of emails:
-* **Purchase receipt emails:** these are sent when you purchase a product from our store. It includes what products you have bought and a transaction ID you can quote when we require it
+* **Purchase receipt emails:** These are sent when you purchase a product from our store. It includes what products you have bought and a transaction ID you can quote when we require it
 * **News/promotional emails:** sent when we want to tell our users about a new product, community information, or other updates. You can opt out of these anytime using a link sent along with these emails
-* **Important announcement emails:** these are sent when we have an important announcement to make (e.g., in the unlikely event of a data breach). Receiving these emails is compulsory; we must send them by law to notify users about data or security breaches
+* **Important announcement emails:** These are sent when we have an important announcement to make (e.g., in the unlikely event of a data breach). Receiving these emails is compulsory; we must send them by law to notify users about data or security breaches
 
 ## 3. GDPR Compliance
 
@@ -84,7 +84,7 @@ NetherGames respects the privacy of all users by implementing the following meas
 
 ## 7. Removal or reclamation of User Data and Information
 
-NetherGames provides users with the ability to wipe their account information from our database. This can be done on our portal at [ngmc.co/request](https://ngmc.co/request) by choosing the "Account Deletion" option. Once the form is submitted, there will be a 14 day wait in the event you change your mind, and after these 14 days your account will be permanently deleted. When an account is deleted, all data will be permanently erased from our servers, with the only exception that punishment data remains as this is essential to protecting our servers.
+NetherGames provides users with the ability to wipe their account information from our database. This can be done on our portal at [ngmc.co/request](https://ngmc.co/request) by choosing the "Account Deletion" option. Once the form is submitted, there will be a 14-day wait in the event you change your mind, and after these 14 days your account will be permanently deleted. When an account is deleted, all data will be permanently erased from our servers, with the only exception that punishment data remains as this is essential to protecting our servers.
 
 ## 8. Changes to this Policy
 
