@@ -6,7 +6,7 @@ Users from the EU have a right to erase their data per the GDPR (General Data Pr
 
 You can send a data erasure request by choosing "Account Deletion" at https://ngmc.co/request. You will be required to sign-in with your Xbox account.
 
-In addition, per EU regulation, you can request a full copy of the erased data in either a JSON or CSV format. We reserve the right to delete internal company data from those data batches not directly linked to your account. You can request this via our live chat by choosing "Chat with us" at [ngmc.co/request](https://ngmc.co/request).
+In addition, per EU regulation, you can request a full copy of the erased data in either a JSON or CSV format. We reserve the right to delete internal company data from those data batches not directly linked to your account. You can request this via our ModMail services within our [Discord server](https://discord.gg/ng).
 
 ## Data Erasure Scope
 
