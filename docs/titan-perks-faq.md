@@ -4,7 +4,7 @@
 You can create a private game by following these steps from the lobby:
 * Open the Social Menu in your hotbar (👨‍👧 icon).
 * Select Parties > Create Party > Settings > Private Games > Submit.
-![image](https://github.com/HazardTheDutchAD/support/assets/20299632/67f4858a-ccaf-4c77-9042-f005d29bdbb1)
+![image](assets/Titan_FAQ_2)
   
 ## How can I change my Rank Tag? 📖
 ::: info Got Multiple Ranks?
@@ -12,7 +12,7 @@ If you have multiple ranks, you can choose between Ultra, Emerald, Legend, or Ti
 :::
 * To start, head over to the Social Menu, which can be identified by the two friends in your Hotbar 👨‍👧 (8th item slot).
 * Great! Now, select "NameTag Settings" and select your shiny new rank.
-![image](https://github.com/HazardTheDutchAD/support/assets/20299632/87ad7aa4-33f7-444b-8654-3ecfc42e3dc9)
+![image](assets/Titan_FAQ_1)
 
 * Finally, scroll down to the bottom and select "Submit" to confirm your changes. Your rank prefix will now be enabled!
 
@@ -54,4 +54,4 @@ Your Titan rank payment will renew 30 days from when you purchased the rank subs
 Remember to log in with the Xbox LIVE account you use to play NetherGames with your Titan subscription, otherwise, you may not see the option to cancel your Titan subscription.
 :::
 To cancel your Titan rank, you can visit the [NetherGames Store](https://ngmc.co/store) and click on the gear icon to open your store User Settings. This will open up the "Subscriptions" tab where you can cancel or make changes to your active Titan rank subscription.
-![image](https://github.com/HazardTheDutchAD/support/assets/20299632/0fec9a4d-7408-4341-be2b-db8740221564)
+![image](assets/Titan_FAQ_3)
