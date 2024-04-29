@@ -1,4 +1,4 @@
-# Titan FAQ 🌟
+# Titan Frequently Asked Questions
 
 ## How can I create a Private Game? 🎮
 You can create a private game by following these steps from the lobby:
