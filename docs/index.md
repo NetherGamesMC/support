@@ -161,6 +161,10 @@ hero:
     - theme: alt
       text: Sending & Receiving Gifts
       link: /sending-and-receiving-gifts
+    - theme: alt
+      text: Titan Rank Questions
+      link: /titan-rank-faq
+
 
 ---
 
