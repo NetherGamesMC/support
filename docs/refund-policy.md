@@ -24,7 +24,7 @@ Ranks are not pay-to-win on our servers, nor do they exempt you from any warning
 
 **IF YOU LIVE IN AUSTRALIA:** Our goods come with guarantees that cannot be excluded under the Australian Consumer Law. You are entitled to a replacement or refund for a major failure and compensation for any reasonably foreseeable loss or damage. You are also entitled to have the goods repaired or replaced if the goods fail to be of acceptable quality and the failure does not amount to a major failure.
 
-**IF YOU LIVE OUTSIDE AUSTRALIA:** We will comply with all relevant state jurisdictions regarding consumer law if we choose to operate in that state or country. However, customers in the EU or Brazil will waive their Rights to Withdrawal and Regret upon purchase. For EU customers, you can request a full refund within 14 days from the original purchase date. For Brazillian customers, you can request a full refund within 7 days from the original purchase date.
+**IF YOU LIVE OUTSIDE AUSTRALIA:** We will comply with all relevant state jurisdictions regarding consumer law if we choose to operate in that state or country. However, customers in the EU or Brazil will waive their Rights to Withdrawal and Regret upon purchase.
 
 We support three payment gateways in our store, Stripe, PayPal, and paysafecard.
 
