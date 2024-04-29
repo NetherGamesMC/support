@@ -50,5 +50,8 @@ Your Titan rank grants you a 5% discount on the NetherGames store. As long as yo
 Your Titan rank payment will renew 30 days from when you purchased the rank subscription. If you have purchased Titan for 1 year, 6 months, or 3 months, then your Titan rank will renew after that period. Payments are automatically renewed unless cancelled. If you wish to cancel your Titan rank, please see below.
 
 ## How can I cancel my Titan rank? 🚫
+::: tip Store Login
+Remember to log in with the Xbox LIVE account you use to play NetherGames with your Titan subscription, otherwise, you may not see the option to cancel your Titan subscription.
+:::
 To cancel your Titan rank, you can visit the [NetherGames Store](https://ngmc.co/store) and click on the gear icon to open your store User Settings. This will open up the "Subscriptions" tab where you can cancel or make changes to your active Titan rank subscription.
 ![image](https://github.com/HazardTheDutchAD/support/assets/20299632/0fec9a4d-7408-4341-be2b-db8740221564)
