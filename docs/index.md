@@ -157,7 +157,7 @@ hero:
       link: /sending-and-receiving-gifts
     - theme: alt
       text: Titan Rank Questions
-      link: /titan-rank-faq
+      link: /titan-perks-faq
 
 
 ---
