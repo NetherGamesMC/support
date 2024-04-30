@@ -52,7 +52,7 @@ We immediately ban offenders under this regulation.
 
 You must follow [Discord's Terms of Service and Community Guidelines[(https://dis.gd/tos) while using the NetherGames Discord server.
 
-## Warnings System
+## Warnings system
 
 A 24-hour mute will be issued once a user has reached three warnings, and a permanent ban will be issued once a user gets six warnings.
 
