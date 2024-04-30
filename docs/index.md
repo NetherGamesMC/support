@@ -129,6 +129,9 @@ hero:
       text: Troubleshooting Connection Issues
       link: /troubleshooting-connection-issues
     - theme: alt
+      text: Trainee Application Process
+      link: /trainee-process
+    - theme: alt
       text: Unable to Change My "About Me"
       link: /unable-to-change-my-about-me
     - theme: alt
