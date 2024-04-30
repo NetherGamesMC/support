@@ -59,6 +59,7 @@ export default {
             { text: 'Applying for Staff', link: '/applying-for-staff' },
             { text: 'Applying for a YouTube Rank', link: '/applying-for-a-youtube-rank' },
             { text: 'Partner Program', link: '/partner-program' },
+            { text: 'Trainee Process', link: '/trainee-process' }
         ]
         },  
         {
