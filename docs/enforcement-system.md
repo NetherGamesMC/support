@@ -1,6 +1,6 @@
 # Enforcement System
 
-## Point System
+## Point system
 
 At NetherGames, our enforcement system is points-based. Once you reach a certain amount of points, you will be banned or muted for a set amount of time as follows:
 
