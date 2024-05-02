@@ -57,7 +57,7 @@ Image unavailable.
 ![Pandora](assets/MapPhotos/BW8-Pandora.jpg)
 
 **Perished**
-![Perished](assets/MapPhotos/BW8-Perished.png)
+![Perished](assets/MapPhotos/BW8-Perished.jpg)
 
 **Pyramid**
 ![Pyramid](assets/MapPhotos/BW8-Pyramid.jpg)
@@ -66,13 +66,13 @@ Image unavailable.
 ![Roman](assets/MapPhotos/BW8-Roman.jpg)
 
 **Unearthed**
-![Unearthed](assets/MapPhotos/BW8-Unearthed.png)
+![Unearthed](assets/MapPhotos/BW8-Unearthed.jpg)
 
 **Serenity**
-![Serenity](assets/MapPhotos/BW8-Serenity.png)
+![Serenity](assets/MapPhotos/BW8-Serenity.jpg)
 
 **Wuzhen**
-![Wuzhen](assets/MapPhotos/BW8-Wuzhen.png)
+![Wuzhen](assets/MapPhotos/BW8-Wuzhen.jpg)
 
 ### Squads
 **Mire** - NEW
@@ -82,76 +82,76 @@ Image unavailable.
 ![Castaway](assets/MapPhotos/BW4-Castaway.jpg)
 
 **Elysinia**
-![Elysinia](assets/MapPhotos/BW4-Elysinia.png)
+![Elysinia](assets/MapPhotos/BW4-Elysinia.jpg)
 
 **Harmony**
-![Harmony](assets/MapPhotos/BW4-Harmony.png)
+![Harmony](assets/MapPhotos/BW4-Harmony.jpg)
 
 **Library**
 ![Library](assets/MapPhotos/BW4-Library.jpg)
 
 **Ukiyo**
-![Ukiyo](assets/MapPhotos/BW4-Ukiyo.png)
+![Ukiyo](assets/MapPhotos/BW4-Ukiyo.jpg)
 
 **Ancient City**
-![Ancient City](assets/MapPhotos/BW4-Ancient_City.png)
+![Ancient City](assets/MapPhotos/BW4-Ancient_City.jpg)
 
 **Giants**
-![Giants](assets/MapPhotos/BW4-Giants.png)
+![Giants](assets/MapPhotos/BW4-Giants.jpg)
 
 **Perplexion**
-![Perplexion](assets/MapPhotos/BW4-Perplexion.png)
+![Perplexion](assets/MapPhotos/BW4-Perplexion.jpg)
 
 **Elementar**
-![Elementar](assets/MapPhotos/BW4-Elementar.png)
+![Elementar](assets/MapPhotos/BW4-Elementar.jpg)
 
 **Fastfood**
-![Fastfood](assets/MapPhotos/BW4-Fastfood.png)
+![Fastfood](assets/MapPhotos/BW4-Fastfood.jpg)
 
 **Atlantis**
 
 Image unavailable.
 ## Conquests
 **Prey**
-![Prey](assets/MapPhotos/CQ-Prey.png)
+![Prey](assets/MapPhotos/CQ-Prey.jpg)
 
 **Warfare**
 
 Image unavailable.
 
 **Dystopia**
-![Dystopia](assets/MapPhotos/CQ-Dystopia.png)
+![Dystopia](assets/MapPhotos/CQ-Dystopia.jpg)
 
 **Snapdragons**
-![Snapdragons](assets/MapPhotos/CQ-Snapdragons.png)
+![Snapdragons](assets/MapPhotos/CQ-Snapdragons.jpg)
 
 ## Murder Mystery
 **Embarkation** - NEW
-![Embarkation](assets/MapPhotos/MM-Embarkment.png)
+![Embarkation](assets/MapPhotos/MM-Embarkment.jpg)
 
 **Watermill**
-![Watermill](assets/MapPhotos/MM-Watermill.png)
+![Watermill](assets/MapPhotos/MM-Watermill.jpg)
 
 **Academy**
-![Academy](assets/MapPhotos/MM-Academy.png)
+![Academy](assets/MapPhotos/MM-Academy.jpg)
 
 **Arid**
-![Arid](assets/MapPhotos/MM-Arid.png)
+![Arid](assets/MapPhotos/MM-Arid.jpg)
 
 **Asylum**
-![Asylum](assets/MapPhotos/MM-Asylum.png)
+![Asylum](assets/MapPhotos/MM-Asylum.jpg)
 
 **Haven**
-![Haven](assets/MapPhotos/MM-Haven.png)
+![Haven](assets/MapPhotos/MM-Haven.jpg)
 
 **Mall**
-![Mall](assets/MapPhotos/MM-Mall.png)
+![Mall](assets/MapPhotos/MM-Mall.jpg)
 
 **Rome**
-![Rome](assets/MapPhotos/MM-Rome.png)
+![Rome](assets/MapPhotos/MM-Rome.jpg)
 
 **Victorian Residence**
-![Victorian Residence](assets/MapPhotos/MM-Victorian_Residence.png)
+![Victorian Residence](assets/MapPhotos/MM-Victorian_Residence.jpg)
 
 ## Skywars
 ### Regular
@@ -192,57 +192,57 @@ Image unavailable.
 ![Reflection](assets/MapPhotos/SW-Reflection.jpg)
 
 **Toys**
-![Toys](assets/MapPhotos/SW-Toys.png)
+![Toys](assets/MapPhotos/SW-Toys.jpg)
 
 **Nostalgia**
-![Nostalgia](assets/MapPhotos/SW-Nostalgia.png)
+![Nostalgia](assets/MapPhotos/SW-Nostalgia.jpg)
 
 **Rosewood**
-![Rosewood](assets/MapPhotos/SW-Rosewood.png)
+![Rosewood](assets/MapPhotos/SW-Rosewood.jpg)
 
 **Seafloor**
-![Seafloor](assets/MapPhotos/SW-Seafloor.png)
+![Seafloor](assets/MapPhotos/SW-Seafloor.jpg)
 
 **Tangled**
-![Tangled](assets/MapPhotos/SW-Tangled.png)
+![Tangled](assets/MapPhotos/SW-Tangled.jpg)
 
 **Waterfall**
-![Waterfall](assets/MapPhotos/SW-Waterfall.png)
+![Waterfall](assets/MapPhotos/SW-Waterfall.jpg)
 
 **Sentiment**
-![Sentiment](assets/MapPhotos/SW-Sentiment.png)
+![Sentiment](assets/MapPhotos/SW-Sentiment.jpg)
 
 **Summer**
-![Summer](assets/MapPhotos/SW-Summer.png)
+![Summer](assets/MapPhotos/SW-Summer.jpg)
 
 ### SW Duels
 **Cypher**
-![Cypher](assets/MapPhotos/SWD-Cypher.png)
+![Cypher](assets/MapPhotos/SWD-Cypher.jpg)
 
 **Glacier**
-![Glacier](assets/MapPhotos/SWD-Glacier.png)
+![Glacier](assets/MapPhotos/SWD-Glacier.jpg)
 
 **Narra**
-![Narra](assets/MapPhotos/SWD-Narra.png)
+![Narra](assets/MapPhotos/SWD-Narra.jpg)
 
 **Scaffolds**
-![Scaffolds](assets/MapPhotos/SWD-Scaffolds.png)
+![Scaffolds](assets/MapPhotos/SWD-Scaffolds.jpg)
 
 **Solar**
-![Solar](assets/MapPhotos/SWD-Solar.png)
+![Solar](assets/MapPhotos/SWD-Solar.jpg)
 
 ## The Bridge
 **Shuttle**
-![Shuttle](assets/MapPhotos/TB-Shuttle.png)
+![Shuttle](assets/MapPhotos/TB-Shuttle.jpg)
 
 **Skyscrapers**
-![Skyscrapers](assets/MapPhotos/TB-Skyscrapers.png)
+![Skyscrapers](assets/MapPhotos/TB-Skyscrapers.jpg)
 
 **Solice**
-![Solice](assets/MapPhotos/TB-Solice.png)
+![Solice](assets/MapPhotos/TB-Solice.jpg)
 
 **Castle**
-![Castle](assets/MapPhotos/TB-Castle.png)
+![Castle](assets/MapPhotos/TB-Castle.jpg)
 
 **Venables**
 ![Venables](assets/MapPhotos/TB-Venables.jpg)
@@ -269,10 +269,10 @@ Image unavailable.
 ![Sphinx](assets/MapPhotos/TB-Sphinx.jpg)
 
 **Blox**
-![Blox](assets/MapPhotos/TB-Blox.png)
+![Blox](assets/MapPhotos/TB-Blox.jpg)
 
 **Tabernacle**
-![Tabernacle](assets/MapPhotos/TB-Tabernacle.png)
+![Tabernacle](assets/MapPhotos/TB-Tabernacle.jpg)
 
 ## Duels
 **Yinyang** - NEW
@@ -302,28 +302,28 @@ Image unavailable.
 Image unavailable.
 
 **Daffodil**
-![Daffodil](assets/MapPhotos/DLS-Daffodil.png)
+![Daffodil](assets/MapPhotos/DLS-Daffodil.jpg)
 
 **Madlab**
-![Madlab](assets/MapPhotos/DLS-MadLab.png)
+![Madlab](assets/MapPhotos/DLS-MadLab.jpg)
 
 **Meadow**
-![Meadow](assets/MapPhotos/DLS-Meadow.png)
+![Meadow](assets/MapPhotos/DLS-Meadow.jpg)
 
 **Spaceport**
-![Spaceport](assets/MapPhotos/DLS-Spaceport.png)
+![Spaceport](assets/MapPhotos/DLS-Spaceport.jpg)
 
 **Temple**
-![Temple](assets/MapPhotos/DLS-Temple.png)
+![Temple](assets/MapPhotos/DLS-Temple.jpg)
 
 **Yard**
-![Yard](assets/MapPhotos/DLS-Yard.png)
+![Yard](assets/MapPhotos/DLS-Yard.jpg)
 
 **Nature**
-![Nature](assets/MapPhotos/DLS-Nature.png)
+![Nature](assets/MapPhotos/DLS-Nature.jpg)
 
 **Oriental**
-![Oriental](assets/MapPhotos/DLS-Oriental.png)
+![Oriental](assets/MapPhotos/DLS-Oriental.jpg)
 
 **Paradise**
-![Paradise](assets/MapPhotos/DLS-Paradise.png)
+![Paradise](assets/MapPhotos/DLS-Paradise.jpg)
