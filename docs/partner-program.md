@@ -2,14 +2,15 @@
 
 The Partner Program is a select-entry partnership for popular content creators and teams. Partnership offers by the network are made on a case-by-case basis. There are 'no concrete' requirements to apply for our Partner Program. This doesn't mean there are no requirements. Your application will be reviewed with the following taken into consideration...
 
-* Subscriber/Following count
-* NetherGames activity and previous punishments
-* View count on all videos within your channel
-* Discord server size and Moderation across your server
+* Subscriber/Following count.
+* NetherGames activity and previous punishments.
+* View count on all videos within your channel.
+* View count on your latest live stream (YouTube & Twitch).
+* Discord server size and Moderation across your server.
 * View count on long-form videos compared to Shorts content.
 
 ::: info PLEASE NOTE
-We will consider content creators and teams from a range of platforms including Discord servers, YouTube, X, and Instagram. **YouTube Shorts, Meta/Instagram Reels, and TikToks do not count towards partnership** and will result in your application being denied.
+We will consider content creators and teams from various platforms including Discord servers, YouTube, Twitch, X, and Instagram. **YouTube Shorts, Meta/Instagram Reels, and TikToks do not count towards partnership** and will result in your application being denied.
 :::
 
 Your account must also follow the Terms of Service for the platform. For instance, you must be at least 13 years old to create a YouTube, Meta, X, and/or Discord account.
