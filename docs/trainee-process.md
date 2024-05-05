@@ -22,7 +22,7 @@ Staff cannot provide the exact answer to the Trainee scenario questions.
 :::
 
 Once you have finished filling out your Trainee application form, press the "Submit" button to send your application to our review department. Below we have also provided a chart on how our team reviews Trainee applications, as well as the application process in further detail. If you do not receive a response to your application after 7-10 days, please reach out to a member of our team by DMing our ModMail bot on Discord.
-![Application_Process_Trainee](assets/TraineeProcessArticle/Application_Process_Trainee.jpeg)
+![Application_Process_Trainee](assets/TraineeProcessArticle/Application_Process_Trainee.png)
 
 ## The Review Stage
 While we are unable to explain much about the inner workings of our review process, we check everything to ensure a potential candidate meets the high standards we look for when selecting new Trainees. Many things are taken into consideration such as:
