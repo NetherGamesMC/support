@@ -11,6 +11,8 @@ The Partner Program is a select-entry partnership for popular content creators a
 
 ::: info PLEASE NOTE
 We will consider content creators and teams from various platforms including Discord servers, YouTube, Twitch, X, and Instagram. **YouTube Shorts, Meta/Instagram Reels, and TikToks do not count towards partnership** and will result in your application being denied.
+
+Partner offers more perks than our YouTube rank, meaning the requirements and expectations are stricter. Applying does not guarantee acceptance.
 :::
 
 Your account must also follow the Terms of Service for the platform. For instance, you must be at least 13 years old to create a YouTube, Meta, X, and/or Discord account.
