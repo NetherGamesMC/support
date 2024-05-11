@@ -14,7 +14,7 @@
 If you meet these requirements, you can press the "Continue" button, which will take you to the main application form.
 
 ### Filling out your application
-![Trainee Form](assets/TraineeProcessArticle/Trainee_Form.jpeg)
+![Trainee Form](assets/TraineeProcessArticle/Trainee_Form.jpg)
 When filling out your application, please provide as much detail as possible, and try not to include false information. We search for Trainees based on their skills, attitude, typing, grammar/spelling skills, ability to detect a cheater, activity on the network, and more. We understand that there are a lot of questions to get through, and some might be hard to answer. However, this is the best method to help. If you are struggling with a question or require additional assistance, then you can always send a DM to our ModMail bot, where staff will provide tips, but not the answers to scenarios. 
 
 ::: info PLEASE NOTE
@@ -22,7 +22,7 @@ Staff cannot provide the exact answer to the Trainee scenario questions.
 :::
 
 Once you have finished filling out your Trainee application form, press the "Submit" button to send your application to our review department. Below we have also provided a chart on how our team reviews Trainee applications, as well as the application process in further detail. If you do not receive a response to your application after 7-10 days, please reach out to a member of our team by DMing our ModMail bot on Discord.
-![Application_Process_Trainee](assets/TraineeProcessArticle/Application_Process_Trainee.png)
+![Application_Process_Trainee](assets/TraineeProcessArticle/Application_Process_Trainee.jpg)
 
 ## The Review Stage
 While we are unable to explain much about the inner workings of our review process, we check everything to ensure a potential candidate meets the high standards we look for when selecting new Trainees. Many things are taken into consideration such as:
