@@ -5,10 +5,10 @@ With the NetherGames store, you can purchase gifts to send to other players as w
 ## Rules regarding gifts
 Gifts come in two forms, USD gifts & geo-locked gifts. We have heavily reduced the prices of items for players in certain countries in order to make these items more affordable, you can see the specific prices [here](https://support.nethergames.org/localised-pricing). As a result, if you choose to purchase a geo-locked gift in the reduced price, you can only send the gift to select countries. These are as follows:
 
-* Gifts bought priced in currencies USD, AUD, CAD, EUR & GBP can be opened by players in any country.
-* Gifts bought priced in currencies PLN, BRL & MXN can be opened by players in Poland, Brazil, Mexico, India, Bangladesh, Indonesia, Sri Lanka, Malaysia, Pakistan & Turkey.
-* Gifts bought priced in currencies INR, BDT, IDR, LKR & MYR can be opened by players in India, Bangladesh, Indonesia, Sri Lanka, Malaysia, Pakistan & Turkey.
-* Gifts bought in currencies PKR & TRY can be opened by players in Pakistan & Turkey.
+* Gifts bought priced in currencies **USD, AUD, CAD, EUR & GBP** can be opened by players in any country.
+* Gifts bought priced in currencies **PLN, BRL & MXN** can only be opened by players in Poland, Brazil, Mexico, India, Bangladesh, Indonesia, Sri Lanka, Malaysia, Pakistan & Turkey.
+* Gifts bought priced in currencies **INR, BDT, IDR, LKR & MYR** can only be opened by players in India, Bangladesh, Indonesia, Sri Lanka, Malaysia, Pakistan & Turkey.
+* Gifts bought in currencies **PKR & TRY** can only be opened by players in Pakistan & Turkey.
 
 If you contact us wishing to unlock a gift that goes against these rules, we will not be able to help you and if the purchase has passed the change-of-mind refund period you will not be able to get a refund.
 
