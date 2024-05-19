@@ -16,7 +16,7 @@ We've a default location connector for players as well, which redirects you to t
 5. Hit Play, if you've entered all the details carefully, you should be able to connect to the server.
 
 ### IND
-On #FILL, we added an opportunity for players from places near to India or India itself, to connect to our server with a better latency and bandwidth speed. These servers were being hosted in central Mumbai, India as of 18 May 2024. Here is how you can connect to it:
+On THE 15th of June 2023, we added an opportunity for players from places near to India or India itself, to connect to our server with a better latency and bandwidth speed. These servers were being hosted in central Mumbai, India as of 18 May 2024. Here is how you can connect to it:
 
 1. Open Minecraft
 2. In servers tab, create a new server
