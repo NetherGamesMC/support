@@ -109,9 +109,7 @@ Game Designer is a volunteer staff position requiring applicants to use their ex
 
 We expect applicants to be active, committed, creative, and have a good level of experience with our server.
 
-::: warning PLEASE NOTE
-We are currently not accepting new applications for our Game Designer role.
-:::
+[Click here to apply](https://ngmc.co/request)
 
 ## Current Paid Positions
 
