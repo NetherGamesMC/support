@@ -14,7 +14,7 @@ If you notice a player using any modifications not permitted below, please repor
 ---
 
 ## Resource Packs & Addons
-Addons such as resource packs are permitted on our network, however, the below addon and resource pack types are **NOT ALLOWED**:
+The below add-ons and resource packs are **NOT ALLOWED**:
 - Hitbox Display by Ambient.
 - Utility HUD by Ambient.
 - Better Combat Mod (AimAssist).
@@ -25,7 +25,7 @@ Addons such as resource packs are permitted on our network, however, the below a
 - X-ray resource packs
 - Pro Placer, Better Placement and Accurate Block Placement
 
-We do, however, **ALLOW** full use of the resource packs and add-ons below:
+We do, however, **ALLOW** the full use of the resource packs and add-ons below:
 - ToggleSneak
 - ToggleSprint
 - NoHurtCam
