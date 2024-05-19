@@ -29,6 +29,7 @@ We do, however, **ALLOW** full use of the resource packs and add-ons below:
 - ToggleSneak
 - ToggleSprint
 - NoHurtCam
+- Fullbright
 - Low Fire Effect
 - Freelook (different to Freecam)
 - Auto respawn
