@@ -1,7 +1,7 @@
 ## NetherGames Regions
 
 ::: info PLEASE NOTE
-We've changed na.nethergames.org to us.nethergames.org as it better fits the regions's purpose of providing a better connection to those in the United States.
+We've changed na.nethergames.org to us.nethergames.org as it better fits the region's purpose of providing a better connection to those in the United States.
 :::
 
 At NetherGames, we pride ourselves on different regions for our players to play our server in. We are willing to provide a list of regions from different locations worldwide to connect to. While there might not be a region in your country to you, but you can try connecting to the nearest region. Below are some regions we support as of 18 May 2024:
