@@ -40,7 +40,7 @@ We do, however, **ALLOW** the full use of the resource packs and add-ons below:
 - Minimaps without players
 - Potion Effect Status
 
-## Injection Clients
+## Injection & APK Clients
 The following clients are **ALLOWED** on the network:
 - Onix Client
 - Flarial Client
