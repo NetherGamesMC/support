@@ -3,17 +3,18 @@
 We understand that players, in particular people who use PC devices to play on NetherGames, use a range of modifications to improve their gameplay experience. However, some modifications developed by third parties can be used to provide an unfair advantage over other players, ruining the concept of fair play.
 
 ::: PLEASE NOTE
-Not all modifications are allowed to be used on NetherGames. The general rule is that any modifications used while playing on the network should not provide a significant advantage over other users playing the same game. If your modification/addon is not listed below, then it is used at your own risk! You can also ask through our ModMail via Discord if you need clarification on a modification.
+Not all modifications are allowed to be used on NetherGames. The general rule is that any modifications used while playing on the network should not provide a significant advantage over other users playing the same game. If your modification/addon is not listed below, consider it used at your own risk! Please feel free to ask through our ModMail via Discord if you need clarification on a modification.
 :::
 
 Unfair advantages include, but are not limited to:
 Displaying information relating to the game that is not generally available to players (i.e., distance to other players, player tracers)
 Automating gameplay functions (i.e., key-mapper, aim assisting, auto clickers)
 
+If you notice a player using any modifications not permitted below, please report them through our NetherGames Discord bot or the [NetherGames Portal](https://ngmc.co/request).
 ---
 
 ## Resource Packs & Addons
-Addons such as resource packs are permitted on our network, however, the below addon and resource pack types are not permitted:
+Addons such as resource packs are permitted on our network, however, the below addon and resource pack types are **NOT ALLOWED**:
 - Hitbox Display by Ambient.
 - Utility HUD by Ambient.
 - Better Combat Mod (AimAssist).
@@ -24,7 +25,7 @@ Addons such as resource packs are permitted on our network, however, the below a
 - X-ray resource packs
 - Pro Placer, Better Placement and Accurate Block Placement
 
-We do, however, allow full use of the resource packs and add-ons below:
+We do, however, **ALLOW** full use of the resource packs and add-ons below:
 - ToggleSneak
 - ToggleSprint
 - NoHurtCam
@@ -39,7 +40,7 @@ We do, however, allow full use of the resource packs and add-ons below:
 - Potion Effect Status
 
 ## Injection Clients
-The following clients are **allowed** on the network:
+The following clients are **ALLOWED** on the network:
 - Onix Client
 - Flarial Client
 - Meteor Client
