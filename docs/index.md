@@ -161,6 +161,10 @@ hero:
     - theme: alt
       text: Titan Rank Questions
       link: /titan-perks-faq
+    - theme: alt 
+      text: Server Regions
+      link: /server-regions
+    
 
 
 ---
