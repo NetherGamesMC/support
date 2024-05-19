@@ -1,13 +1,13 @@
 ## NetherGames Regions
 
 ::: info PLEASE NOTE
-We've changed na.nethergames.org to us.nethergames.org as of 18 May 2024
+We've changed na.nethergames.org to us.nethergames.org as it better fits the regions's purpose of providing a better connection to those in the United States.
 :::
 
 At NetherGames, we pride ourselves on different regions for our players to play our server in. We are willing to provide a list of regions from different locations worldwide to connect to. While there might not be a region in your country to you, but you can try connecting to the nearest region. Below are some regions we support as of 18 May 2024:
 
 ### Default
-We have a default location connector for players as well, which redirects you to the nearest data-centre for connecting, i.e., if you are closer to the US, you will be connected to Beauharnois, Canada region, if you are closer to IND, you will be connected to central Mumbai, India region and so on. Here are some steps to connect to it:
+We have a default location connector for players as well, which redirects you to the nearest data centre for connecting, i.e., if you are closer to the US, you will be connected to Beauharnois, Canada region, if you are closer to IND, you will be connected to central Mumbai, India region and so on. Here are some steps to connect to it:
 
 1. Open Minecraft
 2. In the servers tab, create a new server
@@ -16,7 +16,7 @@ We have a default location connector for players as well, which redirects you to
 5. Hit Play, if you've entered all the details carefully, you should be able to connect to the server.
 
 ### IND
-On THE 15th of June 2023, we added an opportunity for players from places near to India or India itself, to connect to our server with a better latency and bandwidth speed. These servers were being hosted in central Mumbai, India as of 18 May 2024. Here is how you can connect to it:
+In 2023, we added an opportunity for players near India to connect to our server with a better latency and bandwidth speed. These servers were being hosted in central Mumbai, India. Here is how you can connect to it:
 
 1. Open Minecraft
 2. In the servers tab, create a new server
@@ -52,7 +52,7 @@ Europe region for European countries. Hosted in central France, Europe, this reg
 5. Hit Play, if you've entered all the details carefully, you should be able to connect to the server.
 
 ::: warning PLEASE NOTE
-Please note that if you don't know which region is best for you, its better to use play.nethergames.org for connecting to the nearest data-center. 
+Please note that if you don't know which region is best for you, it's better to use play.nethergames.org to connect to the nearest data centre. 
 
 Trying to connect via console or mobile? Read the full guide [here](https://support.nethergames.org/connecting-on-mobile-and-console)
 :::
