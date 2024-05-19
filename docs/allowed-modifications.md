@@ -34,8 +34,7 @@ We do, however, **ALLOW** the full use of the resource packs and add-ons below:
 - Freelook (different to Freecam)
 - Auto respawn
 - Custom Crosshairs
-- Health/Damage indicators
- - Does not include armour damage for other players
+- Health/Damage indicators (Does not include armour damage for other players)
 - Waypoints
 - Minimaps without players
 - Potion Effect Status
