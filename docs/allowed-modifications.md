@@ -2,7 +2,7 @@
 
 We understand that players, in particular people who use PC devices to play on NetherGames, use a range of modifications to improve their gameplay experience. However, some modifications developed by third parties can be used to provide an unfair advantage over other players, ruining the concept of fair play.
 
-::: PLEASE NOTE
+::: info PLEASE NOTE
 Not all modifications are allowed to be used on NetherGames. The general rule is that any modifications used while playing on the network should not provide a significant advantage over other users playing the same game. If your modification/addon is not listed below, consider it used at your own risk! Please feel free to ask through our ModMail via Discord if you need clarification on a modification.
 :::
 
