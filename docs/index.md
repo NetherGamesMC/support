@@ -163,7 +163,7 @@ hero:
       link: /titan-perks-faq
     - theme: alt 
       text: Server Regions
-      link: /server-regions
+      link: /regions
     
 
 
