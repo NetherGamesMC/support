@@ -164,6 +164,9 @@ hero:
     - theme: alt 
       text: Server Regions
       link: /regions
+    - theme: alt
+      text: Linked Accounts
+      link: /linked-accounts
     
 
 
