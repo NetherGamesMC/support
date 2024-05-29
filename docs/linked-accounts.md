@@ -18,6 +18,6 @@ Current Status: Offline
 If you need to share your device or account with someone, make sure you 100% trust them before you do so, and that they will not try and break the NetherGames Guidelines. Remember! Your account is at stake to whoever you link up with.
 
 
-::: PLEASE NOTE
+::: info PLEASE NOTE
 Please refrain from contacting ModMail about unlink requests, or asking when the unlinking department will return as you will receive the same information provided on this article.
 :::
