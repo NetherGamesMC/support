@@ -33,7 +33,8 @@ export default {
             { text: 'Refund Policy', link: '/refund-policy' },
             { text: 'Privacy Policy', link: '/privacy-policy' },
             { text: 'Discord Server Regulations', link: '/discord-server-regulations' },
-            { text: 'Branding Guidelines', link: '/branding-guidelines' }
+            { text: 'Branding Guidelines', link: '/branding-guidelines' },
+            { text: 'Linked Accounts', link: '/linked-accounts' }
         ]
         },
         {
