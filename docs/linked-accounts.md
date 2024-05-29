@@ -11,7 +11,7 @@ It is currently not possible to unlink your account from someone else. This page
 One example would be sharing your account with a family member who lives at the same location, and shares the same device.
 
 ::: tip Unlink Department
-Current Status: Offline
+Current Status: Closed
 :::
 
 ## What if I need to have my account linked?
