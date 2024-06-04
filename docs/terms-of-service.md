@@ -35,6 +35,8 @@ While we would love to believe that there are no bad people in the world, this i
 
 Client modifications or "cracked clients" that are not officially endorsed by Minecraft cannot be used on NetherGames. Prohibited modifications give you abilities that are not obtained rightfully—e.g. fly hacking, jump/speed boost, auto clicking, etc. Resource/texture packs that provide cosmetic changes which do not affect gameplay or provide advantages are allowed. Learn more about [allowed client modifications](https://support.nethergames.org/allowed-modifications.html).
 
+These clients and/or modifications are also restricted/prohibited from being open/running in the background while playing on NetherGames. 
+
 ## 8. Use an appropriate username and skin
 
 Keep your username and skin appropriate for players of all ages. Prohibited skins may provide an advantage, such as one that uses custom geometry and not the "Alex" or "Steve" skin structure or ones that show excessive body parts.
