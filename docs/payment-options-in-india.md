@@ -1,8 +1,8 @@
 # Payment Options in India
 
-There are currently limited payment options for players in India, due to restricts on cards making international transactions.
+There are currently limited payment options for players in India due to restrictions on cards making international transactions.
 
-When making a payment on our website, you may receive an error message such as "Card not support" or "Transaction not allowed". This is likely because your bank has international transacations disabled. You will need to contact your bank and request to enable international transactions and try again.
+When making a payment on our website, you may receive an error message such as "Card not support" or "Transaction not allowed". This is likely because your bank has international transactions disabled. You will need to contact your bank and request to enable international transactions and try again.
 
 If contacting your bank does not work, at this stage, there is no other alternative to buy items on our store. We are working on an Android app such that we can support Google Play gift cards, the estimated release of this will be in late July or early August 2024.
 
