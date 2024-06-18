@@ -135,10 +135,6 @@ export default {
             {
                 text: 'Contact Us',
                 link: 'https://ngmc.co/request',
-            },
-            {
-                text: 'Contact Us (E-Mail)',
-                link: 'mailto:support@nethergames.org?subject=My%20Support%20Request',
             }
         ]
         
