@@ -5,7 +5,7 @@ The following article provides instructions for cancelling or transferring your 
 ## Cancelling your subscription
 
 1. Head to [store.nethergames.org](https://store.nethergames.org).
-2. Click on "LOGIN" in the top-right corner and login with your Microsoft account.
+2. Click on login button in the top-right corner and login with your Microsoft account.
 3. Once you're logged in, click on your username in the top-right corner.
 4. Under the "Subscriptions" category, you should see your current Titan subscription.
 5. Click on the "Cancel" button in order to cancel your subscription.
@@ -19,7 +19,7 @@ You can transfer the remaining days left of your Titan rank to other players pro
 If your Titan rank is from an active subscription, the subscription will cancel upon transferring to another player and the recipient will be able to use the remaining paid days of the subscription. 
 
 1. Head to [store.nethergames.org](https://store.nethergames.org).
-2. Click on "LOGIN" in the top-right corner and login with your Microsoft account.
+2. Click on login button in the top-right corner and login with your Microsoft account.
 3. Once you're logged in, click on your username in the top-right corner.
 4. Under the "Subscriptions" category, you should see your current Titan subscription.
 5. Click on the arrow button on your subscription.
