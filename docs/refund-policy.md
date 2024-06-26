@@ -16,6 +16,8 @@ We provide access to playing on all our Minecraft servers free of charge. We may
 
 Gifts that have already been claimed are not eligible for a refund even if it is within 5 days of the purchase, this is to prevent gift scamming.
 
+If you have any active punishment on your account you must wait till the punishment expires before you can transfer any gifts.
+
 Players who have purchased a Titan subscription do have the opportunity to transfer the remainder of their subscription to another player if they wish to do so, provided the player with the Titan subscription is not currently banned. This can be done by opening a "Billing Issue" ticket at [ngmc.co/request](https://ngmc.co/request).
 
 If you become falsely banned and have a successful appeal whilst holding a Titan subscription, you may contact our support to recieve an extention of your subscription for the time that you were banned. 
