@@ -53,6 +53,7 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 ![Fastfood](assets/MapPhotos/BW8-Fastfood.jpg)
 
 **Library**
+
 Image unavailable.
 
 **Lighthouse**
@@ -334,6 +335,7 @@ Image unavailable.
 ![Blue Castle](assets/MapPhotos/DLS-Blue_Castle.jpg)
 
 **Bridge**
+
 Image unavailable.
 
 **Garden**
@@ -358,6 +360,7 @@ Image unavailable.
 ![Spaceport](assets/MapPhotos/DLS-Spaceport.jpg)
 
 **Sumo Ring**
+
 Image unavailable.
 
 **Temple**
