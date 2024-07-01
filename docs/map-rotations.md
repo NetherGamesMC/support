@@ -52,6 +52,9 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Fastfood**
 ![Fastfood](assets/MapPhotos/BW8-Fastfood.jpg)
 
+**Library**
+Image unavailable.
+
 **Lighthouse**
 ![Lighthouse](assets/MapPhotos/BW8-Lighthouse.jpg)
 
@@ -60,6 +63,9 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 **Pyramid**
 ![Pyramid](assets/MapPhotos/BW8-Pyramid.jpg)
+
+**Roots**
+![Roots](assets/MapPhotos/BW8-Roots.jpg)
 
 **Sandy**
 ![Sandy](assets/MapPhotos/BW8-Sandy.jpg)
@@ -83,6 +89,9 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Gears** - NEW
 ![Gears](assets/MapPhotos/BW4-Gears.jpg)
 
+**Pagoda** - NEW
+![Pagoda](assets/MapPhotos/BW4-Pagoda.jpg)
+
 **Santo** - NEW
 ![Santo](assets/MapPhotos/BW4-Santo.jpg)
 
@@ -103,9 +112,6 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 **Olympus**
 ![Olympus](assets/MapPhotos/BW4-Olympus.jpg)
-
-**Pagoda**
-![Pagoda](assets/MapPhotos/BW4-Pagoda.jpg)
 
 **Radioactive**
 ![Radioactive](assets/MapPhotos/BW4-Radioactive.jpg)
@@ -189,11 +195,11 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Elowen**
 ![Elowen](assets/MapPhotos/SW-Elowen.jpg)
 
-**Fiery**
-![Fiery](assets/MapPhotos/SW-Fiery.jpg)
-
 **Farmhouse**
 ![Farmhouse](assets/MapPhotos/SW-Farmhouse.jpg)
+
+**Fiery**
+![Fiery](assets/MapPhotos/SW-Fiery.jpg)
 
 **Hades**
 ![Hades](assets/MapPhotos/SW-Hades.jpg)
@@ -231,38 +237,32 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Sentiment**
 ![Sentiment](assets/MapPhotos/SW-Sentiment.jpg)
 
-**Sweets**
-![Sweets](assets/MapPhotos/SW-Sweets.jpg)
-
 **Summer**
 ![Summer](assets/MapPhotos/SW-Summer.jpg)
 
 **Summit**
 ![Summit](assets/MapPhotos/SW-Summit.jpg)
 
+**Sweets**
+![Sweets](assets/MapPhotos/SW-Sweets.jpg)
+
 **Tangled**
 ![Tangled](assets/MapPhotos/SW-Tangled.jpg)
-
-**Toys**
-![Toys](assets/MapPhotos/SW-Toys.jpg)
 
 **Town**
 ![Town](assets/MapPhotos/SW-Town.jpg)
 
+**Toys**
+![Toys](assets/MapPhotos/SW-Toys.jpg)
+
 **Tropical**
 ![Tropical](assets/MapPhotos/SW-Tropical.jpg)
 
+**Vandals**
+![Waterfall](assets/MapPhotos/SW-Vandals.jpg)
+
 **Waterfall**
 ![Waterfall](assets/MapPhotos/SW-Waterfall.jpg)
-
-**District**
-![District](assets/MapPhotos/SW-District.jpg)
-
-**Bliss**
-![Bliss](assets/MapPhotos/SW-Bliss.jpg)
-
-**Reflection**
-![Reflection](assets/MapPhotos/SW-Reflection.jpg)
 
 ### SW Duels
 **Cypher**
@@ -356,6 +356,9 @@ Image unavailable.
 
 **Spaceport**
 ![Spaceport](assets/MapPhotos/DLS-Spaceport.jpg)
+
+**Sumo Ring**
+Image unavailable.
 
 **Temple**
 ![Temple](assets/MapPhotos/DLS-Temple.jpg)
