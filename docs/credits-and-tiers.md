@@ -1,7 +1,9 @@
 # Credits and Tiers
 
 ::: info PLEASE NOTE
-A new tiers season has started as of the 1st of July 2024. The next season is scheduled for the 1st of July 2025.
+A new tiers season has started as of the 1st of July 2024.
+
+The next season is scheduled for the 1st of July 2025.
 :::
 
 The credits and tiers are a yearly reward system on NetherGames with each season running from July and finishing in June. The tiers are designed to be an incentive to players, offering them perks without having to purchase a rank.
