@@ -9,7 +9,7 @@
 * **Rotation 4:** November 10th to December 9th
 * **Rotation 4 + Winter Holiday Maps:** December 10th to January 9th
 
-The map rotation is a system NetherGames has in place to keep maps fresh and different. This is a list of all currently rotated maps for all gamemodes in the program.
+The map rotation is a system NetherGames has in place to keep maps fresh and different. This is a list of all currently active maps for all gamemodes across the network.
 
 
 ## Quick access
@@ -28,176 +28,128 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 ## Bedwars
 ### Solo/Duos
-**Venice** - NEW
-![Venice](assets/MapPhotos/BW8-Venice.jpg)
+**Giants** - Summer skin
+![Giants](assets/MapPhotos/S-BW8-Giants.jpg)
 
-**Antithesis** - NEW
-![Antithesis](assets/MapPhotos/BW8-Antithesis.jpg)
+**Royal** - Summer skin
+![Royal](assets/MapPhotos/S-BW8-Royal.jpg)
 
-**Dynasty** - NEW
+**Castaway**
+![Castaway](assets/MapPhotos/BW8-Castaway.jpg)
+
+**Cloud**
+![Cloud](assets/MapPhotos/BW8-Cloud.jpg)
+
+**Dynasty**
 ![Dynasty](assets/MapPhotos/BW8-Dynasty.jpg)
 
-**Galactic** - NEW
-![Galactic](assets/MapPhotos/BW8-Galactic.jpg)
+**Exodus**
+![Exodus](assets/MapPhotos/BW8-Exodus.jpg)
 
-**Roots** - NEW
-![Roots](assets/MapPhotos/BW8-Roots.jpg)
+**Fallen**
+![Fallen](assets/MapPhotos/BW8-Fallen.jpg)
 
-**Futuristic**
+**Fastfood**
+![Fastfood](assets/MapPhotos/BW8-Fastfood.jpg)
 
-Image unavailable.
+**Lighthouse**
+![Lighthouse](assets/MapPhotos/BW8-Lighthouse.jpg)
 
-**Geometry**
-![Geometry](assets/MapPhotos/BW8-Geometry.jpg)
-
-**Mercuria**
-![Mercuria](assets/MapPhotos/BW8-Mercuria.jpg)
-
-**Pandora**
-![Pandora](assets/MapPhotos/BW8-Pandora.jpg)
-
-**Perished**
-![Perished](assets/MapPhotos/BW8-Perished.jpg)
+**Mushrooms**
+![Mushrooms](assets/MapPhotos/BW8-Mushrooms.jpg)
 
 **Pyramid**
 ![Pyramid](assets/MapPhotos/BW8-Pyramid.jpg)
 
-**Roman**
-![Roman](assets/MapPhotos/BW8-Roman.jpg)
+**Sandy**
+![Sandy](assets/MapPhotos/BW8-Sandy.jpg)
 
-**Unearthed**
-![Unearthed](assets/MapPhotos/BW8-Unearthed.jpg)
+**Steampunk**
+![Steampunk](assets/MapPhotos/BW8-Steampunk.jpg)
 
-**Serenity**
-![Serenity](assets/MapPhotos/BW8-Serenity.jpg)
+**Venice**
+![Venice](assets/MapPhotos/BW8-Venice.jpg)
 
-**Wuzhen**
-![Wuzhen](assets/MapPhotos/BW8-Wuzhen.jpg)
-
-**Castaway** - **NEW**
-![Castaway](/assets/MapPhotos/BW8-Castaway.jpg)
-
-**Wilderness** - **NEW**
-![Wilderness](/assets/MapPhotos/BW8-Wilderness.jpg)
-
-**Giants** - **NEW**
-![Giants](/assets/MapPhotos/S-BW8-Giants.jpg)
-
-**Royal** - **NEW**
-![Royal](/assets/MapPhotos/S-BW8-Royal.jpg)
+**Wilderness**
+![Wilderness](assets/MapPhotos/BW8-Wilderness.jpg)
 
 ### Squads
-**Mire** - NEW
-![Mire](assets/MapPhotos/BW4-Mire.jpg)
+**Angelo** - NEW
+![Angelo](assets/MapPhotos/BW4-Angelo.jpg)
 
-**Castaway**
-![Castaway](assets/MapPhotos/BW4-Castaway.jpg)
+**Borough** - NEW
+![Borough](assets/MapPhotos/BW4-Borough.jpg)
 
-**Elysinia**
-![Elysinia](assets/MapPhotos/BW4-Elysinia.jpg)
+**Gears** - NEW
+![Gears](assets/MapPhotos/BW4-Gears.jpg)
 
-**Harmony**
-![Harmony](assets/MapPhotos/BW4-Harmony.jpg)
+**Santo** - NEW
+![Santo](assets/MapPhotos/BW4-Santo.jpg)
 
-**Library**
-![Library](assets/MapPhotos/BW4-Library.jpg)
-
-**Ukiyo**
-![Ukiyo](assets/MapPhotos/BW4-Ukiyo.jpg)
-
-**Ancient City**
-![Ancient City](assets/MapPhotos/BW4-Ancient_City.jpg)
-
-**Giants**
-![Giants](assets/MapPhotos/BW4-Giants.jpg)
-
-**Perplexion**
-![Perplexion](assets/MapPhotos/BW4-Perplexion.jpg)
-
-**Elementar**
-![Elementar](assets/MapPhotos/BW4-Elementar.jpg)
+**Temple** - NEW
+![Temple](assets/MapPhotos/BW4-Temple.jpg)
 
 **Fastfood**
 ![Fastfood](assets/MapPhotos/BW4-Fastfood.jpg)
 
-**Atlantis**
-Image unavailable.
+**Forsaken**
+![Forsaken](assets/MapPhotos/BW4-Forsaken.jpg)
 
-**Angelo** - **NEW**
-![Angelo](/assets/MapPhotos/BW4-Angelo.jpg)
+**Fungal**
+![Fungal](assets/MapPhotos/BW4-Fungal.jpg)
 
-**Borough** - **NEW**
-![Borough](/assets/MapPhotos/BW4-Borough.jpg)
+**Giants**
+![Giants](assets/MapPhotos/BW4-Giants.jpg)
 
-**Gears** - **NEW**
-![Gears](/assets/MapPhotos/BW4-Gears.jpg)
+**Olympus**
+![Olympus](assets/MapPhotos/BW4-Olympus.jpg)
 
-**Olympus** - **NEW**
-![Olympus](/assets/MapPhotos/BW4-Olympus.jpg)
+**Pagoda**
+![Pagoda](assets/MapPhotos/BW4-Pagoda.jpg)
 
-**Pagoda** - **NEW**
-![Pagoda](/assets/MapPhotos/BW4-Pagoda.jpg)
+**Radioactive**
+![Radioactive](assets/MapPhotos/BW4-Radioactive.jpg)
 
-**Radioactive** - **NEW**
-![Radioactive](/assets/MapPhotos/BW4-Radioactive.jpg)
-
-**Sandy** - **NEW**
-![Sandy](/assets/MapPhotos/BW4-Sandy.jpg)
-
-**Santo** - **NEW**
-![Santo](/assets/MapPhotos/BW4-Santo.jpg)
-
-**Temple** - **NEW**
-![Temple](/assets/MapPhotos/BW4-Temple.jpg)
-
+**Sandy**
+![Sandy](assets/MapPhotos/BW4-Sandy.jpg)
 
 ## Conquests
-**Prey**
-![Prey](assets/MapPhotos/CQ-Prey.jpg)
-
 **Dystopia**
 ![Dystopia](assets/MapPhotos/CQ-Dystopia.jpg)
+
+**Markets**
+![Markets](assets/MapPhotos/CQ-Markets.jpg)
+
+**Mythical**
+![Mythical](assets/MapPhotos/CQ-Mythical.jpg)
+
+**Sacred**
+![Sacred](assets/MapPhotos/CQ-Sacred.jpg)
 
 **Snapdragons**
 ![Snapdragons](assets/MapPhotos/CQ-Snapdragons.jpg)
 
-**Fort** - **NEW**
-![Fort](/assets/MapPhotos/CQ-Fort.jpg)
+**Toluca**
+![Toluca](assets/MapPhotos/CQ-Toluca.jpg)
 
-**Markets** - **NEW**
-![Markets](/assets/MapPhotos/CQ-Markets.jpg)
-
-**Mythical** - **NEW**
-![Mythical](/assets/MapPhotos/CQ-Mythical.jpg)
-
-**Sacred** - **NEW**
-![Sacred](/assets/MapPhotos/CQ-Sacred.jpg)
-
-**Warfare** - **NEW**
-![Warfare](/assets/MapPhotos/CQ-Warfare.jpg)
-
+**Woodlands**
+![Woodlands](assets/MapPhotos/CQ-Woodlands.jpg)
 
 ## Murder Mystery
-**Embarkation** - NEW
-![Embarkation](assets/MapPhotos/MM-Embarkment.jpg)
-
-**Watermill**
-![Watermill](assets/MapPhotos/MM-Watermill.jpg)
-
-**Academy**
-![Academy](assets/MapPhotos/MM-Academy.jpg)
+**Stadium** - NEW
+![Stadium](assets/MapPhotos/MM-Stadium.jpg)
 
 **Arid**
 ![Arid](assets/MapPhotos/MM-Arid.jpg)
 
-**Asylum**
-![Asylum](assets/MapPhotos/MM-Asylum.jpg)
+**Embarkation**
+![Embarkation](assets/MapPhotos/MM-Embarkation.jpg)
 
 **Haven**
 ![Haven](assets/MapPhotos/MM-Haven.jpg)
 
-**Mall**
-![Mall](assets/MapPhotos/MM-Mall.jpg)
+**Muscaria**
+![Muscaria](assets/MapPhotos/MM-Muscaria.jpg)
 
 **Rome**
 ![Rome](assets/MapPhotos/MM-Rome.jpg)
@@ -205,13 +157,10 @@ Image unavailable.
 **Victorian Residence**
 ![Victorian Residence](assets/MapPhotos/MM-Victorian_Residence.jpg)
 
-**Stadium** - **NEW**
-![Stadium](/assets/MapPhotos/MM-Stadium.jpg)
-
 ## Skywars
 ### Regular
-**Fiery** - NEW
-![Fiery](assets/MapPhotos/SW-Fiery.jpg)
+**Acid**
+![Acid](assets/MapPhotos/SW-Acid.jpg)
 
 **Amazon**
 ![Amazon](assets/MapPhotos/SW-Amazon.jpg)
@@ -225,66 +174,95 @@ Image unavailable.
 **Bliss**
 ![Bliss](assets/MapPhotos/SW-Bliss.jpg)
 
+**Cliffs**
+![Cliffs](assets/MapPhotos/SW-Cliffs.jpg)
+
+**Decked**
+![Decked](assets/MapPhotos/SW-Decked.jpg)
+
 **Desert**
 ![Desert](assets/MapPhotos/SW-Desert.jpg)
+
+**District**
+![District](assets/MapPhotos/SW-District.jpg)
+
+**Elowen**
+![Elowen](assets/MapPhotos/SW-Elowen.jpg)
+
+**Fiery**
+![Fiery](assets/MapPhotos/SW-Fiery.jpg)
 
 **Farmhouse**
 ![Farmhouse](assets/MapPhotos/SW-Farmhouse.jpg)
 
-**Petals**
-![Petals](assets/MapPhotos/SW-Petals.jpg)
+**Hades**
+![Hades](assets/MapPhotos/SW-Hades.jpg)
 
-**Vandals**
-![Vandals](assets/MapPhotos/SW-Vandals.jpg)
+**Icetown**
+![Icetown](assets/MapPhotos/SW-Icetown.jpg)
 
-**Acid**
-![Acid](assets/MapPhotos/SW-Acid.jpg)
+**Ingress**
+![Ingress](assets/MapPhotos/SW-Ingress.jpg)
 
-**Cliffs**
-![Cliffs](assets/MapPhotos/SW-Cliffs.jpg)
-
-**Reflection**
-![Reflection](assets/MapPhotos/SW-Reflection.jpg)
-
-**Toys**
-![Toys](assets/MapPhotos/SW-Toys.jpg)
+**Mines**
+![Mines](assets/MapPhotos/SW-Mines.jpg)
 
 **Nostalgia**
 ![Nostalgia](assets/MapPhotos/SW-Nostalgia.jpg)
 
+**Petals**
+![Petals](assets/MapPhotos/SW-Petals.jpg)
+
+**Portal**
+![Portal](assets/MapPhotos/SW-Portal.jpg)
+
+**Reflection**
+![Reflection](assets/MapPhotos/SW-Reflection.jpg)
+
 **Rosewood**
 ![Rosewood](assets/MapPhotos/SW-Rosewood.jpg)
+
+**Saga**
+![Saga](assets/MapPhotos/SW-Saga.jpg)
 
 **Seafloor**
 ![Seafloor](assets/MapPhotos/SW-Seafloor.jpg)
 
-**Tangled**
-![Tangled](assets/MapPhotos/SW-Tangled.jpg)
-
-**Waterfall**
-![Waterfall](assets/MapPhotos/SW-Waterfall.jpg)
-
 **Sentiment**
 ![Sentiment](assets/MapPhotos/SW-Sentiment.jpg)
+
+**Sweets**
+![Sweets](assets/MapPhotos/SW-Sweets.jpg)
 
 **Summer**
 ![Summer](assets/MapPhotos/SW-Summer.jpg)
 
-**Decked** - **NEW**
-![Decked](/assets/MapPhotos/SW-Decked.jpg)
+**Summit**
+![Summit](assets/MapPhotos/SW-Summit.jpg)
 
-**Portal** - **NEW**
-![Portal](/assets/MapPhotos/SW-Portal.jpg)
+**Tangled**
+![Tangled](assets/MapPhotos/SW-Tangled.jpg)
 
-**Saga** - **NEW**
-![Saga](/assets/MapPhotos/SW-Saga.jpg)
+**Toys**
+![Toys](assets/MapPhotos/SW-Toys.jpg)
 
-**Summit** - **NEW**
-![Summit](/assets/MapPhotos/SW-Summit.jpg)
+**Town**
+![Town](assets/MapPhotos/SW-Town.jpg)
 
-**Town** - **NEW**
-![Town](/assets/MapPhotos/SW-Town.jpg)
+**Tropical**
+![Tropical](assets/MapPhotos/SW-Tropical.jpg)
 
+**Waterfall**
+![Waterfall](assets/MapPhotos/SW-Waterfall.jpg)
+
+**District**
+![District](assets/MapPhotos/SW-District.jpg)
+
+**Bliss**
+![Bliss](assets/MapPhotos/SW-Bliss.jpg)
+
+**Reflection**
+![Reflection](assets/MapPhotos/SW-Reflection.jpg)
 
 ### SW Duels
 **Cypher**
@@ -300,73 +278,63 @@ Image unavailable.
 ![Scaffolds](assets/MapPhotos/SWD-Scaffolds.jpg)
 
 **Solar**
-![Solar](assets/MapPhotos/SWD-Solar.jpg)
+![Solar](assets/MapPhotos/SWD-Solar.jpg).
 
 ## The Bridge
-**Shuttle**
-![Shuttle](assets/MapPhotos/TB-Shuttle.jpg)
+**Aegean**
+![Aegean](assets/MapPhotos/TB-Aegean.jpg)
 
-**Skyscrapers**
-![Skyscrapers](assets/MapPhotos/TB-Skyscrapers.jpg)
-
-**Solice**
-![Solice](assets/MapPhotos/TB-Solice.jpg)
-
-**Castle**
-![Castle](assets/MapPhotos/TB-Castle.jpg)
-
-**Venables**
-![Venables](assets/MapPhotos/TB-Venables.jpg)
-
-**Acropolis**
-![Acropolis](assets/MapPhotos/TB-Acropolis.jpg)
-
-**Cityscape**
-![Cityscape](assets/MapPhotos/TB-Cityscape.jpg)
-
-**Desert**
-![Desert](assets/MapPhotos/TB-Desert.jpg)
-
-**Eureka**
-![Eureka](assets/MapPhotos/TB-Eureka.jpg)
-
-**Natural**
-![Natural](assets/MapPhotos/TB-Natural.jpg)
-
-**Pianotic**
-![Pianotic](assets/MapPhotos/TB-Pianotic.jpg)
-
-**Sphinx**
-![Sphinx](assets/MapPhotos/TB-Sphinx.jpg)
+**Balance**
+![Balance](assets/MapPhotos/TB-Balance.jpg)
 
 **Blox**
 ![Blox](assets/MapPhotos/TB-Blox.jpg)
 
+**Castle**
+![Castle](assets/MapPhotos/S-TB-Castle.jpg)
+
+**Coast**
+![Coast](assets/MapPhotos/TB-Coast.jpg)
+
+**Crossbones**
+![Crossbones](assets/MapPhotos/TB-Crossbones.jpg)
+
+**Desert**
+![Desert](assets/MapPhotos/TB-Desert.jpg)
+
+**Natural**
+![Natural](assets/MapPhotos/TB-Natural.jpg)
+
+**Overgrown**
+![Overgrown](assets/MapPhotos/TB-Overgrown.jpg)
+
+**Pirates**
+![Pirates](assets/MapPhotos/TB-Pirates.jpg)
+
+**Shuttle**
+![Shuttle](assets/MapPhotos/TB-Shuttle.jpg)
+
+**Solice**
+![Solice](assets/MapPhotos/TB-Solice.jpg)
+
 **Tabernacle**
 ![Tabernacle](assets/MapPhotos/TB-Tabernacle.jpg)
 
-**Aegean** - **NEW**
-![Aegean](/assets/MapPhotos/TB-Aegean.jpg)
+**Venables**
+![Venables](assets/MapPhotos/TB-Venables.jpg)
 
-**Balance** - **NEW**
-![Balance](/assets/MapPhotos/TB-Balance.jpg)
-
-**Wooded** - **NEW**
-![Wooded](/assets/MapPhotos/TB-Wooded.jpg)
-
-**Castle** - **NEW**
-![Castle](/assets/MapPhotos/S-TB-Castle.jpg)
+**Wooded**
+![Wooded](assets/MapPhotos/TB-Wooded.jpg)
 
 ## Duels
-**Yinyang** - NEW
-![Yinyang](assets/MapPhotos/DLS-Yinyang.jpg)
-
-**Mansion** - NEW
-
-Image unavailable.
+**Ancient**
+![Ancient](assets/MapPhotos/DLS-Ancient.jpg)
 
 **Blue Castle**
 ![Blue Castle](assets/MapPhotos/DLS-Blue_Castle.jpg)
+
+**Bridge**
+Image unavailable.
 
 **Garden**
 ![Garden](assets/MapPhotos/DLS-Garden.jpg)
@@ -377,21 +345,14 @@ Image unavailable.
 **Houses**
 ![Houses](assets/MapPhotos/DLS-Houses.jpg)
 
-**Sohei**
-![Sohei](assets/MapPhotos/DLS-Sohei.jpg)
-
-**Bridge**
-
-Image unavailable.
-
-**Daffodil**
-![Daffodil](assets/MapPhotos/DLS-Daffodil.jpg)
-
-**Madlab**
-![Madlab](assets/MapPhotos/DLS-MadLab.jpg)
+**Mansion**
+![Mansion](assets/MapPhotos/DLS-Mansion.jpg)
 
 **Meadow**
 ![Meadow](assets/MapPhotos/DLS-Meadow.jpg)
+
+**Sohei**
+![Sohei](assets/MapPhotos/DLS-Sohei.jpg)
 
 **Spaceport**
 ![Spaceport](assets/MapPhotos/DLS-Spaceport.jpg)
@@ -402,14 +363,5 @@ Image unavailable.
 **Yard**
 ![Yard](assets/MapPhotos/DLS-Yard.jpg)
 
-**Nature**
-![Nature](assets/MapPhotos/DLS-Nature.jpg)
-
-**Oriental**
-![Oriental](assets/MapPhotos/DLS-Oriental.jpg)
-
-**Paradise**
-![Paradise](assets/MapPhotos/DLS-Paradise.jpg)
-
-**Ancient** - **NEW**
-![Ancient](/assets/MapPhotos/DLS-Ancient.jpg)
+**Yinyang**
+![Yinyang](assets/MapPhotos/DLS-Yinyang.jpg)
