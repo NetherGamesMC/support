@@ -74,6 +74,18 @@ Image unavailable.
 **Wuzhen**
 ![Wuzhen](assets/MapPhotos/BW8-Wuzhen.jpg)
 
+**Castaway** - **NEW**
+![Castaway](/assets/MapPhotos/BW8-Castaway.jpg)
+
+**Wilderness** - **NEW**
+![Wilderness](/assets/MapPhotos/BW8-Wilderness.jpg)
+
+**Giants** - **NEW**
+![Giants](/assets/MapPhotos/S-BW8-Giants.jpg)
+
+**Royal** - **NEW**
+![Royal](/assets/MapPhotos/S-BW8-Royal.jpg)
+
 ### Squads
 **Mire** - NEW
 ![Mire](assets/MapPhotos/BW4-Mire.jpg)
@@ -109,21 +121,61 @@ Image unavailable.
 ![Fastfood](assets/MapPhotos/BW4-Fastfood.jpg)
 
 **Atlantis**
-
 Image unavailable.
+
+**Angelo** - **NEW**
+![Angelo](/assets/MapPhotos/BW4-Angelo.jpg)
+
+**Borough** - **NEW**
+![Borough](/assets/MapPhotos/BW4-Borough.jpg)
+
+**Gears** - **NEW**
+![Gears](/assets/MapPhotos/BW4-Gears.jpg)
+
+**Olympus** - **NEW**
+![Olympus](/assets/MapPhotos/BW4-Olympus.jpg)
+
+**Pagoda** - **NEW**
+![Pagoda](/assets/MapPhotos/BW4-Pagoda.jpg)
+
+**Radioactive** - **NEW**
+![Radioactive](/assets/MapPhotos/BW4-Radioactive.jpg)
+
+**Sandy** - **NEW**
+![Sandy](/assets/MapPhotos/BW4-Sandy.jpg)
+
+**Santo** - **NEW**
+![Santo](/assets/MapPhotos/BW4-Santo.jpg)
+
+**Temple** - **NEW**
+![Temple](/assets/MapPhotos/BW4-Temple.jpg)
+
+
 ## Conquests
 **Prey**
 ![Prey](assets/MapPhotos/CQ-Prey.jpg)
-
-**Warfare**
-
-Image unavailable.
 
 **Dystopia**
 ![Dystopia](assets/MapPhotos/CQ-Dystopia.jpg)
 
 **Snapdragons**
 ![Snapdragons](assets/MapPhotos/CQ-Snapdragons.jpg)
+
+**Fort** - **NEW**
+![Fort](/assets/MapPhotos/CQ-Fort.jpg)
+
+**Markets** - **NEW**
+![Markets](/assets/MapPhotos/CQ-Markets.jpg)
+
+**Mythical** - **NEW**
+![Mythical](/assets/MapPhotos/CQ-Mythical.jpg)
+
+**Sacred** - **NEW**
+![Sacred](/assets/MapPhotos/CQ-Sacred.jpg)
+
+**Warfare** - **NEW**
+![Warfare](/assets/MapPhotos/CQ-Warfare.jpg)
+
 
 ## Murder Mystery
 **Embarkation** - NEW
@@ -152,6 +204,9 @@ Image unavailable.
 
 **Victorian Residence**
 ![Victorian Residence](assets/MapPhotos/MM-Victorian_Residence.jpg)
+
+**Stadium** - **NEW**
+![Stadium](/assets/MapPhotos/MM-Stadium.jpg)
 
 ## Skywars
 ### Regular
@@ -215,6 +270,22 @@ Image unavailable.
 **Summer**
 ![Summer](assets/MapPhotos/SW-Summer.jpg)
 
+**Decked** - **NEW**
+![Decked](/assets/MapPhotos/SW-Decked.jpg)
+
+**Portal** - **NEW**
+![Portal](/assets/MapPhotos/SW-Portal.jpg)
+
+**Saga** - **NEW**
+![Saga](/assets/MapPhotos/SW-Saga.jpg)
+
+**Summit** - **NEW**
+![Summit](/assets/MapPhotos/SW-Summit.jpg)
+
+**Town** - **NEW**
+![Town](/assets/MapPhotos/SW-Town.jpg)
+
+
 ### SW Duels
 **Cypher**
 ![Cypher](assets/MapPhotos/SWD-Cypher.jpg)
@@ -274,6 +345,18 @@ Image unavailable.
 **Tabernacle**
 ![Tabernacle](assets/MapPhotos/TB-Tabernacle.jpg)
 
+**Aegean** - **NEW**
+![Aegean](/assets/MapPhotos/TB-Aegean.jpg)
+
+**Balance** - **NEW**
+![Balance](/assets/MapPhotos/TB-Balance.jpg)
+
+**Wooded** - **NEW**
+![Wooded](/assets/MapPhotos/TB-Wooded.jpg)
+
+**Castle** - **NEW**
+![Castle](/assets/MapPhotos/S-TB-Castle.jpg)
+
 ## Duels
 **Yinyang** - NEW
 ![Yinyang](assets/MapPhotos/DLS-Yinyang.jpg)
@@ -327,3 +410,6 @@ Image unavailable.
 
 **Paradise**
 ![Paradise](assets/MapPhotos/DLS-Paradise.jpg)
+
+**Ancient** - **NEW**
+![Ancient](/assets/MapPhotos/DLS-Ancient.jpg)
