@@ -97,7 +97,8 @@ Image unavailable.
 ![Santo](assets/MapPhotos/BW4-Santo.jpg)
 
 **Temple** - NEW
-![Temple](assets/MapPhotos/BW4-Temple.jpg)
+
+Image unavailable.
 
 **Fastfood**
 ![Fastfood](assets/MapPhotos/BW4-Fastfood.jpg)
