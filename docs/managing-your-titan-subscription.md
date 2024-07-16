@@ -25,8 +25,8 @@ If your Titan rank is from an active subscription, the subscription will cancel 
 5. Click on the arrow button on your subscription.
 6. Enter the desired recipient's username and press "Continue".
 
-The Titan rank should be sent, and the recipient can accept the Titan rank by heading to [store.nethergames.org](https://store.nethergames.org). 
+The Titan rank should be sent, and the recipient can accept the Titan rank by heading to [store.nethergames.org](https://store.nethergames.org). If you change your mind you have the opportunity to cancel the transfer before the recipient has accepted it by going to your Gift Inventory and clicking on the "X" button.
 
-::: info CHANGED YOUR MIND?
-You have the opportunity to cancel the transfer before the recipient has accepted it by going to your Gift Inventory and clicking on the "X" button.
+::: info ISSUES MANAGING YOUR TITAN RANK?
+Contact our support team via #support on [Discord](https://ngmc.co/discord) or create a "Billing Issue" ticket at [ngmc.co/request](https://ngmc.co/request).
 :::
