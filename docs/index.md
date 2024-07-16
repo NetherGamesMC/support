@@ -167,6 +167,15 @@ hero:
     - theme: alt
       text: Linked Accounts
       link: /linked-accounts
+    - theme: alt
+      text: Managing Your Titan Subscription
+      link: /managing-your-titan-subscription
+    - theme: alt
+      text: Payment Options in India
+      link: /payment-options-in-india
+    - theme: alt
+      text: Applying for a Refund
+      link: /applying-for-a-refund
     
 
 
