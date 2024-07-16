@@ -52,8 +52,8 @@ export default {
             { text: 'Submitting Feedback', link: '/submitting-feedback' },
             { text: 'Syncing Ranks & Tiers to Discord', link: '/syncing-ranks-and-tiers-to-discord' },
             { text: 'Titan Rank Questions', link: '/titan-perks-faq' }
-            { text: 'Applying for a Refund', link: '/applying-for-a-refund' }
-            { text: 'Managing your Titan Subscription', link: '/managing-your-titan-subscription' }
+            { text: 'Applying for a Refund', link: '/applying-for-a-refund' },
+            { text: 'Managing Your Titan Subscription', link: '/managing-your-titan-subscription' }
         ]
         },
         {
@@ -72,7 +72,7 @@ export default {
             { text: 'This Username Is Already Registered', link: '/this-username-is-already-registered' },
             { text: 'Troubleshooting Connection Issues', link: '/troubleshooting-connection-issues' },
             { text: 'Unable to Change My \"About Me\"', link: '/unable-to-change-my-about-me' },
-            { text: 'Server Regions', link: '/server-regions' }
+            { text: 'Server Regions', link: '/server-regions' },
             { text: 'Payment Options in India', link: '/payments-options-in-india' }
         ]
         },  
