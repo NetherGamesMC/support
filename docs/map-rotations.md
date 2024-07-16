@@ -140,8 +140,8 @@ Image unavailable.
 **Park**
 ![Park](assets/MapPhotos/BWD-Park.jpg)
 
-**Sentinals**
-![Sentinals](assets/MapPhotos/BWD-Sentinals.jpg)
+**Sentinels**
+![Sentinels](assets/MapPhotos/BWD-Sentinels.jpg)
 
 **Town**
 ![Town](assets/MapPhotos/BWD-Town.jpg)
