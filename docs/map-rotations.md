@@ -121,6 +121,34 @@ Image unavailable.
 **Sandy**
 ![Sandy](assets/MapPhotos/BW4-Sandy.jpg)
 
+### BW Duels
+**Book**
+![Book](assets/MapPhotos/BWD-Book.jpg)
+
+**Casa**
+![Casa](assets/MapPhotos/BWD-Casa.jpg)
+
+**Cytree**
+![Cytree](assets/MapPhotos/BWD-Cytree.jpg)
+
+**Ghetto**
+![Ghetto](assets/MapPhotos/BWD-Ghetto.jpg)
+
+**Ionia**
+![Ionia](assets/MapPhotos/BWD-Ionia.jpg)
+
+**Park**
+![Park](assets/MapPhotos/BWD-Park.jpg)
+
+**Sentinals**
+![Sentinals](assets/MapPhotos/BWD-Sentinals.jpg)
+
+**Town**
+![Town](assets/MapPhotos/BWD-Town.jpg)
+
+**Trinoma**
+![Trinoma](assets/MapPhotos/BWD-Trinoma.jpg)
+
 ## Conquests
 **Dystopia**
 ![Dystopia](assets/MapPhotos/CQ-Dystopia.jpg)
