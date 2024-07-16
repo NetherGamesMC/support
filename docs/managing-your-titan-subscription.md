@@ -1,4 +1,4 @@
-# Managing Your Titan Rank
+# Managing Your Titan Subscription
 
 The following article provides instructions for cancelling or transferring your Titan rank.
 
