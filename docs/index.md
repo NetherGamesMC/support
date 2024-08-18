@@ -120,8 +120,8 @@ hero:
       text: Submitting Feedback
       link: /submitting-feedback
     - theme: alt
-      text: Syncing Ranks & Tiers to Discord
-      link: /syncing-ranks-and-tiers-to-discord
+      text: Linking Your NetherGames & Discord Account
+      link: /linking-your-nethergames-and-discord-account
     - theme: alt
       text: This Username Is Already Registered
       link: /this-username-is-already-registered
