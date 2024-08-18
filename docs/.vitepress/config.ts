@@ -93,7 +93,7 @@ export default {
             { text: 'Security Bug Bounty', link: '/security-bug-bounty' },
             { text: 'API Documentation & Usage', link: '/api-documentation-and-usage' },
             { text: 'Localised Pricing', link: '/localised-pricing' },
-            { text: 'Sending & Receiving Gifts', link: '/sending-and-receiving-gifts' }
+            { text: 'Sending & Receiving Gifts', link: '/sending-and-receiving-gifts' },
             { text: 'Payment Options in India', link: '/payment-options-in-india' }
         ]
         },
