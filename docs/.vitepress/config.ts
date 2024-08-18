@@ -71,9 +71,7 @@ export default {
         items: [
             { text: 'This Username Is Already Registered', link: '/this-username-is-already-registered' },
             { text: 'Troubleshooting Connection Issues', link: '/troubleshooting-connection-issues' },
-            { text: 'Unable to Change My \"About Me\"', link: '/unable-to-change-my-about-me' },
-            { text: 'Server Regions', link: '/server-regions' },
-            { text: 'Payment Options in India', link: '/payments-options-in-india' }
+            { text: 'Unable to Change My \"About Me\"', link: '/unable-to-change-my-about-me' }
         ]
         },  
         {
