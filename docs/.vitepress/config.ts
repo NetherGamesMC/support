@@ -50,7 +50,7 @@ export default {
             { text: 'Reporting a Bug', link: '/reporting-a-bug' },
             { text: 'Reporting a Player', link: '/reporting-a-player' },
             { text: 'Submitting Feedback', link: '/submitting-feedback' },
-            { text: 'Syncing Ranks & Tiers to Discord', link: '/syncing-ranks-and-tiers-to-discord' },
+            { text: 'Linking Your NetherGames & Discord aAccount', link: '/linking-your-nethergames-and-discord-account' },
             { text: 'Titan Rank Questions', link: '/titan-perks-faq' },
             { text: 'Applying for a Refund', link: '/applying-for-a-refund' },
             { text: 'Managing Your Titan Subscription', link: '/managing-your-titan-subscription' }
