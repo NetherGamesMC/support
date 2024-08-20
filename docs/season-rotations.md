@@ -11,7 +11,7 @@ The following aspects of the network run on seasons.
 **Current season:** started August 6th 2024
 
 **Next season:** December 1st 2024
-* Free kits will be awarded to players around July 15th to celeberate the end of the season.
+* Free kits will be awarded to players around November 15th to celeberate the end of the season.
 
 ## Skyblock
 
