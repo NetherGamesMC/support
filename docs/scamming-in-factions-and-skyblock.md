@@ -12,3 +12,7 @@ Always purchase items from the Auction House **/ah** or Trading **/trade** to pr
 
 We will only punish for Teleport Trapping, where a player requests you teleport to their location in Factions or an island in Skyblock for trading or purchasing. After you teleport to them, they will kill you before or after you purchase or trade with them. You can report players for teleport trapping with evidence on our portal at [ngmc.co/request](https://ngmc.co/request).
 
+::: warning NOTE - SCAMMING WITH RANKS
+While scamming is allowed in Skyblock & Factions, any trading of IRL items such as ranks or real currencies for digital items is not allowed (even if a player just suggests to do so), this is punishable under the "IRL Money Trading" punishment, regardless of wether the transaction was a scam or not.
+:::
+
