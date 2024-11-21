@@ -19,7 +19,7 @@ The following aspects of the network run on seasons.
 
 **Current season:** started December 2nd 2023
 
-**Next season:** December 1st 2024
+**Next season:** Around the first week of December 2024 (final date will be confirmed soon)
 
 ## Credits & Tiers
 
