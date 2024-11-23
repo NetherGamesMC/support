@@ -15,13 +15,9 @@ If you meet these requirements, you can press the "Continue" button, which will 
 
 ### Filling out your application
 ![Trainee Form](assets/TraineeProcessArticle/Trainee_Form.jpg)
-When filling out your application, please provide as much detail as possible, and try not to include false information. We search for Trainees based on their skills, attitude, typing, grammar/spelling skills, ability to detect a cheater, activity on the network, and more. We understand that there are a lot of questions to get through, and some might be hard to answer. However, this is the best method to help. If you are struggling with a question or require additional assistance, then you can always send a DM to our ModMail bot, where staff will provide tips, but not the answers to scenarios. 
+When filling out your application, please provide as much detail as possible, and try not to include false information. We search for Trainees based on their skills, attitude, typing, grammar/spelling skills, ability to detect a cheater, activity on the network, and more.
 
-::: info PLEASE NOTE
-Staff cannot provide the exact answer to the Trainee scenario questions. 
-:::
-
-Once you have finished filling out your Trainee application form, press the "Submit" button to send your application to our review department. Below we have also provided a chart on how our team reviews Trainee applications, as well as the application process in further detail. If you do not receive a response to your application after 7-10 days, please reach out to a member of our team by DMing our ModMail bot on Discord.
+Once you have finished filling out your Trainee application form, press the "Submit" button to send your application to our review department. Below we have also provided a chart on how our team reviews Trainee applications, as well as the application process in further detail. If you do not receive a response to your application after 7-10 days, please reach out to a member of our team via #support on our Discord.
 ![Application_Process_Trainee](assets/TraineeProcessArticle/Application_Process_Trainee.jpg)
 
 ## The Review Stage
