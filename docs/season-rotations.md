@@ -6,20 +6,20 @@ The following aspects of the network run on seasons.
 
 ## Factions
 
-**Season cycle:** every 4 months
+**Season cycle:** approximately every 4 months
 
-**Current season:** started August 6th 2024
+**Current season:** started December 2nd 2024
 
-**Next season:** December 1st 2024
-* Free kits will be awarded to players around November 15th to celeberate the end of the season.
+**Next season:** March 1st 2024
+* Free kits will be awarded to players around February 15th to celeberate the end of the season.
 
 ## Skyblock
 
-**Season cycle:** every 12 months
+**Season cycle:** approximately every 12 months
 
 **Current season:** started December 2nd 2023
 
-**Next season:** Around the first week of December 2024 (final date will be confirmed soon)
+**Next season:** To be announced
 
 ## Credits & Tiers
 
