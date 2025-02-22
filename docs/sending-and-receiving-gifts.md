@@ -3,7 +3,7 @@
 With the NetherGames store, you can purchase gifts to send to other players as well as open gifts given to you by other players. In this article, you can learn how to purchase a gift, redeem a gift, and the rules regarding sending gifts to other players.
 
 ## Rules regarding gifts
-Gifts come in two forms, USD gifts & geo-locked gifts. We have heavily reduced the prices of items for players in certain countries in order to make these items more affordable, you can see the specific prices [here](https://support.nethergames.org/localised-pricing). As a result, if you choose to purchase a geo-locked gift in the reduced price, you can only send the gift to select countries. These are as follows:
+Gifts come in two forms, USD gifts & geo-locked gifts. We have heavily reduced the prices of items for players in certain countries in order to make these items more affordable. As a result, if you choose to purchase a geo-locked gift in the reduced price, you can only send the gift to select countries. These are as follows:
 
 * Gifts bought priced in currencies **USD, AUD, CAD, EUR & GBP** can be opened by players in any country.
 * Gifts bought priced in currencies **PLN, BRL & MXN** can only be opened by players in Poland, Brazil, Mexico, India, Bangladesh, Indonesia, Sri Lanka, Malaysia, Pakistan & Turkey.
