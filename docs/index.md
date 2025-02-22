@@ -150,9 +150,6 @@ hero:
       text: Factions Crate Keys
       link: /factions-crate-keys
     - theme: alt
-      text: Localised Pricing
-      link: /localised-pricing
-    - theme: alt
       text: Allocation of XP
       link: /allocation-of-xp
     - theme: alt
