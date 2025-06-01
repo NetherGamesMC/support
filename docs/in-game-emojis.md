@@ -8,24 +8,41 @@ You will NOT be able to see emojis unless you download our NG resource packs. Si
 
 Below are a list of available emojis you can use:
 
-* 🤣 – :​rofl:
-* 😍 – :​heart_eyes:
-* 😳 – :​flushed:
-* 😊 – :​blush:
-* 😅 – :​sweat_smile:
-* 😀 – :​smile:
-* 🙂 – :​slight_smile:
-* 😏 – :​smirk:
-* 😐 – :​unamused:
-* 🤔 – :​thinking:
-* 😡 – :​rage:
-* 😨 – :​scared:
-* ☹️ – :​sad:
-* 😭 – :​crying:
-* 😎 – :​cool:
-* 😛 – :​tongue_out:
-* 😂 – :​joy:
+* 😍 – :heart_eyes:
+* 😳 – :flushed:
+* 🙂 – :slight_smile:
+* 😅 – :sweat_smile:
+* 😊 – :blush:
+* 😀 – :grin:
+* 😏 – :smirk:
+* 😡 – :rage:
+* 🤔 – :thinking:
+* 😂 – :joy:
+* 🤣 – :rofl:
+* 👿 – :smiling_imp:
+* 🥴 – :dizzy:
+* 😇 – :innocent:
+* 😐 – :neutral:
+* 😵 – :dead:
+* 🤓 – :nerd:
+* ❤️‍🩹 – :mending_heart:
+* ✉️ – :envelope:
+* 😨 – :scared:
+* 😟 – :sad:
+* 😭 – :crying:
+* 😎 – :cool:
+* 😝 – :tongue_out:
+* 👀 – :eyes:
+* 🙃 – :upside_down:
+* 💀 – :skull:
+* 🤮 – :vomit:
+* GG – :gg:
+* W – :w:
 
 ::: tip DID YOU KNOW?
 Some emojis support common abbreviations, such as `:)`, `<3`, `:p`, `>:(` or `:(`
+:::
+
+::: tip IN-GAME EMOJI MENU
+The `/emoji` command can be used in-game to view the emoji help menu.
 :::
