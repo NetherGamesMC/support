@@ -2,6 +2,7 @@
 
 The Partner Program is a select-entry partnership for popular content creators and teams. Partnership offers by the network are made on a case-by-case basis. There are 'no concrete' requirements to apply for our Partner Program. This doesn't mean there are no requirements. Your application will be reviewed with the following taken into consideration...
 
+* Must have YouTube Rank.
 * Subscriber/Following count.
 * NetherGames activity and previous punishments.
 * View count on all videos within your channel.
