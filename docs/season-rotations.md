@@ -25,9 +25,9 @@ The following aspects of the network run on seasons.
 
 **Season cycle:** every 12 months
 
-**Current season:** started July 1st 2024
+**Current season:** started July 1st 2025
 
-**Next season:** July 1st 2025
+**Next season:** July 1st 2026
 
 Find out more about our credits and tier system [here](https://ngmc.co/tiers).
 
