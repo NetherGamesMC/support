@@ -17,6 +17,7 @@ Below are a list of available emojis you can use:
 * 😏 – `:smirk:`
 * 😡 – `:rage:`
 * 🤔 – `:thinking:`
+* 👍 – `:thumbs_up:`
 * 😂 – `:joy:`
 * 🤣 – `:rofl:`
 * 👿 – `:smiling_imp:`
