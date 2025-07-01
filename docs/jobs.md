@@ -88,15 +88,11 @@ While we will provide you with the adequate training necessary to take on this v
 
 ### Support Representative
 
-::: warning PLEASE NOTE
-You must be a former or current NetherGames staff member to apply for this position.
-:::
-
 Support Representative is our dedicated player support staff position.
 
 Successful applicants will assist our Player Support Department in helping players who encounter issues, have enquiries about our network, or require assistance in general procedures... Including all official platforms such as our Discord server, in-game, and our ModMail Support system.
 
-We expect applicants to be active and committed. Applicants are also required to either be former or current NetherGames staff members.
+We expect applicants to be active and committed.
 
 While we will provide you with the adequate training necessary to take on this volunteer role, you are responsible for the physical equipment you will use to complete the tasks we ask of you while in this position.
 
