@@ -28,375 +28,355 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 
 ## Bedwars
 ### Solo/Duos
-**Giants** - Summer skin
-![Giants](assets/MapPhotos/S-BW8-Giants.jpg)
+**Atlantis**
+![Atlantis](https://cdn.nethergames.org/img/maps/BW8-Atlantis.jpg)
 
-**Royal** - Summer skin
-![Royal](assets/MapPhotos/S-BW8-Royal.jpg)
+**Candyland**
+![Candyland](https://cdn.nethergames.org/img/maps/BW8-Candyland.jpg)
 
 **Castaway**
-![Castaway](assets/MapPhotos/BW8-Castaway.jpg)
+![Castaway](https://cdn.nethergames.org/img/maps/BW8-Castaway.jpg)
+
+**Celestial**
+![Celestial](https://cdn.nethergames.org/img/maps/BW8-Celestial.jpg)
 
 **Cloud**
-![Cloud](assets/MapPhotos/BW8-Cloud.jpg)
-
-**Dynasty**
-![Dynasty](assets/MapPhotos/BW8-Dynasty.jpg)
+![Cloud](https://cdn.nethergames.org/img/maps/BW8-Cloud.jpg)
 
 **Exodus**
-![Exodus](assets/MapPhotos/BW8-Exodus.jpg)
-
-**Fallen**
-![Fallen](assets/MapPhotos/BW8-Fallen.jpg)
+![Exodus](https://cdn.nethergames.org/img/maps/BW8-Exodus.jpg)
 
 **Fastfood**
-![Fastfood](assets/MapPhotos/BW8-Fastfood.jpg)
+![Fastfood](https://cdn.nethergames.org/img/maps/BW8-Fastfood.jpg)
 
-**Library**
+**Geometry**
+![Geometry](https://cdn.nethergames.org/img/maps/BW8-Geometry.jpg)
 
-Image unavailable.
+**Giants** - Summer skin
+![Giants](https://cdn.nethergames.org/img/maps/S-BW8-Giants.jpg)
 
 **Lighthouse**
-![Lighthouse](assets/MapPhotos/BW8-Lighthouse.jpg)
+![Lighthouse](https://cdn.nethergames.org/img/maps/BW8-Lighthouse.jpg)
 
-**Mushrooms**
-![Mushrooms](assets/MapPhotos/BW8-Mushrooms.jpg)
+**Mercuria**
+![Mercuria](https://cdn.nethergames.org/img/maps/BW8-Mercuria.jpg)
+
+**Nest**
+![Nest](https://cdn.nethergames.org/img/maps/BW8-Nest.jpg)
 
 **Pyramid**
-![Pyramid](assets/MapPhotos/BW8-Pyramid.jpg)
+![Pyramid](https://cdn.nethergames.org/img/maps/BW8-Pyramid.jpg)
 
-**Roots**
-![Roots](assets/MapPhotos/BW8-Roots.jpg)
+**Royal**
+![Royal](https://cdn.nethergames.org/img/maps/S-BW8-Royal.jpg)
 
 **Sandy**
-![Sandy](assets/MapPhotos/BW8-Sandy.jpg)
+![Sandy](https://cdn.nethergames.org/img/maps/BW8-Sandy.jpg)
 
 **Steampunk**
-![Steampunk](assets/MapPhotos/BW8-Steampunk.jpg)
+![Steampunk](https://cdn.nethergames.org/img/maps/BW8-Steampunk.jpg)
 
-**Venice**
-![Venice](assets/MapPhotos/BW8-Venice.jpg)
+**Undying**
+![Undying](https://cdn.nethergames.org/img/maps/BW8-Undying.jpg)
+
+**Unearthed**
+![Unearthed](https://cdn.nethergames.org/img/maps/BW8-Unearthed.jpg)
+
+**Utopia**
+![Utopia](https://cdn.nethergames.org/img/maps/BW8-Utopia.jpg)
 
 **Wilderness**
-![Wilderness](assets/MapPhotos/BW8-Wilderness.jpg)
+![Wilderness](https://cdn.nethergames.org/img/maps/BW8-Wilderness.jpg)
 
 ### Squads
-**Angelo** - NEW
-![Angelo](assets/MapPhotos/BW4-Angelo.jpg)
+**Angelo**
+![Angelo](https://cdn.nethergames.org/img/maps/BW4-Angelo.jpg)
 
-**Borough** - NEW
-![Borough](assets/MapPhotos/BW4-Borough.jpg)
+**Castaway**
+![Castaway](https://cdn.nethergames.org/img/maps/BW4-Castaway.jpg)
 
-**Gears** - NEW
-![Gears](assets/MapPhotos/BW4-Gears.jpg)
-
-**Pagoda** - NEW
-![Pagoda](assets/MapPhotos/BW4-Pagoda.jpg)
-
-**Santo** - NEW
-![Santo](assets/MapPhotos/BW4-Santo.jpg)
-
-**Temple** - NEW
-
-Image unavailable.
+**Elementar**
+![Elementar](https://cdn.nethergames.org/img/maps/BW4-Elementar.jpg)
 
 **Fastfood**
-![Fastfood](assets/MapPhotos/BW4-Fastfood.jpg)
-
-**Forsaken**
-![Forsaken](assets/MapPhotos/BW4-Forsaken.jpg)
+![Fastfood](https://cdn.nethergames.org/img/maps/BW4-Fastfood.jpg)
 
 **Fungal**
-![Fungal](assets/MapPhotos/BW4-Fungal.jpg)
+![Fungal](https://cdn.nethergames.org/img/maps/BW4-Fungal.jpg)
 
 **Giants**
-![Giants](assets/MapPhotos/BW4-Giants.jpg)
+![Giants](https://cdn.nethergames.org/img/maps/BW4-Giants.jpg)
+
+**Harmony**
+![Harmony](https://cdn.nethergames.org/img/maps/BW4-Harmony.jpg)
+
+**Hive**
+![Hive](https://cdn.nethergames.org/img/maps/BW4-Hive.jpg)
+
+**Jurassic World**
+![Jurassic World](https://cdn.nethergames.org/img/maps/BW4-Jurassic_World.jpg)
+
+**Library**
+![Library](https://cdn.nethergames.org/img/maps/BW4-Library.jpg)
 
 **Olympus**
-![Olympus](assets/MapPhotos/BW4-Olympus.jpg)
+![Olympus](https://cdn.nethergames.org/img/maps/BW4-Olympus.jpg)
+
+**Pagoda**
+![Pagoda](https://cdn.nethergames.org/img/maps/BW4-Pagoda.jpg)
 
 **Radioactive**
-![Radioactive](assets/MapPhotos/BW4-Radioactive.jpg)
+![Radioactive](https://cdn.nethergames.org/img/maps/BW4-Radioactive.jpg)
 
 **Sandy**
-![Sandy](assets/MapPhotos/BW4-Sandy.jpg)
+![Sandy](https://cdn.nethergames.org/img/maps/BW4-Sandy.jpg)
 
+**Temple**
+![Temple](https://cdn.nethergames.org/img/maps/BW4-Temple.jpg)
 ### BW Duels
 **Book**
-![Book](assets/MapPhotos/BWD-Book.jpg)
-
-**Casa**
-![Casa](assets/MapPhotos/BWD-Casa.jpg)
+![Book](https://cdn.nethergames.org/img/maps/BWD-Book.jpg)
 
 **Cytree**
-![Cytree](assets/MapPhotos/BWD-Cytree.jpg)
+![Cytree](https://cdn.nethergames.org/img/maps/BWD-Cytree.jpg)
 
 **Ghetto**
-![Ghetto](assets/MapPhotos/BWD-Ghetto.jpg)
+![Ghetto](https://cdn.nethergames.org/img/maps/BWD-Ghetto.jpg)
 
 **Ionia**
-![Ionia](assets/MapPhotos/BWD-Ionia.jpg)
-
-**Park**
-![Park](assets/MapPhotos/BWD-Park.jpg)
-
-**Sentinels**
-![Sentinels](assets/MapPhotos/BWD-Sentinels.jpg)
-
-**Town**
-![Town](assets/MapPhotos/BWD-Town.jpg)
+![Ionia](https://cdn.nethergames.org/img/maps/BWD-Ionia.jpg)
 
 **Trinoma**
-![Trinoma](assets/MapPhotos/BWD-Trinoma.jpg)
+![Trinoma](https://cdn.nethergames.org/img/maps/BWD-Trinoma.jpg)
 
 ## Conquests
-**Dystopia**
-![Dystopia](assets/MapPhotos/CQ-Dystopia.jpg)
+**Antiques**
+![Antiques](https://cdn.nethergames.org/img/maps/CQ-Antiques.jpg)
 
-**Markets**
-![Markets](assets/MapPhotos/CQ-Markets.jpg)
-
-**Mythical**
-![Mythical](assets/MapPhotos/CQ-Mythical.jpg)
-
-**Sacred**
-![Sacred](assets/MapPhotos/CQ-Sacred.jpg)
+**Fort**
+![Fort](https://cdn.nethergames.org/img/maps/CQ-Fort.jpg)
 
 **Snapdragons**
-![Snapdragons](assets/MapPhotos/CQ-Snapdragons.jpg)
+![Snapdragons](https://cdn.nethergames.org/img/maps/CQ-Snapdragons.jpg)
 
 **Toluca**
-![Toluca](assets/MapPhotos/CQ-Toluca.jpg)
+![Toluca](https://cdn.nethergames.org/img/maps/CQ-Toluca.jpg)
 
-**Woodlands**
-![Woodlands](assets/MapPhotos/CQ-Woodlands.jpg)
+**Warfare**
+![Warfare](https://cdn.nethergames.org/img/maps/CQ-Warfare.jpg)
 
 ## Murder Mystery
-**Stadium** - NEW
-![Stadium](assets/MapPhotos/MM-Stadium.jpg)
+**Academy**
+![Academy](https://cdn.nethergames.org/img/maps/MM-Academy.jpg)
 
 **Arid**
-![Arid](assets/MapPhotos/MM-Arid.jpg)
+![Arid](https://cdn.nethergames.org/img/maps/MM-Arid.jpg)
 
-**Embarkation**
-![Embarkation](assets/MapPhotos/MM-Embarkation.jpg)
+**Asylum**
+![Asylum](https://cdn.nethergames.org/img/maps/MM-Asylum.jpg)
 
 **Haven**
-![Haven](assets/MapPhotos/MM-Haven.jpg)
+![Haven](https://cdn.nethergames.org/img/maps/MM-Haven.jpg)
+
+**Mall**
+![Mall](https://cdn.nethergames.org/img/maps/MM-Mall.jpg)
 
 **Muscaria**
-![Muscaria](assets/MapPhotos/MM-Muscaria.jpg)
+![Muscaria](https://cdn.nethergames.org/img/maps/MM-Muscaria.jpg)
 
 **Rome**
-![Rome](assets/MapPhotos/MM-Rome.jpg)
+![Rome](https://cdn.nethergames.org/img/maps/MM-Rome.jpg)
 
-**Victorian Residence**
-![Victorian Residence](assets/MapPhotos/MM-Victorian_Residence.jpg)
+**Sakura**
+![Sakura](https://cdn.nethergames.org/img/maps/MM-Sakura.jpg)
+
+**Stadium**
+![Stadium](https://cdn.nethergames.org/img/maps/MM-Stadium.jpg)
+
+**Watermill**
+![Watermill](https://cdn.nethergames.org/img/maps/MM-Watermill.jpg)
 
 ## Skywars
 ### Regular
-**Acid**
-![Acid](assets/MapPhotos/SW-Acid.jpg)
+**Aether**
+![Aether](https://cdn.nethergames.org/img/maps/SW-Aether.jpg)
 
 **Amazon**
-![Amazon](assets/MapPhotos/SW-Amazon.jpg)
+![Amazon](https://cdn.nethergames.org/img/maps/SW-Amazon.jpg)
 
-**Ancient**
-![Ancient](assets/MapPhotos/SW-Ancient.jpg)
+**Biophilic**
+![Biophilic](https://cdn.nethergames.org/img/maps/SW-Biophilic.jpg)
 
-**Atomic**
-![Atomic](assets/MapPhotos/SW-Atomic.jpg)
+**Blizzard**
+![Blizzard](https://cdn.nethergames.org/img/maps/SW-Blizzard.jpg)
 
-**Bliss**
-![Bliss](assets/MapPhotos/SW-Bliss.jpg)
+**Bonsai**
+![Bonsai](https://cdn.nethergames.org/img/maps/SW-Bonsai.jpg)
 
-**Cliffs**
-![Cliffs](assets/MapPhotos/SW-Cliffs.jpg)
+**Clockwork**
+![Clockwork](https://cdn.nethergames.org/img/maps/SW-Clockwork.jpg)
 
-**Decked**
-![Decked](assets/MapPhotos/SW-Decked.jpg)
+**Construction**
+![Construction](https://cdn.nethergames.org/img/maps/SW-Construction.jpg)
 
-**Desert**
-![Desert](assets/MapPhotos/SW-Desert.jpg)
-
-**District**
-![District](assets/MapPhotos/SW-District.jpg)
+**Doughnut**
+![Doughnut](https://cdn.nethergames.org/img/maps/SW-Doughnut.jpg)
 
 **Elowen**
-![Elowen](assets/MapPhotos/SW-Elowen.jpg)
+![Elowen](https://cdn.nethergames.org/img/maps/SW-Elowen.jpg)
 
-**Farmhouse**
-![Farmhouse](assets/MapPhotos/SW-Farmhouse.jpg)
+**Grizzly**
+![Grizzly](https://cdn.nethergames.org/img/maps/SW-Grizzly.jpg)
 
-**Fiery**
-![Fiery](assets/MapPhotos/SW-Fiery.jpg)
+**Jura**
+![Jura](https://cdn.nethergames.org/img/maps/SW-Jura.jpg)
 
-**Hades**
-![Hades](assets/MapPhotos/SW-Hades.jpg)
+**Lighthouse**
+![Lighthouse](https://cdn.nethergames.org/img/maps/SW-Lighthouse.jpg)
 
-**Icetown**
-![Icetown](assets/MapPhotos/SW-Icetown.jpg)
-
-**Ingress**
-![Ingress](assets/MapPhotos/SW-Ingress.jpg)
+**Mechanic**
+![Mechanic](https://cdn.nethergames.org/img/maps/SW-Mechanic.jpg)
 
 **Mines**
-![Mines](assets/MapPhotos/SW-Mines.jpg)
+![Mines](https://cdn.nethergames.org/img/maps/SW-Mines.jpg)
 
 **Nostalgia**
-![Nostalgia](assets/MapPhotos/SW-Nostalgia.jpg)
+![Nostalgia](https://cdn.nethergames.org/img/maps/SW-Nostalgia.jpg)
 
-**Petals**
-![Petals](assets/MapPhotos/SW-Petals.jpg)
+**Pollution**
+![Pollution](https://cdn.nethergames.org/img/maps/SW-Pollution.jpg)
 
 **Portal**
-![Portal](assets/MapPhotos/SW-Portal.jpg)
-
-**Reflection**
-![Reflection](assets/MapPhotos/SW-Reflection.jpg)
-
-**Rosewood**
-![Rosewood](assets/MapPhotos/SW-Rosewood.jpg)
-
-**Saga**
-![Saga](assets/MapPhotos/SW-Saga.jpg)
+![Portal](https://cdn.nethergames.org/img/maps/SW-Portal.jpg)
 
 **Seafloor**
-![Seafloor](assets/MapPhotos/SW-Seafloor.jpg)
+![Seafloor](https://cdn.nethergames.org/img/maps/SW-Seafloor.jpg)
 
-**Sentiment**
-![Sentiment](assets/MapPhotos/SW-Sentiment.jpg)
+**Sprouts**
+![Sprouts](https://cdn.nethergames.org/img/maps/SW-Sprouts.jpg)
+
+**Stellar**
+![Stellar](https://cdn.nethergames.org/img/maps/SW-Stellar.jpg)
 
 **Summer**
-![Summer](assets/MapPhotos/SW-Summer.jpg)
+![Summer](https://cdn.nethergames.org/img/maps/S-SW-Summer.jpg)
 
-**Summit**
-![Summit](assets/MapPhotos/SW-Summit.jpg)
-
-**Sweets**
-![Sweets](assets/MapPhotos/SW-Sweets.jpg)
-
-**Tangled**
-![Tangled](assets/MapPhotos/SW-Tangled.jpg)
-
-**Town**
-![Town](assets/MapPhotos/SW-Town.jpg)
+**Swale**
+![Swale](https://cdn.nethergames.org/img/maps/SW-Swale.jpg)
 
 **Toys**
-![Toys](assets/MapPhotos/SW-Toys.jpg)
+![Toys](https://cdn.nethergames.org/img/maps/SW-Toys.jpg)
 
-**Tropical**
-![Tropical](assets/MapPhotos/SW-Tropical.jpg)
+**Tribal**
+![Tribal](https://cdn.nethergames.org/img/maps/SW-Tribal.jpg)
 
-**Vandals**
-![Waterfall](assets/MapPhotos/SW-Vandals.jpg)
-
-**Waterfall**
-![Waterfall](assets/MapPhotos/SW-Waterfall.jpg)
+**Western**
+![Western](https://cdn.nethergames.org/img/maps/SW-Western.jpg)
 
 ### SW Duels
+**Crouse**
+![Crouse](https://cdn.nethergames.org/img/maps/SWD-Crouse.jpg)
+
 **Cypher**
-![Cypher](assets/MapPhotos/SWD-Cypher.jpg)
+![Cypher](https://cdn.nethergames.org/img/maps/SWD-Cypher.jpg)
 
-**Glacier**
-![Glacier](assets/MapPhotos/SWD-Glacier.jpg)
+**Forest**
+![Forest](https://cdn.nethergames.org/img/maps/SWD-Forest.jpg)
 
-**Narra**
-![Narra](assets/MapPhotos/SWD-Narra.jpg)
+**Ice**
+![Ice](https://cdn.nethergames.org/img/maps/SWD-Ice.jpg)
+
+**Redwood**
+![Redwood](https://cdn.nethergames.org/img/maps/SWD-Redwood.jpg)
 
 **Scaffolds**
-![Scaffolds](assets/MapPhotos/SWD-Scaffolds.jpg)
+![Scaffolds](https://cdn.nethergames.org/img/maps/SWD-Scaffolds.jpg)
+
+**Shafts**
+![Shafts](https://cdn.nethergames.org/img/maps/SWD-Shafts.jpg)
+
+**Skybridge**
+![Skybridge](https://cdn.nethergames.org/img/maps/SWD-Skybridge.jpg)
 
 **Solar**
-![Solar](assets/MapPhotos/SWD-Solar.jpg).
+![Solar](https://cdn.nethergames.org/img/maps/SWD-Solar.jpg)
+
+**Sportly**
+![Sportly](https://cdn.nethergames.org/img/maps/SWD-Sportly.jpg)
 
 ## The Bridge
-**Aegean**
-![Aegean](assets/MapPhotos/TB-Aegean.jpg)
-
 **Balance**
-![Balance](assets/MapPhotos/TB-Balance.jpg)
+![Balance](https://cdn.nethergames.org/img/maps/TB-Balance.jpg)
 
 **Blox**
-![Blox](assets/MapPhotos/TB-Blox.jpg)
+![Blox](https://cdn.nethergames.org/img/maps/TB-Blox.jpg)
 
-**Castle**
-![Castle](assets/MapPhotos/S-TB-Castle.jpg)
+**Castle** - Summer skin
+![Castle](https://cdn.nethergames.org/img/maps/S-TB-Castle.jpg)
 
 **Coast**
-![Coast](assets/MapPhotos/TB-Coast.jpg)
-
-**Crossbones**
-![Crossbones](assets/MapPhotos/TB-Crossbones.jpg)
+![Coast](https://cdn.nethergames.org/img/maps/TB-Coast.jpg)
 
 **Desert**
-![Desert](assets/MapPhotos/TB-Desert.jpg)
+![Desert](https://cdn.nethergames.org/img/maps/TB-Desert.jpg)
 
 **Natural**
-![Natural](assets/MapPhotos/TB-Natural.jpg)
+![Natural](https://cdn.nethergames.org/img/maps/TB-Natural.jpg)
 
-**Overgrown**
-![Overgrown](assets/MapPhotos/TB-Overgrown.jpg)
+**Pianotic**
+![Pianotic](https://cdn.nethergames.org/img/maps/TB-Pianotic.jpg)
 
 **Pirates**
-![Pirates](assets/MapPhotos/TB-Pirates.jpg)
+![Pirates](https://cdn.nethergames.org/img/maps/TB-Pirates.jpg)
 
 **Shuttle**
-![Shuttle](assets/MapPhotos/TB-Shuttle.jpg)
-
-**Solice**
-![Solice](assets/MapPhotos/TB-Solice.jpg)
-
-**Tabernacle**
-![Tabernacle](assets/MapPhotos/TB-Tabernacle.jpg)
-
-**Venables**
-![Venables](assets/MapPhotos/TB-Venables.jpg)
+![Shuttle](https://cdn.nethergames.org/img/maps/TB-Shuttle.jpg)
 
 **Wooded**
-![Wooded](assets/MapPhotos/TB-Wooded.jpg)
+![Wooded](https://cdn.nethergames.org/img/maps/TB-Wooded.jpg)
 
 ## Duels
-**Ancient**
-![Ancient](assets/MapPhotos/DLS-Ancient.jpg)
-
 **Blue Castle**
-![Blue Castle](assets/MapPhotos/DLS-Blue_Castle.jpg)
+![Blue Castle](https://cdn.nethergames.org/img/maps/DLS-Blue_Castle.jpg)
 
-**Bridge**
-
-Image unavailable.
+**Familiar**
+![Familiar](https://cdn.nethergames.org/img/maps/DLS-Familiar.jpg)
 
 **Garden**
-![Garden](assets/MapPhotos/DLS-Garden.jpg)
+![Garden](https://cdn.nethergames.org/img/maps/DLS-Garden.jpg)
 
 **Hell**
-![Hell](assets/MapPhotos/DLS-Hell.jpg)
+![Hell](https://cdn.nethergames.org/img/maps/DLS-Hell.jpg)
 
 **Houses**
-![Houses](assets/MapPhotos/DLS-Houses.jpg)
+![Houses](https://cdn.nethergames.org/img/maps/DLS-Houses.jpg)
 
-**Mansion**
-![Mansion](assets/MapPhotos/DLS-Mansion.jpg)
+**Mindgames**
+![Mindgames](https://cdn.nethergames.org/img/maps/DLS-Mindgames.jpg)
 
-**Meadow**
-![Meadow](assets/MapPhotos/DLS-Meadow.jpg)
+**Nature**
+![Nature](https://cdn.nethergames.org/img/maps/DLS-Nature.jpg)
+
+**Oriental**
+![Oriental](https://cdn.nethergames.org/img/maps/DLS-Oriental.jpg)
+
+**Paradise**
+![Paradise](https://cdn.nethergames.org/img/maps/DLS-Paradise.jpg)
+
+**Reef**
+![Reef](https://cdn.nethergames.org/img/maps/DLS-Reef.jpg)
 
 **Sohei**
-![Sohei](assets/MapPhotos/DLS-Sohei.jpg)
-
-**Spaceport**
-![Spaceport](assets/MapPhotos/DLS-Spaceport.jpg)
-
-**Sumo Ring**
-
-Image unavailable.
+![Sohei](https://cdn.nethergames.org/img/maps/DLS-Sohei.jpg)
 
 **Temple**
-![Temple](assets/MapPhotos/DLS-Temple.jpg)
+![Temple](https://cdn.nethergames.org/img/maps/DLS-Temple.jpg)
 
-**Yard**
-![Yard](assets/MapPhotos/DLS-Yard.jpg)
+**White**
+![White](https://cdn.nethergames.org/img/maps/DLS-White.jpg)
 
 **Yinyang**
-![Yinyang](assets/MapPhotos/DLS-Yinyang.jpg)
+![Yinyang](https://cdn.nethergames.org/img/maps/DLS-Yinyang.jpg)
+
+**Ring**
+![Ring](https://cdn.nethergames.org/img/maps/DLS-Sumo-Ring.jpg)
