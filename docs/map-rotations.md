@@ -98,23 +98,20 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Elementar**
 ![Elementar](https://cdn.nethergames.org/img/maps/BW4-Elementar.jpg)
 
+**Elysinia**
+![Elysinia](https://cdn.nethergames.org/img/maps/BW4-Elysinia.jpg)
+
 **Fastfood**
 ![Fastfood](https://cdn.nethergames.org/img/maps/BW4-Fastfood.jpg)
 
 **Fungal**
 ![Fungal](https://cdn.nethergames.org/img/maps/BW4-Fungal.jpg)
 
-**Giants**
-![Giants](https://cdn.nethergames.org/img/maps/BW4-Giants.jpg)
-
 **Harmony**
 ![Harmony](https://cdn.nethergames.org/img/maps/BW4-Harmony.jpg)
 
 **Hive**
 ![Hive](https://cdn.nethergames.org/img/maps/BW4-Hive.jpg)
-
-**Jurassic World**
-![Jurassic World](https://cdn.nethergames.org/img/maps/BW4-Jurassic_World.jpg)
 
 **Library**
 ![Library](https://cdn.nethergames.org/img/maps/BW4-Library.jpg)
