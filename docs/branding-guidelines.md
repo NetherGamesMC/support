@@ -34,6 +34,3 @@ For example, you may not place the NetherGames logo at the bottom of your signup
 
 **You may not use the NetherGames brand assets in any misleading or unlawful setting**
 For example, you may not use the NetherGames logo on a publication that promotes gambling, explicit content, the sale of alcohol or tobacco, or any material that violates the law
-
-**You must include attribution when using NetherGames brand assets**
-For example, if you are using the NetherGames logo in your video, have a copyright notice (i.e., "The lava-drip and NETHERGAMES logo designs are the property of the NetherGames Network and used with permission")
