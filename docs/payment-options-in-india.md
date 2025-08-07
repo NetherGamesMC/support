@@ -6,4 +6,4 @@ When making a payment on our website, you may receive an error message such as "
 
 If contacting your bank does not work, at this stage, there is no other alternative to buy items on our store at this stage.
 
-Note that NetherGames does not support UPI at this stage but we have plans to support it early 2025.
+Note that NetherGames does not support UPI at this stage but we have plans to support it early 2026.
