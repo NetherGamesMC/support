@@ -98,13 +98,15 @@ While we will provide you with the adequate training necessary to take on this v
 
 [Click here to apply](https://ngmc.co/request)
 
-
 ### Game Designer
 
-Game Designer is a volunteer staff position requiring applicants to use their experience with our server to improve our content delivered to players.
+As a Game Designer on our team, you'll be a volunteer staff member responsible for improving our game modes and content. This role is a great fit for players who are passionate about NetherGames and have a strong understanding of our server.
 
-We expect applicants to be active, committed, creative, and have a good level of experience with our server.
+Your main responsibilities will include:
+* Designing and reviewing existing and new game modes.
+* Analyzing community feedback to understand what players want and need.
 
+We're expecting applicants who are active, creative, and committed to helping us deliver the best possible experience to our players.
 [Click here to apply](https://ngmc.co/request)
 
 ## Current Paid Positions
