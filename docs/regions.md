@@ -10,7 +10,7 @@ At NetherGames, we pride ourselves on different regions for our players to play 
 
 1.  Open Minecraft.
 2.  Go to the "Servers" tab and create a new server.
-3.  Enter the IP address for your desired region from the list below.
+3.  Enter `play.nethergames.org` into the Server Address field, or choose a regional IP from the list below.
 4.  (Optional) Give the server a name, like "NetherGames US."
 5.  Hit "Play" to connect.
 
