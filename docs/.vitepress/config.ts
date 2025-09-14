@@ -130,7 +130,7 @@ export default {
             },
             {
                 text: 'Discord',
-                link: 'https://discord.gg/ng',
+                link: 'https://discord.gg/UFQfD6ThVF',
             },
             {
                 text: 'Contact Us',
