@@ -15,7 +15,8 @@ If you notice a player using any modifications not permitted below, please repor
 
 ## Resource Packs & Addons
 The below add-ons and resource packs are **NOT ALLOWED**:
-- Hitbox Display by Ambient.
+- Hitboxes that are transparent (you can see them through walls).
+- Hitbox Expand.
 - Utility HUD by Ambient.
 - Better Combat Mod (AimAssist).
 - Freecam
