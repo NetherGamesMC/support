@@ -15,7 +15,7 @@ If you notice a player using any modifications not permitted below, please repor
 
 ## Resource Packs & Addons
 The below add-ons and resource packs are **NOT ALLOWED**:
-- Hitboxes that are transparent (you can see them through walls).
+- Hitboxes that are visible through walls.
 - Hitbox Expand (expanding the hitbox of an entity, making it easier to hit).
 - Utility HUD by Ambient.
 - Better Combat Mod (AimAssist).
@@ -39,7 +39,7 @@ We do, however, **ALLOW** the full use of the resource packs and add-ons below:
 - Waypoints
 - Minimaps without players
 - Potion Effect Status
-- Hitboxes that are non-transparent 
+- Hitboxes that are not visible through walls
 
 ## Injection & APK Clients
 The following clients are **ALLOWED** on the network:
