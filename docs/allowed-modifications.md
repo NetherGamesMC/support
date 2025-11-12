@@ -35,11 +35,10 @@ We do, however, **ALLOW** the full use of the resource packs and add-ons below:
 - Freelook (different to Freecam)
 - Auto respawn
 - Custom Crosshairs
-- Health/Damage indicators (Does not include armour damage for other players)
+- Health/Damage indicators (does not include armour damage for other players)
 - Waypoints
 - Minimaps without players
 - Potion Effect Status
-- Hitboxes that are not visible through walls
 
 ## Injection & APK Clients
 The following clients are **ALLOWED** on the network:
