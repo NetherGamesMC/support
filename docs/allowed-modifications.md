@@ -44,6 +44,8 @@ We do, however, **ALLOW** the full use of the resource packs and add-ons below:
 The following clients are **ALLOWED** on the network:
 - Onix Client
 - Flarial Client
+- Atlas Client
+- OderSo Client
 - Meteor Client
 - Astral Client
 - Helix Client
