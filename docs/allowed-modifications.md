@@ -15,7 +15,8 @@ If you notice a player using any modifications not permitted below, please repor
 
 ## Resource Packs & Addons
 The below add-ons and resource packs are **NOT ALLOWED**:
-- Hitbox Display by Ambient.
+- Hitboxes that are visible through walls.
+- Hitbox Expand (expanding the hitbox of an entity, making it easier to hit).
 - Utility HUD by Ambient.
 - Better Combat Mod (AimAssist).
 - Freecam
@@ -34,7 +35,7 @@ We do, however, **ALLOW** the full use of the resource packs and add-ons below:
 - Freelook (different to Freecam)
 - Auto respawn
 - Custom Crosshairs
-- Health/Damage indicators (Does not include armour damage for other players)
+- Health/Damage indicators (does not include armour damage for other players)
 - Waypoints
 - Minimaps without players
 - Potion Effect Status
@@ -43,6 +44,8 @@ We do, however, **ALLOW** the full use of the resource packs and add-ons below:
 The following clients are **ALLOWED** on the network:
 - Onix Client
 - Flarial Client
+- Atlas Client
+- OderSo Client
 - Meteor Client
 - Astral Client
 - Helix Client
