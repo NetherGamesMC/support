@@ -31,9 +31,6 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Atlantis**
 ![Atlantis](https://cdn.nethergames.org/img/maps/BW8-Atlantis.jpg)
 
-**Candyland**
-![Candyland](https://cdn.nethergames.org/img/maps/BW8-Candyland.jpg)
-
 **Castaway**
 ![Castaway](https://cdn.nethergames.org/img/maps/BW8-Castaway.jpg)
 
