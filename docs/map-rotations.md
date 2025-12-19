@@ -246,6 +246,9 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Icetown - Winter skin**
 ![Icetown](https://cdn.nethergames.org/img/maps/C-SW-Icetown.jpg)
 
+**Ingress - Winter skin**
+![Ingress](https://cdn.nethergames.org/img/maps/C-SW-Ingress.jpg)
+
 **Jura**
 ![Jura](https://cdn.nethergames.org/img/maps/SW-Jura.jpg)
 
@@ -258,14 +261,14 @@ The map rotation is a system NetherGames has in place to keep maps fresh and dif
 **Mines**
 ![Mines](https://cdn.nethergames.org/img/maps/SW-Mines.jpg)
 
-**Nostalgia**
-![Nostalgia](https://cdn.nethergames.org/img/maps/SW-Nostalgia.jpg)
+**Nostalgia - Winter skin**
+![Nostalgia](https://cdn.nethergames.org/img/maps/C-SW-Nostalgia.jpg)
 
 **Pollution**
 ![Pollution](https://cdn.nethergames.org/img/maps/SW-Pollution.jpg)
 
-**Portal**
-![Portal](https://cdn.nethergames.org/img/maps/SW-Portal.jpg)
+**Portal - Winter skin**
+![Portal](https://cdn.nethergames.org/img/maps/C-SW-Portal.jpg)
 
 **Seafloor**
 ![Seafloor](https://cdn.nethergames.org/img/maps/SW-Seafloor.jpg)
