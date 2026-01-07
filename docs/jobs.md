@@ -125,7 +125,7 @@ We will not provide training or necessary equipment (i.e., a computer, software 
 
 **Java Developer —** Assist in developing our internal communication system NetSys and our proxy servers around the globe. Prior experience in the Netty framework is required.
 
-**PHP Developer —** We're looking for developers interested in creating new/revamping existing minigames & MMO-based games! Sufficient experience and knowledge of the PocketMine API (new 4.0 version) are necessary.
+**PHP Developer —** We're looking for developers interested in creating new/revamping existing minigames & MMO-based games! Sufficient experience and knowledge of the PocketMine API (new 5.0 version) are necessary.
 
 **C# Developer —** Got experience in developing C# applications? Put your skills to the test on a launcher and DLL injector—sufficient C# experience is required.
 
