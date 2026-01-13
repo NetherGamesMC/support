@@ -129,7 +129,7 @@ A: Due to low demand and high maintenance costs, we decided to temporarily sunse
 A: Yes, we occasionally offer seasonal sales. However, we do not announce these in advance. Join our Discord server and stay tuned for updates!
 
 **Q: Why is my price not discounted when purchasing a gift?**
-A: Gift codes are exempted from localized pricing (https://ngmc.co/localizedpricing) to prevent abuse.
+A: Gift codes are exempted from localized pricing to prevent abuse.
 
 **Q: My PayPal payments are stuck in a "Pending" state. What should I do?**
 A: Due to technical constraints, you must authorize each new PayPal payment. This will open up a popup window with which your browser may have problems. Be sure that you are not running aggressive popup-blocking extensions. Press the "Reopen Authorization Window" button in the bottom-left if no window appears. If you keep having issues, try purchasing using a card or create a Billing Issue at https://ngmc.co/request.
