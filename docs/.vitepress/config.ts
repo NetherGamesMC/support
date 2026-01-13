@@ -109,7 +109,7 @@ export default {
             provider: 'local'
         },
         footer: {
-            copyright: '© 2025 Helpdesk | <a href="https://nethergames.org">NetherGames Network</a>'
+            copyright: '© 2026 Helpdesk | <a href="https://nethergames.org">NetherGames Network</a>'
         },
         nav: [
             {
