@@ -15,5 +15,5 @@ If your refund is accepted, it will generally take 5-10 business days for the fu
 :::
 
 ::: danger PLEASE NOTE
-We cannot provide any refunds for purchases made with paysafecard.
+We cannot provide any refunds for purchases made with PaysafeCard.
 :::

@@ -114,7 +114,7 @@ A: If the Google Pay button is disabled in the store, please press or hover it f
 A: You or your guardian claimed to your bank that NetherGames charged you without your consent. If you did not receive the service, you should open a Billing Issue at https://ngmc.co/request. Read more at https://ngmc.co/refund.
 
 **Q: What payment methods do you support in the store?**
-A: We only support purchasing using major debit/credit card brands (worldwide, with banks that support international purchases, not very common in, e.g., India, but we are working on integrating with Paytm), Paysafecard, and PayPal. Google Pay, Apple Pay, and PayPal require a valid debit/credit card issued in a supported country.
+A: We only support purchasing using major debit/credit card brands (worldwide, with banks that support international purchases, not very common in, e.g., India, but we are working on integrating with Paytm), PaysafeCard, and PayPal. Google Pay, Apple Pay, and PayPal require a valid debit/credit card issued in a supported country.
 
 **Q: My card is being declined. What should I do?**
 A: This is an issue with your bank. Please make sure to enable international payments with your bank. If the issue remains, contact them for help, specifying the timestamps you attempted to link your card. NetherGames is unable to help you in this case.

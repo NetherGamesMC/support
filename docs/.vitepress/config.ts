@@ -45,7 +45,7 @@ export default {
             { text: 'Connecting on Mobile & Console', link: '/connecting-on-mobile-and-console' },
             { text: 'Contacting Modmail', link: '/contacting-modmail' },
             { text: 'Joining our Discord Server', link: '/joining-our-discord-server' },
-            { text: 'Paying with Paysafecard', link: '/paying-with-paysafecard' },
+            { text: 'Paying with PaysafeCard', link: '/paying-with-paysafecard' },
             { text: 'Voting for the Server', link: '/voting-for-the-server' },
             { text: 'Reporting a Bug', link: '/reporting-a-bug' },
             { text: 'Reporting a Player', link: '/reporting-a-player' },

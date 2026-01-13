@@ -28,13 +28,13 @@ Ranks are not pay-to-win on our servers, nor do they exempt you from any warning
 
 **IF YOU LIVE OUTSIDE AUSTRALIA:** We will comply with all relevant state jurisdictions regarding consumer law if we choose to operate in that state or country. However, customers in the EU or Brazil will waive their Rights to Withdrawal and Regret upon purchase. For EU customers, you can request a full refund within 14 days from the original purchase date. For Brazillian customers, you can request a full refund within 7 days from the original purchase date.
 
-We support three payment gateways in our store, Stripe, PayPal, and paysafecard.
+We support three payment gateways in our store, Stripe, PayPal, and PaysafeCard.
 
 ::: tip ACCIDENTAL PURCHASE?
 We will always provide refunds if a purchase was unauthorized or you change your mind within 5 days of purchase. Open a "Billing Issue" request at [ngmc.co/request](https://ngmc.co/request).
 :::
 
 ::: danger PLEASE NOTE
-We cannot provide any refunds for purchases made with paysafecard.
+We cannot provide any refunds for purchases made with PaysafeCard.
 :::
 

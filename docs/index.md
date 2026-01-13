@@ -78,7 +78,7 @@ hero:
       text: Joining our Discord Server
       link: /joining-our-discord-server
     - theme: alt
-      text: Paying with Paysafecard
+      text: Paying with PaysafeCard
       link: /paying-with-paysafecard
     - theme: alt
       text: Privacy Policy
