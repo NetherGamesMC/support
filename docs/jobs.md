@@ -18,17 +18,18 @@ All staff positions here require applicants to be 13 years or older and register
 :::
 
 ## Staff Positions
+Currently vacant staff positions include:
 
 **Volunteer Positions:**
 * Trainee
 * Support Representative
-* Game Designer
 * Discord Moderator
+* Marketing
+* Beta Tester
 
 **Paid Positions:**
 * Developer
 * Builder
-* Designer
 
 ## Application Process
 
@@ -98,13 +99,33 @@ While we will provide you with the adequate training necessary to take on this v
 
 [Click here to apply](https://ngmc.co/request)
 
+### Beta Tester
+
+::: warning PLEASE NOTE
+Beta Tester applications will close in February 2026.
+:::
+
+As a Beta Tester, you will gain access to our development network to evaluate upcoming features, identify bugs, and help refine overall playability before updates are released to the main network. If you are passionate about testing, want to experience new content ahead of the public, or simply enjoy pushing features to its limit, this role will be an excellent fit for you.
+
+Your main responsibilities will include:
+* Finding bugs in upcoming updates.
+* Discussing potential playability issues of updates.
+
+We're expecting applicants who are active, experienced, and committed to helping us deliver the best possible experience to our players.
+[Click here to apply](https://ngmc.co/request)
+
 ### Game Designer
+
+::: warning PLEASE NOTE
+Game Designer applications are closed for the foreseeable future.
+:::
 
 As a Game Designer on our team, you'll be a volunteer staff member responsible for improving our game modes and content. This role is a great fit for players who are passionate about NetherGames and have a strong understanding of our server.
 
 Your main responsibilities will include:
 * Designing and reviewing existing and new game modes.
 * Analyzing community feedback to understand what players want and need.
+* Organizing tournaments for player engagement.
 
 We're expecting applicants who are active, creative, and committed to helping us deliver the best possible experience to our players.
 [Click here to apply](https://ngmc.co/request)
@@ -147,6 +168,10 @@ While we will provide you with an appropriate platform/server to build your crea
 
 ### Designer
 
+::: warning PLEASE NOTE
+We are currently not accepting new applications for our Designer role.
+:::
+
 Designer is a paid staff position requiring applicants to use their creative skills.
 
 Successful applicants will be accepted into our Design Team, which assists the network by creating/designing custom graphics, skins, and resource/texture packs to be used in-game.
@@ -159,6 +184,3 @@ We will not provide training or necessary equipment (i.e., a computer, software 
 
 **Graphics Design —** Produce custom graphics for advertisements and in-game form images. Photoshop experience necessary.
 
-::: warning PLEASE NOTE
-We are currently not accepting new applications for our Designer role.
-:::
