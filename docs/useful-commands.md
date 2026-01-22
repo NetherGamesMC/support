@@ -71,5 +71,5 @@
 * **/p claim** —  to claim your new plot
 * **/p addhelper** —  add helpers to your plot
 * **/p removehelper** —  remove helpers from your plot
-* **/tptp** or **/tphere** —  sending and accepting teleport requests
+* **/tpto** or **/tphere** —  sending and accepting teleport requests
 * **/vanish** (Legend+) —  your character vanishes from other players
