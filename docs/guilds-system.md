@@ -26,7 +26,11 @@ You can only transfer leadership to someone who has a Legend rank. As the guild 
 
 ## Earning guild experience
 
-Every time you win a game (Bedwars, Conquests, SkyWars, Survival Games, The Bridge), you earn ten guild XP for that win. You do not earn any guild XP if you do not win the match.
+Every time you win a game in (Bedwars, Conquests, SkyWars, Survival Games, The Bridge), you earn 10 guild XP for that win. Every time you win a game in Bedwars Duels and Duels(1v1), you earn 3 guild XP for that win. You do not earn any guild XP if you do not win the match.
+
+::: warning PLEASE NOTE
+The gamemodes which are not mentioned above do not give any guild XP.
+:::
 
 ## Setting a guild MOTD
 
