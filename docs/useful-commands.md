@@ -73,7 +73,3 @@
 * **/p removehelper** —  remove helpers from your plot
 * **/tptp** or **/tphere** —  sending and accepting teleport requests
 * **/vanish** (Legend+) —  your character vanishes from other players
-
-
-* **/feed** (Legend+) — feed yourself when not combat-tagged
-* **/heal** (Legend+) — heal yourself when not combat-tagged
