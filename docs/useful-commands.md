@@ -59,6 +59,11 @@
 * **/sell** — sell your items
 * **/shop** — open the shop GUI
 * **/tpa** — teleport to a player
+* **/trade** — perform a trade
+* **/withdraw** — withdraw money from your bank
+* **/fly** (Legend+) — enable flying
+* **/feed** (Legend+) — feed yourself when not combat-tagged
+* **/heal** (Legend+) — heal yourself when not combat-tagged
 
 ## Creative commands
 
