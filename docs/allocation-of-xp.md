@@ -11,6 +11,8 @@ Below you will find the allocation of XP for each gamemode.
 | Solo    | 9 XP | 1 XP | 1 XP          | 3 XP       | 5 XP|
 | Doubles | 9 XP | 1 XP | 1 XP          | 3 XP       | 5 XP|
 | Squads  | 9 XP | 1 XP | 1 XP          | 3 XP       | 5 XP|
+| 1v1     | 9 XP | 1 XP | 1 XP          | 3 XP       | 5 XP|
+| 2v2     | 9 XP | 1 XP | 1 XP          | 3 XP       | 5 XP|
 
 ## Conquests
 
