@@ -1,21 +1,26 @@
-# Enforcement System
+# New Enforcement System
 
 :::warning PLEASE NOTE
-This enforcement system will be replaced by a new one come the release of our anticheat and our mass unban program. To view the new enforcement system, please click [here](https://support.nethergames.org/enforcement-system).
+This enforcement system is not yet in effect. To view the current enforcement system, please click [here](https://support.nethergames.org/enforcement-system).
 :::
 
 ## Point system
 
 At NetherGames, our enforcement system is points-based. Once you reach a certain amount of points, you will be banned or muted for a set amount of time as follows:
 
-* 2 points = 1 day
-* 4 points = 1 week
-* 6 points = 2 weeks
-* 8 points = 1 month
-* 10 points = 2 months
-* 12 points = 4 months
+* 2 points = 1 week
+* 4 points = 2 weeks
+* 6 points = 1 month
+* 8 points = 2 months
+* 10 points = 4 months
+* 12 points = 6 months
 * 14 points = 8 months
-* 16 points = Indefinite
+* 16 points = 10 months
+* 18 points = 1 year
+
+:::tip PLEASE NOTE
+Any points exceeding 18 will increment the ban duration by one month per point. For example, if you have 20 points, you will be banned for 14 months.
+:::
 
 These thresholds are per-category, meaning if you have one punishment for using cheats and one for teaming in solo mode, you will not be issued a two-week ban, only two separate one-week and one-day bans.
 
@@ -25,7 +30,7 @@ Each offence category is split into many subcategories, providing a more specifi
 
 ### Cheating
 
-Points: 10
+Points: 8
 
 Punishment type: Ban
 
@@ -71,7 +76,7 @@ Punishment type: Mute
 * Inappropriate Language
 * Spamming
 * Discrimination (6 points)
-* Threatening Language (4 points)
+* Threatening Language (6 points)
 
 ### Inappropriate Behaviour
 
@@ -122,28 +127,35 @@ Points: 2 (unless otherwise specified)
 
 Punishment type: Ban
 
-* Abusing Report System
 * Bug Exploiting
-* Credit Farming
 * Inappropriate Nickname/Pet Name
-* Inappropriate Username (16 points, username ban only)
+* Stats and Credit Farming (Repeat offenders will have all positive stats reset)
 * IRL Money Trading (8 points)
+* Inappropriate Username (Permanent ban, username ban only)
+
+:::warning PLEASE NOTE
+Offenders of "Inappropriate Username" will be permanently banned. However, if you change your username, you can appeal the ban and get it lifted.
+:::
 
 ### Enforcement
 
-Points: 16 (unless otherwise specified)
+Points: Permanent (unless otherwise specified)
 
 Punishment type: Ban (unless otherwise specified)
 
-* Ban Evading
-* Chargeback
-* Disturbing the Peace (mute, admin approval only)
 * Mute Evading (4 points)
-* Obstruction of Justice
-* Security Bug Exploiting (admin approval only)
 * Staff Disrespect (4 points, mute)
-* Staff Impersonation (admin approval only)
+* Ban Evading (20 points)
+* Chargeback
+* Obstruction of Justice
+* Disturbing the Peace (mute, admin approval only)
+* Security Bug Exploiting (admin approval only)
+* Staff Impersonation/Defamation (admin approval only)
 * Threat to Community (admin approval only)
+
+:::warning PLEASE NOTE
+Staff Disrespect refers to any form of disrespect towards staff members, including but not limited to verbal abuse, harassment, or any form of communication that is deemed disrespectful by the staff member receiving it.
+:::
 
 ## Point Reduction
 
@@ -153,10 +165,12 @@ Note that while you can reduce the number of points issued to your account, ever
 
 ## Punishments
 
-All punishments issued to an account apply to it and any other associated accounts. For instance, if you have siblings and they also play NetherGames with you, if you are banned or muted, they will also be banned or muted too. Another example is an instance of account sharing. Suppose you previously gave your login details to another player, and they have used your account to join NetherGames. If they are banned or muted, that punishment will apply retrospectively to your account even though you did not commit the offence.
+All punishments issued to an account apply to it and any other associated accounts. For instance, if you have siblings and they also play NetherGames with you, if you are banned or muted, they will also be banned or muted too.
+
+Another example is an instance of account sharing. Suppose you previously gave your login details to another player, and they have used your account to join NetherGames. If they are banned or muted, that punishment will apply retrospectively to your account even though you did not commit the offence. For this reason, we **strongly discourage** account sharing and will not exempt any punishments issued to your account due to account sharing.
 
 ## Evidence
 
 Punishments issued by staff members are supported by evidence collected at the time of the offence being committed. The evidence submitted by staff members is reviewed during the appeals & disputes process by a member of the Appeals & Disputes Division (different from the volunteer who issued the punishment).
 
-Evidence for offences is for internal use only and will not be shared with players or third parties. You will not be able to review the evidence submitted against you.
+Evidence for offences is for internal use only and will not be shared with players or third parties. To protect the privacy of our players, you will not be able to review the evidence submitted against you.

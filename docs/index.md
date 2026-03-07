@@ -66,6 +66,9 @@ hero:
       text: Enforcement System
       link: /enforcement-system
     - theme: alt
+      text: New Enforcement System
+      link: /new-enforcement-system
+    - theme: alt
       text: Applying for Staff
       link: /applying-for-staff
     - theme: alt

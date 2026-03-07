@@ -29,6 +29,7 @@ export default {
         items: [
             { text: 'Terms of Service', link: '/terms-of-service' },
             { text: 'Enforcement System', link: '/enforcement-system' },
+            { text: 'New Enforcement System', link: '/new-enforcement-system' },
             { text: 'Allowed Modifications', link: '/allowed-modifications' },
             { text: 'Refund Policy', link: '/refund-policy' },
             { text: 'Privacy Policy', link: '/privacy-policy' },
