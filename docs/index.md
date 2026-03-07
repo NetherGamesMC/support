@@ -176,8 +176,6 @@ hero:
     - theme: alt
       text: Applying for a Refund
       link: /applying-for-a-refund
-    
-
 
 ---
 

@@ -2,6 +2,8 @@
 
 :::warning PLEASE NOTE
 This enforcement system is not yet in effect. To view the current enforcement system, please click [here](https://support.nethergames.org/enforcement-system).
+
+If you have any questions or concerns regarding the new enforcement system, please feel free to reach out to us through our contacting-modmail.
 :::
 
 ## Point system
@@ -22,7 +24,7 @@ At NetherGames, our enforcement system is points-based. Once you reach a certain
 Any points exceeding 18 will increment the ban duration by one month per point. For example, if you have 20 points, you will be banned for 14 months.
 :::
 
-These thresholds are per-category, meaning if you have one punishment for using cheats and one for teaming in solo mode, you will not be issued a two-week ban, only two separate one-week and one-day bans.
+These thresholds are per-category. This means, if you are punished for using cheats and also for using prohibited addon, you will not receive an 10 point punishment, but rather an 8 point punishment for cheating and a 2 point punishment for using a prohibited addon separately. These punishment will be served consecutively, meaning you will first serve the 8 point punishment, and once that is finished, you will serve the 2 point punishment. In simple terms, you will not be banned for 4 months (10 points) in this example, but rather 1 month and 1 week (8 points and 2 points).
 
 ## Punishments for offences
 
@@ -75,6 +77,7 @@ Punishment type: Mute
 * Disrespect
 * Inappropriate Language
 * Spamming
+* Staff Disrespect (4 points)
 * Discrimination (6 points)
 * Threatening Language (6 points)
 
@@ -89,23 +92,23 @@ Punishment type: Ban
 
 ### Advertising
 
-Points: 4
+Points: 2
 
 Punishment type: Mute
 
-* Advertising Hack Clients
 * Advertising Servers
 * Advertising Websites & Services
+* Advertising Hack Clients (4 points)
 
 ### Inappropriate Build
 
-Points: 4
+Points: 2
 
 Punishment type: Ban
 
 * Advertisement Build
 * Explicit Build
-* Violent Build
+* Violent Build (4 points)
 
 ### Factions & Guilds
 
@@ -118,7 +121,7 @@ Punishment type: Ban
 * Teleport Trapping
 
 ::: warning PLEASE NOTE
-Our staff might reset your positive stats across the network in case of kill farming.
+Our staff may reset your faction stats in the case of unfair gameplay.
 :::
 
 ### Other
@@ -129,9 +132,9 @@ Punishment type: Ban
 
 * Bug Exploiting
 * Inappropriate Nickname/Pet Name
-* Stats and Credit Farming (Repeat offenders will have all positive stats reset)
+* Stats and Credit Farming (4 points, repeat offenders will have all positive stats reset)
 * IRL Money Trading (8 points)
-* Inappropriate Username (Permanent ban, username ban only)
+* Inappropriate Username (Permanent ban)
 
 :::warning PLEASE NOTE
 Offenders of "Inappropriate Username" will be permanently banned. However, if you change your username, you can appeal the ban and get it lifted.
@@ -144,11 +147,9 @@ Points: Permanent (unless otherwise specified)
 Punishment type: Ban (unless otherwise specified)
 
 * Mute Evading (4 points)
-* Staff Disrespect (4 points, mute)
 * Ban Evading (20 points)
 * Chargeback
 * Obstruction of Justice
-* Disturbing the Peace (mute, admin approval only)
 * Security Bug Exploiting (admin approval only)
 * Staff Impersonation/Defamation (admin approval only)
 * Threat to Community (admin approval only)
@@ -165,6 +166,8 @@ Note that while you can reduce the number of points issued to your account, ever
 
 ## Punishments
 
+No punishments issued before the mass unban have been deleted and still reflect against players' records.
+
 All punishments issued to an account apply to it and any other associated accounts. For instance, if you have siblings and they also play NetherGames with you, if you are banned or muted, they will also be banned or muted too.
 
 Another example is an instance of account sharing. Suppose you previously gave your login details to another player, and they have used your account to join NetherGames. If they are banned or muted, that punishment will apply retrospectively to your account even though you did not commit the offence. For this reason, we **strongly discourage** account sharing and will not exempt any punishments issued to your account due to account sharing.
@@ -173,4 +176,4 @@ Another example is an instance of account sharing. Suppose you previously gave y
 
 Punishments issued by staff members are supported by evidence collected at the time of the offence being committed. The evidence submitted by staff members is reviewed during the appeals & disputes process by a member of the Appeals & Disputes Division (different from the volunteer who issued the punishment).
 
-Evidence for offences is for internal use only and will not be shared with players or third parties. To protect the privacy of our players, you will not be able to review the evidence submitted against you.
+Evidence for offences is for internal use only and will not be shared with players or third parties. To protect the privacy and safety of our players, you will not be able to review the evidence submitted against you.
