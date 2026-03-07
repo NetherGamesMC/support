@@ -1,7 +1,7 @@
 # Enforcement System
 
-:::warning PLEASE NOTE
-This enforcement system will be replaced by a new one come the release of our anticheat and our mass unban program. To view the new enforcement system, please click [here](https://support.nethergames.org/enforcement-system).
+::: warning PLEASE NOTE
+This enforcement system will be replaced by a new one upon the release of our anticheat and our mass unban program. To view the new enforcement system, please click [here](https://support.nethergames.org/new-enforcement-system).
 :::
 
 ## Point system

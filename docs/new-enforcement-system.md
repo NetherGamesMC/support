@@ -1,6 +1,6 @@
 # New Enforcement System
 
-:::warning PLEASE NOTE
+::: warning PLEASE NOTE
 This enforcement system is not yet in effect. To view the current enforcement system, please click [here](https://support.nethergames.org/enforcement-system).
 
 If you have any questions or concerns regarding the new enforcement system, please feel free to reach out to us through our contacting-modmail.
@@ -20,7 +20,7 @@ At NetherGames, our enforcement system is points-based. Once you reach a certain
 * 16 points = 10 months
 * 18 points = 1 year
 
-:::tip PLEASE NOTE
+::: tip PLEASE NOTE
 Any points exceeding 18 will increment the ban duration by one month per point. For example, if you have 20 points, you will be banned for 14 months.
 :::
 
@@ -136,7 +136,7 @@ Punishment type: Ban
 * IRL Money Trading (8 points)
 * Inappropriate Username (Permanent ban)
 
-:::warning PLEASE NOTE
+::: warning PLEASE NOTE
 Offenders of "Inappropriate Username" will be permanently banned. However, if you change your username, you can appeal the ban and get it lifted.
 :::
 
@@ -154,7 +154,7 @@ Punishment type: Ban (unless otherwise specified)
 * Staff Impersonation/Defamation (admin approval only)
 * Threat to Community (admin approval only)
 
-:::warning PLEASE NOTE
+::: warning PLEASE NOTE
 Staff Disrespect refers to any form of disrespect towards staff members, including but not limited to verbal abuse, harassment, or any form of communication that is deemed disrespectful by the staff member receiving it.
 :::
 
