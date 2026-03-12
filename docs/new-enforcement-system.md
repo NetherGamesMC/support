@@ -24,7 +24,7 @@ At NetherGames, our enforcement system is points-based. Once you reach a certain
 Any points exceeding 18 will increment the ban duration by one month per point. For example, if you have 20 points, you will be banned for 14 months.
 :::
 
-These thresholds are per-category. This means, if you are punished for using cheats and also for using prohibited addon, you will not receive an 10 point punishment, but rather an 8 point punishment for cheating and a 2 point punishment for using a prohibited addon separately. These punishment will be served consecutively, meaning you will first serve the 8 point punishment, and once that is finished, you will serve the 2 point punishment. In simple terms, you will not be banned for 4 months (10 points) in this example, but rather 1 month and 1 week (8 points and 2 points).
+These thresholds are per-category. This means, if you are punished for using cheats and also for using prohibited addon, you will not receive a 10 point punishment, but rather an 8 point punishment for cheating and a 2 point punishment for using a prohibited addon separately. These punishment will be served consecutively, meaning you will first serve the 8 point punishment, and once that is finished, you will serve the 2 point punishment. In simple terms, you will not be banned for 4 months (10 points) in this example, but rather 1 month and 1 week (8 points and 2 points).
 
 ## Punishments for offences
 
