@@ -92,7 +92,7 @@ Punishment type: Ban
 
 ### Advertising
 
-Points: 2
+Points: 2 (unless otherwise specified)
 
 Punishment type: Mute
 
@@ -102,7 +102,7 @@ Punishment type: Mute
 
 ### Inappropriate Build
 
-Points: 2
+Points: 2 (unless otherwise specified)
 
 Punishment type: Ban
 
@@ -117,7 +117,7 @@ Points: 2
 Punishment type: Ban
 
 * Inappropriate Faction/Guild Name
-* Kill Farming
+* Kill Farming (different from Stats and Credit Farming)
 * Teleport Trapping
 
 ::: warning PLEASE NOTE
