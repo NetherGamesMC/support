@@ -41,7 +41,7 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 * Ability to use emotes
  
 **Opal (40,000 credits)**
-* Access to chat colours: Green, Aqua, Red, Yellow, White, Gold, Light Purple,
+* Access to chat colours: Green, Aqua, Red, Yellow, White, Gold, Light Purple
 * 1.3x XP boost
 * Companion pet
 * Random nick permissions
@@ -62,7 +62,7 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 * Purple Discord role colour
  
 **Sapphire (120,000 credits)**
-* Access to chat colours: Green, Aqua, Red, Yellow, White, Gold, Light Purple, Black, Grey, Blue, Dark
+* Access to chat colours: Green, Aqua, Red, Yellow, White, Gold, Light Purple, Black, Grey, Blue, Dark Blue
 * 1.75x XP boost
 * Pets: companion, zombie, creeper, skeleton, horse, elephant, sheep, iron golem, snow golem
 * Emerald rank permissions
@@ -89,11 +89,20 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 
 ### Bedwars
 
-| Mode    | Bed Broken | Final Kill | Win |
-|---------|------------|------------|-----|
-| Solos   | 5          | 2          | 7   |
-| Doubles | 7          | 3          | 9   |
-| Squads  | 9          | 3          | 11  |
+| Mode    | Bed Broken | Final Kill | Win | Perfect Win |
+|---------|------------|------------|-----|-------------|
+| Solos   | 5          | 2          | 7   | 3           |
+| Doubles | 7          | 3          | 9   | 5           |
+| Squads  | 9          | 3          | 11  | 8           |
+| Duels   | 2          | 1          | 3   | N/A         |
+
+::: info DID YOU KNOW
+A *Perfect Game* is one where over 75% of the game is full.
+
+You can get a *Perfect Win* by winning the game, breaking every other team's bed and getting the final kill on every other player.
+
+Perfect Win credits are a bonus on top of the normal win credits you would have received otherwise. For example, if you win a perfect game of Bedwars Solos, you would receive 7 credits for the win and an additional 3 credits for the perfect win, giving you a total of 10 win credits.
+:::
 
 ### Skywars
 
@@ -108,8 +117,14 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 
 | Mode    | Goal | Regular Win | Perfect Win |
 |---------|------|-------------|-------------|
-| Solos   | 2    | 4           | 8           |
-| Doubles | 4    | 8           | 11          |
+| Solos   | 2    | 4           | 4           |
+| Doubles | 4    | 8           | 3           |
+
+::: info DID YOU KNOW
+You can earn a *Perfect Win* by scoring at least three goals, keeping the opponent at zero, and finishing the match before time runs out.
+
+Perfect Win credits are a bonus on top of the normal win credits you would have received otherwise. For example, if you win a perfect game of The Bridge Solos, you would receive 4 credits for the win and an additional 4 credits for the perfect win, giving you a total of 8 win credits.
+:::
 
 ### Duels
 
