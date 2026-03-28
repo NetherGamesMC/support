@@ -50,7 +50,7 @@ We immediately ban offenders under this regulation.
 
 **8. Follow Discord policies**
 
-You must follow [Discord's Terms of Service and Community Guidelines[(https://dis.gd/tos) while using the NetherGames Discord server.
+You must follow [Discord's Terms of Service and Community Guidelines](https://dis.gd/tos) while using the NetherGames Discord server.
 
 ## Warnings system
 
