@@ -64,3 +64,17 @@
 * **/fly** (Legend+) — enable flying
 * **/feed** (Legend+) — feed yourself when not combat-tagged
 * **/heal** (Legend+) — heal yourself when not combat-tagged
+
+## Creative commands
+
+* **/ci** or **/clearinventory** (Legend+) —  clears your entire inventory
+* **/cd** or **/creativedimension** —  teleports you to Creative Dimension
+* **/mc** or **/megacreative** —  teleports you to Mega Creative
+* **/pp** or **/platinumplots** —  teleports you to Platinum Plots
+* **/p** —  brings up the plot GUI
+* **/p auto** —  automatically finds an available plot
+* **/p claim** —  to claim your new plot
+* **/p addhelper** —  add helpers to your plot
+* **/p removehelper** —  remove helpers from your plot
+* **/tpto** or **/tphere** —  sending and accepting teleport requests
+* **/vanish** (Legend+) —  your character vanishes from other players
