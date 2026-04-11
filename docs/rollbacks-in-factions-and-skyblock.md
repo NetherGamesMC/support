@@ -11,7 +11,7 @@ Once ready, you can apply for a rollback by following these steps:
 
 1. Go to [ngmc.co/request](https://ngmc.co/request)
 2. Login with your Microsoft (Xbox) account you use to play Minecraft with (if you're not already logged in)
-3. Select "Skyblock Rollback or Factions Rollback"
+3. Select either "Skyblock Rollback" or "Factions Rollback"
 5. Fill out the details required to make the application
 
 Once submitted, you will receive a response within 7 days (however we generally will get back to you in a few days) to your email address registered on your Xbox account. You can also check the status of your application anytime by viewing your submissions at [ngmc.co/request](https://ngmc.co/request).
