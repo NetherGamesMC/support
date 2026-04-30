@@ -2,7 +2,7 @@
 
 The following post has been written by our founder Callum, on behalf of the owners of NG - Callum & Dries.
 
-Hi @everyone,
+Hi everyone,
 
 It brings us great sadness to announce this to everyone. On the 28th of June 2026, NetherGames will close forever.
 
@@ -11,7 +11,7 @@ NetherGames first started on January 18th, 2016. For my 11th birthday, I convinc
 
 The early days of NetherGames was a lot of trial and error. Every few months our lobby would get completely griefed by a rogue person we gave OP permissions to and we'd have to actively rebuild it whilst there were hundreds of players using the lobby (for some reason we never considered backing up the world files).
 
-Eventually in 2017 came the Better Together update. This forced all players to login with Xbox, and sadly this killed the player counts for many servers, NetherGames included. So I found another server called GameCraftPE, which was run by @Dries at the time, who had also been struggling with player counts from the new update. We decided to merge the servers together under the NetherGames brand, and NetherGames as you know it today wouldn't exist without him. Dries' technical expertise allowed us to move away from public plugins and build a great Minecraft server fully in-house.
+Eventually in 2017 came the Better Together update. This forced all players to login with Xbox, and sadly this killed the player counts for many servers, NetherGames included. So I found another server called GameCraftPE, which was run by Dries at the time, who had also been struggling with player counts from the new update. We decided to merge the servers together under the NetherGames brand, and NetherGames as you know it today wouldn't exist without him. Dries' technical expertise allowed us to move away from public plugins and build a great Minecraft server fully in-house.
 
 In 2020 & 2021, NetherGames took off whilst everyone was home during the pandemic. Our server experienced incredible growth and we hit a record concurrent player count of 3,314 players! During this time, we had to scale NetherGames incredibly and bring on a lot of new staff to manage our sudden popularity.
 
