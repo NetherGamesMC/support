@@ -2,7 +2,7 @@
 
 The following post has been written by our founder Callum, on behalf of the owners of NG - Callum & Dries.
 
-Hi @everyone,
+Hi everyone,
 
 It brings us great sadness to announce this to everyone. On the 28th of June 2026, NetherGames will close forever.
 
