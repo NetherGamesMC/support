@@ -8,28 +8,32 @@ The following aspects of the network run on seasons.
 
 **Season cycle:** approximately every 4 months
 
-**Current season:** started December 2nd 2024
+**Current season:** May 4th 2026 till June 28th 2026
 
-**Next season:** March 1st 2024
+**Next season:** No further seasons planned
 * Free kits will be awarded to players around February 15th to celeberate the end of the season.
 
 ## Skyblock
 
 **Season cycle:** approximately every 12 months
 
-**Current season:** started December 2nd 2023
+**Current season:** May 4th 2026 till June 28th 2026
 
-**Next season:** To be announced
+**Next season:** No further seasons planned
 
 ## Credits & Tiers
 
 **Season cycle:** every 12 months
 
-**Current season:** started July 1st 2025
+**Current season:**  May 4th 2026 till June 28th 2026
 
-**Next season:** July 1st 2026
+**Next season:** No further seasons planned
 
 Find out more about our credits and tier system [here](https://ngmc.co/tiers).
+
+::: info PLEASE NOTE
+Wondering why no further seasons are planned? Check out [here](https://support.nethergames.org/closure-announcement).
+:::
 
 ## Maps
 
