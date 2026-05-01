@@ -32,7 +32,7 @@ The following aspects of the network run on seasons.
 Find out more about our credits and tier system [here](https://ngmc.co/tiers).
 
 ::: info PLEASE NOTE
-Wondering why no further seasons are planned? Check out [here](https://support.nethergames.org/closure-announcement).
+Wondering why no further seasons are planned? Find out [here](https://support.nethergames.org/closure-announcement).
 :::
 
 ## Maps
