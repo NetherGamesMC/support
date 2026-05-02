@@ -1,46 +1,45 @@
 # Credits and Tiers
 
 ::: info PLEASE NOTE
-A new tiers season has started as of the 1st of July 2025.
-
-The next season is scheduled for the 1st of July 2026.
+Due to the [server closure](https://ngmc.co/closure), we will be resetting credits one final time on Thursday 7th May. Due to the shorter season (from now until the closure), tier requirements have been significantly reduced.
 :::
 
-The credits and tiers are a yearly reward system on NetherGames with each season running from July and finishing in June. The tiers are designed to be an incentive to players, offering them perks without having to purchase a rank.
+The credits and tiers are (usually) a yearly reward system on NetherGames with each season running from July and finishing in June. The tiers are designed to be an incentive to players, offering them perks without having to purchase a rank.
 
 ## Tiers available
 
-* **Steel** (2,500 credits)
-* **Bronze** (5,000 credits)
-* **Silver** (10,000 credits)
-* **Gold** (20,000 credits)
-* **Opal** (40,000 credits)
-* **Amethyst** (80,000 credits)
-* **Sapphire** (120,000 credits)
-* **Diamond** (200,000 credits)
+* **Steel** (500 credits)
+* **Bronze** (1,000 credits)
+* **Silver** (2,000 credits)
+* **Gold** (4,000 credits)
+* **Opal** (7,000 credits)
+* **Amethyst** (10,000 credits)
+* **Sapphire** (15,000 credits)
+* **Diamond** (20,000 credits)
+* **Platinum** (25,000 credits)
 
 ## Associated perks
 
-**Steel (2,500 credits)​**
+**Steel (500 credits)​**
 * Access to chat colours: Green, Aqua, Red
  
-**Bronze (5,000 credits)​**
+**Bronze (1,000 credits)​**
 * Access to chat colours: Green, Aqua, Red, Yellow
 * Yellow nametag
  
-**Silver (10,000 credits)​**
+**Silver (2,000 credits)​**
 * Access to chat colours: Green, Aqua, Red, Yellow, White
 * 1.1x XP boost
 * Silver nametag
  
-**Gold (20,000 credits)​**
+**Gold (4,000 credits)​**
 * Access to chat colours: Green, Aqua, Red, Yellow, White, Gold
 * 1.2x XP boost
 * Gold nametag
 * Chat cooldown decrease (now 2.5 seconds)
 * Ability to use emotes
  
-**Opal (40,000 credits)**
+**Opal (7,000 credits)**
 * Access to chat colours: Green, Aqua, Red, Yellow, White, Gold, Light Purple
 * 1.3x XP boost
 * Companion pet
@@ -50,7 +49,7 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 * Ability to use emotes
 * Blue-Purple Discord role colours
  
-**Amethyst (80,000 credits)**
+**Amethyst (10,000 credits)**
 * Access to chat colours: Green, Aqua, Red, Yellow, White, Gold, Light Purple, Black, Grey, Blue
 * 1.5x XP boost
 * Pets: companion, zombie, creeper, skeleton
@@ -61,7 +60,7 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 * Ability to use emotes
 * Purple Discord role colour
  
-**Sapphire (120,000 credits)**
+**Sapphire (15,000 credits)**
 * Access to chat colours: Green, Aqua, Red, Yellow, White, Gold, Light Purple, Black, Grey, Blue, Dark Blue
 * 1.75x XP boost
 * Pets: companion, zombie, creeper, skeleton, horse, elephant, sheep, iron golem, snow golem
@@ -73,7 +72,7 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 * Ability to use emotes
 * Dark blue Discord role colour
  
-**Diamond (200,000 credits)**
+**Diamond (20,000 credits)**
 * Access to all chat colours and rainbow chat
 * 2x XP boost
 * Access to replays
@@ -84,6 +83,16 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 * Red nametag
 * Ability to use emotes
 * Dark red Discord colour
+
+**Platinum (25,000 credits) *[NEW]***
+* Access to all chat colours and rainbow chat
+* 2.5x XP boost
+* Access to replays
+* Chat cooldown decrease (now 1 second)
+* Titan rank permissions
+* Purple nametag
+* Ability to use emotes
+* Platinum Discord colour
 
 ## Allocation of credits
 
