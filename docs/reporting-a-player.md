@@ -1,6 +1,6 @@
 # Reporting a Player
 
-Before reporting a player, please familiarise yourself with the breachable offences [in-game](https://ngmc.co/vacancies) and on [Discord](https://support.nethergames.org/discord-server-regulations.html).
+Before reporting a player, please familiarise yourself with the breachable offences [in-game](https://support.nethergames.org/enforcement-system) and on [Discord](https://support.nethergames.org/discord-server-regulations.html).
 
 You can report a player by following these steps:
 
