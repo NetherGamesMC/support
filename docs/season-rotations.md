@@ -1,5 +1,9 @@
 # Season Rotations
 
+::: info PLEASE NOTE
+Due to the [server closure](https://ngmc.co/closure), we will have a finale season for all aspects of the network that run on seasons. 
+:::
+
 At NetherGames, we have several aspects of the network which run on season-based resets. This ensures that new players who join the network have greater equality when competing with others.
 
 The following aspects of the network run on seasons.
@@ -25,15 +29,11 @@ The following aspects of the network run on seasons.
 
 **Season cycle:** every 12 months
 
-**Current season:**  May 4th 2026 till June 28th 2026
+**Current season:**  May 7th 2026 till June 28th 2026
 
 **Next season:** No further seasons planned
 
 Find out more about our credits and tier system [here](https://ngmc.co/tiers).
-
-::: info PLEASE NOTE
-Wondering why no further seasons are planned? Find out [here](https://support.nethergames.org/closure-announcement).
-:::
 
 ## Maps
 
