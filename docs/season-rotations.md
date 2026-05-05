@@ -10,7 +10,7 @@ The following aspects of the network run on seasons.
 
 ## Factions
 
-**Season cycle:** approximately every 4 months
+**Season cycle:** (usually) every 4 months
 
 **Current season:** May 4th 2026 till June 28th 2026
 
@@ -19,7 +19,7 @@ The following aspects of the network run on seasons.
 
 ## Skyblock
 
-**Season cycle:** approximately every 12 months
+**Season cycle:** (usually) every 12 months
 
 **Current season:** May 4th 2026 till June 28th 2026
 
@@ -27,7 +27,7 @@ The following aspects of the network run on seasons.
 
 ## Credits & Tiers
 
-**Season cycle:** every 12 months
+**Season cycle:** (usually) every 12 months
 
 **Current season:**  May 7th 2026 till June 28th 2026
 
