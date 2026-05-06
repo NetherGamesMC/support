@@ -1,3 +1,7 @@
+::: warning SERVER CLOSURE
+NetherGames will be closing on the 28th of June 2026. For more information, please read our [Closure Announcement](https://support.nethergames.org/closure-announcement) for more details.
+:::
+
 # Buying a Premium Rank
 
 To buy a rank, open the NetherGames Store.

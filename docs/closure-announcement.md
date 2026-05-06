@@ -1,3 +1,7 @@
+::: info IMPORTANT UPDATE
+For the latest closure details, policy changes, and FAQs, please read our [Closure FAQ and Information](https://support.nethergames.org/closure-info) article.
+:::
+
 # Closure Announcement
 
 The following post has been written by our founder Callum, on behalf of the owners of NG - Callum & Dries.

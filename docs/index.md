@@ -9,6 +9,9 @@ hero:
   tagline: Select from our articles below
   actions:
     - theme: alt
+      text: Server Closure FAQ and Information
+      link: /closure-info
+    - theme: alt
       text: Frequently Asked Questions
       link: /faq
     - theme: alt

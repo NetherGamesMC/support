@@ -9,6 +9,13 @@ export default {
     themeConfig: {
         sidebar: [
         {
+        text: 'Server Closure',
+        items: [
+            { text: 'Closure Announcement', link: '/closure-announcement' },
+            { text: 'Closure FAQ and Information', link: '/closure-info' }
+        ]
+        },
+        {
         text: 'In-game Information',
         items: [
             { text: 'Anti-cheat', link: '/anti-cheat' },
@@ -59,11 +66,9 @@ export default {
         {
         text: 'Applications',
         items: [
-            { text: 'Jobs', link: '/jobs' },
             { text: 'Applying for Staff', link: '/applying-for-staff' },
             { text: 'Applying for a YouTube Rank', link: '/applying-for-a-youtube-rank' },
             { text: 'Partner Program', link: '/partner-program' },
-            { text: 'Trainee Process', link: '/trainee-process' }
         ]
         },  
         {
@@ -88,7 +93,7 @@ export default {
         {
         text: 'Other',
         items: [
-            { text: 'Frequently Asked Quesitons', link: '/faq' },
+            { text: 'Frequently Asked Questions', link: '/faq' },
             { text: 'Nitro Boosting Rewards', link: '/nitro-boosting-rewards' },
             { text: 'Security Bug Bounty', link: '/security-bug-bounty' },
             { text: 'API Documentation & Usage', link: '/api-documentation-and-usage' },
