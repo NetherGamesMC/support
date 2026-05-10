@@ -10,16 +10,15 @@ The following aspects of the network run on seasons.
 
 ## Factions
 
-**Season cycle:** (usually) every 4 months
+**Season:** (usually) every 4 months
 
 **Current season:** May 4th 2026 till June 28th 2026
 
 **Next season:** No further seasons planned
-* Free kits will be awarded to players around February 15th to celeberate the end of the season.
 
 ## Skyblock
 
-**Season cycle:** (usually) every 12 months
+**Season:** (usually) every 12 months
 
 **Current season:** May 4th 2026 till June 28th 2026
 
@@ -27,7 +26,7 @@ The following aspects of the network run on seasons.
 
 ## Credits & Tiers
 
-**Season cycle:** (usually) every 12 months
+**Season:** (usually) every 12 months
 
 **Current season:**  May 7th 2026 till June 28th 2026
 
