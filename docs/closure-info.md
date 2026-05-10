@@ -10,6 +10,8 @@ This article details all policy changes, FAQs, and information related to the cl
 
 ::: details What is happening to NetherGames?
 NetherGames will be closing on the 28th of June 2026. Read our [Closure Announcement](https://support.nethergames.org/closure-announcement) for more details.
+
+**There exist no plans to bring NetherGames back at the current stage.** This is a permanent bon voyage.
 :::
 
 ::: details Will I be refunded for my store purchases?
