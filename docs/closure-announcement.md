@@ -45,7 +45,7 @@ Factions & Skyblock will reset this week and will have a final season running un
 
 More details on how to access everything will be announced closer to the closure.
 
-If you have a Titan subscription that extends past the 28th of June 2026, you'll receive a refund for any unused time. We'll be publishing a support article with full details on this within the coming weeks. We'll also be adding a notice to the store so anyone purchasing a rank is aware of the closure.
+If you have an active Titan subscription that extends past the 28th of June 2026, you'll receive a refund for any unused time. We'll be publishing a support article with full details on this within the coming weeks. We'll also be adding a notice to the store so anyone purchasing a rank is aware of the closure.
 
 Thank you everyone so much for the support along this journey.
 — Callum & Dries
