@@ -1,5 +1,5 @@
 ::: info END OF LIFE
-NetherGames will be closing on the 28th of June 2026. For more details, please read our [Closure Announcement](https://support.nethergames.org/closure-announcement).
+NetherGames closed on the 28th of June 2026. For more details, please read our [Closure Announcement](https://support.nethergames.org/closure-announcement).
 :::
 
 # Closure FAQ and Information
@@ -9,7 +9,7 @@ This article details all policy changes, FAQs, and information related to the cl
 ## FAQ
 
 ::: details What is happening to NetherGames?
-NetherGames will be closing on the 28th of June 2026. Read our [Closure Announcement](https://support.nethergames.org/closure-announcement) for more details.
+NetherGames closed on the 28th of June 2026. Read our [Closure Announcement](https://support.nethergames.org/closure-announcement) for more details.
 :::
 
 ::: details Will I be refunded for my store purchases?
@@ -20,5 +20,9 @@ If you have purchased a **permanent** rank or item during the month of April 202
 
 That being said, if you do not meet the above criteria, you may still attempt to create a refund request; however, we cannot guarantee that it will be approved. We will review all refund requests on a case-by-case basis, and we will do our best to accommodate as many players as possible. Refund requests for purchases before January 1st, 2026 will not be considered.
 
-Players who have purchased temporary ranks (i.e. Titan Rank) will **NOT** be eligible for a full refund. However, any unused time remaining on active temporary ranks after the closure date will be refunded on a prorated basis. (For example, if you recently purchased a 6-month subscription to our Titan Rank and have activated it, you will be refunded for the remaining time after June 28th, 2026.)
+Players who have purchased temporary ranks (i.e. Titan Rank) will **NOT** be eligible for a full refund. However, any unused time remaining on active temporary ranks after the closure date will be refunded on a prorated basis. (For example, if you recently purchased a 6-month subscription to our Titan Rank and have activated it, you have be refunded for the remaining time after June 28th, 2026.)
+:::
+
+::: details I have a question about the closure that is not answered here. How can I contact you?
+If you have a question that is not answered in this article, please contact us on Modmail through our [Discord server](https://ngmc.co/discord). We will do our best to answer your question as soon as possible.
 :::

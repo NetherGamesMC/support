@@ -1,4 +1,4 @@
-::: info IMPORTANT UPDATE
+::: info NETHERGAMES HAS NOW CLOSED
 For the latest closure details, policy changes, and FAQs, please read our [Closure FAQ and Information](https://support.nethergames.org/closure-info) article.
 :::
 
@@ -8,7 +8,7 @@ The following post has been written by our founder Callum, on behalf of the owne
 
 Hi everyone,
 
-It brings us great sadness to announce this to everyone. On the 28th of June 2026, NetherGames will close forever.
+It brings us great sadness to announce this to everyone. On the 28th of June 2026, NetherGames closed forever.
 
 ## A bit of history about NetherGames
 NetherGames first started on January 18th, 2016. For my 11th birthday, I convinced my parents to pay for a hosting provider for a year to run my own server, as I've always loved playing on Minecraft servers and it was a dream to run my own. NetherGames initially started as a small server with friends, running exclusively on a mess of public plugins downloaded from PocketMine forums. Eventually my friends moved on, but I kept running the server. In the early days I had to advertise on bigger servers to get people to join NetherGames, and somehow it worked to the point where we got a player count that actually stayed on the server when I disconnected. The server was first called NetherPvP, as our hosting provider offered free subdomains under anything.nether.co, but they wouldn’t let me choose any subdomain that implied that the server owned the full domain e.g play.nether.co, but eventually I was able to get pvp.nether.co approved, so I named the server "NetherPvP". Eventually we moved on from just PvP so the server renamed to NetherGames and we eventually bought our own domain.
@@ -44,8 +44,6 @@ Factions & Skyblock will reset this week and will have a final season running un
 **So, will NetherGames be dead?** Not entirely. When the server closes, we'll be open sourcing as many of our games we can. That means anyone will be able to host their own matches, run their own events, and keep playing their favourite NetherGames games with friends long after the server is gone. We want NetherGames to live on in whatever form it can.
 
 More details on how to access everything will be announced closer to the closure.
-
-If you have an active Titan subscription that extends past the 28th of June 2026, you'll receive a refund for any unused time. We'll be publishing a support article with full details on this within the coming weeks. We'll also be adding a notice to the store so anyone purchasing a rank is aware of the closure.
 
 Thank you everyone so much for the support along this journey.
 — Callum & Dries

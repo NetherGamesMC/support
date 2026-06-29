@@ -16,47 +16,20 @@ export default {
         ]
         },
         {
-        text: 'In-game Information',
-        items: [
-            { text: 'Anti-cheat', link: '/anti-cheat' },
-            { text: 'Credits & Tiers', link: '/credits-and-tiers' },
-            { text: 'Cosmetic Crate Keys', link: '/cosmetic-crate-keys' },
-            { text: 'Friends System', link: '/friends-system' },
-            { text: 'Guilds System', link: '/guilds-system' },
-            { text: 'In-game Emojis', link: '/in-game-emojis' },
-            { text: 'Map Rotations', link: '/map-rotations' },
-            { text: 'Useful Commands', link: '/useful-commands' },
-            { text: 'Season Rotations', link: '/season-rotations' },
-            { text: 'Allocation of XP', link: '/allocation-of-xp' },
-            { text: 'Regions', link: '/regions'}
-        ]
-        },
-        {
         text: 'Policies',
         items: [
             { text: 'Terms of Service', link: '/terms-of-service' },
-            { text: 'Enforcement System', link: '/enforcement-system' },
-            { text: 'Allowed Modifications', link: '/allowed-modifications' },
             { text: 'Refund Policy', link: '/refund-policy' },
             { text: 'Privacy Policy', link: '/privacy-policy' },
             { text: 'Discord Server Regulations', link: '/discord-server-regulations' },
-            { text: 'Branding Guidelines', link: '/branding-guidelines' },
-            { text: 'Linked Accounts', link: '/linked-accounts' }
+            { text: 'Branding Guidelines', link: '/branding-guidelines' }
         ]
         },
         {
         text: 'Tutorials',
         items: [
-            { text: 'Appealing a Punishment', link: '/appealing-a-punishment' },
-            { text: 'Buying a Premium Rank', link: '/buying-a-premium-rank' },
-            { text: 'Connecting on Mobile & Console', link: '/connecting-on-mobile-and-console' },
             { text: 'Contacting Modmail', link: '/contacting-modmail' },
             { text: 'Joining our Discord Server', link: '/joining-our-discord-server' },
-            { text: 'Paying with PaysafeCard', link: '/paying-with-paysafecard' },
-            { text: 'Voting for the Server', link: '/voting-for-the-server' },
-            { text: 'Reporting a Bug', link: '/reporting-a-bug' },
-            { text: 'Reporting a Player', link: '/reporting-a-player' },
-            { text: 'Submitting Feedback', link: '/submitting-feedback' },
             { text: 'Linking Your NetherGames & Discord Account', link: '/linking-your-nethergames-and-discord-account' },
             { text: 'Titan Rank Questions', link: '/titan-perks-faq' },
             { text: 'Applying for a Refund', link: '/applying-for-a-refund' },
@@ -64,41 +37,10 @@ export default {
         ]
         },
         {
-        text: 'Applications',
-        items: [
-            { text: 'Applying for Staff', link: '/applying-for-staff' },
-            { text: 'Applying for a YouTube Rank', link: '/applying-for-a-youtube-rank' },
-            { text: 'Partner Program', link: '/partner-program' },
-        ]
-        },  
-        {
-        text: 'Troubleshooting',
-        items: [
-            { text: 'This Username Is Already Registered', link: '/this-username-is-already-registered' },
-            { text: 'Troubleshooting Connection Issues', link: '/troubleshooting-connection-issues' },
-            { text: 'Unable to Change My \"About Me\"', link: '/unable-to-change-my-about-me' }
-        ]
-        },  
-        {
-        text: 'Factions & Skyblock',
-        items: [
-            { text: 'Rollbacks in Factions & Skyblock', link: '/rollbacks-in-factions-and-skyblock' },
-            { text: 'Scamming in Factions & Skyblock', link: '/scamming-in-factions-and-skyblock' },
-            { text: 'Skyblock Crates & Enchantments', link: '/skyblock-crates-and-enchantments' },
-            { text: 'Skyblock Kits', link: '/skyblock-kits' },
-            { text: "Skyblock Crate Keys", link: "/skyblock-crate-keys" },
-            { text: "Factions Crate Keys", link: "/factions-crate-keys" }
-        ]
-        },
-        {
         text: 'Other',
         items: [
-            { text: 'Frequently Asked Questions', link: '/faq' },
             { text: 'Nitro Boosting Rewards', link: '/nitro-boosting-rewards' },
-            { text: 'Security Bug Bounty', link: '/security-bug-bounty' },
-            { text: 'API Documentation & Usage', link: '/api-documentation-and-usage' },
-            { text: 'Sending & Receiving Gifts', link: '/sending-and-receiving-gifts' },
-            { text: 'Payment Options in India', link: '/payment-options-in-india' }
+            { text: 'API Documentation & Usage', link: '/api-documentation-and-usage' }
         ]
         },
         ],
@@ -114,6 +56,7 @@ export default {
             provider: 'local'
         },
         footer: {
+            message: 'Thank you for supporting NetherGames Network between 2016 and 2026.',
             copyright: '© 2026 Helpdesk | <a href="https://nethergames.org">NetherGames Network</a>'
         },
         nav: [
